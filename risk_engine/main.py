@@ -1,0 +1,190 @@
+import json
+import os
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
+# ---------------------------------------------------
+# STEP 1 — Load Client Questionnaire JSON
+# ---------------------------------------------------
+
+base_dir = os.path.dirname(__file__)
+json_path = os.path.join(base_dir, "data", "client_data.json")
+
+print("\nStarting Client Risk Analysis Engine\n")
+
+with open(json_path, "r") as file:
+    data = json.load(file)
+
+scores = data["mappedScores"]
+
+# ---------------------------------------------------
+# STEP 2 — Clean Scores
+# ---------------------------------------------------
+
+clean_scores = {}
+
+for key, value in scores.items():
+    if value is not None:
+        clean_scores[key] = value
+
+# ---------------------------------------------------
+# STEP 3 — Load Theme Matrix
+# ---------------------------------------------------
+
+excel_path = os.path.join(base_dir, "config", "theme_matrix.xlsx")
+
+theme_matrix = pd.read_excel(excel_path)
+theme_matrix.columns = theme_matrix.columns.str.strip()
+
+themes = list(theme_matrix.columns[2:])
+
+# ---------------------------------------------------
+# STEP 4 — Initialize Containers
+# ---------------------------------------------------
+
+theme_exposure = {theme: 0 for theme in themes}
+theme_weight_sum = {theme: 0 for theme in themes}
+
+# ---------------------------------------------------
+# STEP 5 — Compute Weighted Theme Exposure
+# ---------------------------------------------------
+
+for index, row in theme_matrix.iterrows():
+
+    question = str(row.iloc[0])
+
+    if question not in clean_scores:
+        continue
+
+    score = clean_scores[question]
+
+    for theme in themes:
+
+        weight = row[theme]
+
+        if pd.notna(weight):
+
+            theme_exposure[theme] += score * weight
+            theme_weight_sum[theme] += weight
+
+# ---------------------------------------------------
+# STEP 6 — Normalize Exposure
+# ---------------------------------------------------
+
+for theme in themes:
+
+    if theme_weight_sum[theme] > 0:
+        theme_exposure[theme] = theme_exposure[theme] / theme_weight_sum[theme]
+
+
+
+# ---------------------------------------------------
+# ---------------------------------------------------
+# STEP 9 — Convert Score → Risk Level
+# ---------------------------------------------------
+
+def risk_level(score):
+
+    if score >= 0.65:
+        return "HIGH"
+    elif score >= 0.35:
+        return "MEDIUM"
+    else:
+        return "LOW"
+
+
+risk_levels = {theme: risk_level(val) for theme, val in theme_exposure.items()}
+
+# ---------------------------------------------------
+# STEP 9B — Print Exposure Summary
+# ---------------------------------------------------
+
+print("\nClient Theme Exposure Summary:\n")
+
+for theme in theme_exposure:
+    print(f"{theme:35}  Score: {theme_exposure[theme]:.3f}  Level: {risk_levels[theme]}")
+
+# ---------------------------------------------------
+# STEP 10 — Radar (Spider) Chart
+# ---------------------------------------------------
+
+labels = list(theme_exposure.keys())
+values = list(theme_exposure.values())
+
+values += values[:1]
+
+angles = np.linspace(0, 2*np.pi, len(labels), endpoint=False).tolist()
+angles += angles[:1]
+
+fig = plt.figure(figsize=(12,8))
+
+ax1 = plt.subplot(121, polar=True)
+
+ax1.plot(angles, values, linewidth=2)
+ax1.fill(angles, values, alpha=0.3)
+
+ax1.set_xticks(angles[:-1])
+ax1.set_xticklabels(labels, fontsize=9)
+
+ax1.set_ylim(0,1)
+
+ax1.set_title(
+"Client Internal Risk Exposure (Radar View)",
+size=14
+)
+
+# ---------------------------------------------------
+# STEP 11 — Risk Level Bar Chart
+# ---------------------------------------------------
+
+ax2 = plt.subplot(122)
+
+themes = list(theme_exposure.keys())
+scores = list(theme_exposure.values())
+
+colors = []
+
+for score in scores:
+
+    if score >= 0.65:
+        colors.append("red")
+    elif score >= 0.35:
+        colors.append("orange")
+    else:
+        colors.append("green")
+
+bars = ax2.barh(themes, scores, color=colors)
+
+ax2.set_xlim(0,1)
+
+ax2.set_title(
+"Client Risk Levels by Internal Theme",
+size=14
+)
+
+ax2.set_xlabel("Exposure Score")
+
+plt.tight_layout()
+
+# ---------------------------------------------------
+# STEP 12 — Save Exposure Results to JSON
+# ---------------------------------------------------
+
+output = []
+
+for theme in theme_exposure:
+    output.append({
+        "internal_theme": theme,
+        "exposure_score": round(theme_exposure[theme], 3),
+        "risk_level": risk_levels[theme]
+    })
+
+output_path = os.path.join(base_dir, "data", "client_theme_exposure.json")
+
+with open(output_path, "w") as f:
+    json.dump(output, f, indent=4)
+
+print("\nClient exposure saved to:", output_path)
+
+plt.show()

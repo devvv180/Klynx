@@ -1,0 +1,62 @@
+[
+    {
+        "internal_theme": "Strategy & Business Model",
+        "exposure_score": 0,
+        "risk_level": "LOW"
+    },
+    {
+        "internal_theme": "Governance, Risk & Compliance",
+        "exposure_score": 0.75,
+        "risk_level": "HIGH"
+    },
+    {
+        "internal_theme": "Legal / Contracts",
+        "exposure_score": 0.607,
+        "risk_level": "MEDIUM"
+    },
+    {
+        "internal_theme": "Cybersecurity",
+        "exposure_score": 0.5,
+        "risk_level": "MEDIUM"
+    },
+    {
+        "internal_theme": "Procurement & Vendor Management",
+        "exposure_score": 0.429,
+        "risk_level": "MEDIUM"
+    },
+    {
+        "internal_theme": "Operations",
+        "exposure_score": 0.513,
+        "risk_level": "MEDIUM"
+    },
+    {
+        "internal_theme": "Finance / Treasury / FP&A",
+        "exposure_score": 0.713,
+        "risk_level": "HIGH"
+    },
+    {
+        "internal_theme": "Business Continuity",
+        "exposure_score": 0.168,
+        "risk_level": "LOW"
+    },
+    {
+        "internal_theme": "Human Resources",
+        "exposure_score": 0.25,
+        "risk_level": "LOW"
+    },
+    {
+        "internal_theme": "Quality & Assurance",
+        "exposure_score": 0.75,
+        "risk_level": "HIGH"
+    },
+    {
+        "internal_theme": "Data Governance",
+        "exposure_score": 0.3,
+        "risk_level": "LOW"
+    },
+    {
+        "internal_theme": "Ethics & Conduct",
+        "exposure_score": 0.5,
+        "risk_level": "MEDIUM"
+    }
+]

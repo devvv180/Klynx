@@ -1,0 +1,702 @@
+[
+    {
+        "event_index": 0,
+        "event_id": "https://www.voanews.com/a/khan-after-putin-visit-pakistan-to-import-wheat-gas-from-russia-/6463734.html",
+        "headline": "Khan After Putin Visit : Pakistan to Import Wheat , Gas from Russia",
+        "structural_domain": "Territorial Annexation & Recognition Disputes",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 1,
+        "event_id": "https://news.yahoo.com/scott-underwood-sanctions-against-russia-231900960.html",
+        "headline": "Scott Underwood : Are sanctions against Russia nothing more than appeasement ? ",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 2,
+        "event_id": "https://www.mirror.co.uk/news/world-news/putins-private-militias-plot-kill-26353302",
+        "headline": "Putin private militia plot to kill Ukrainian President Zelensky within DAYS - World News",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 3,
+        "event_id": "https://townhall.com/tipsheet/landonmion/2022/02/28/ukrainian-military-confirms-soldiers-who-told-russian-warship-to-go-fk-yourself-are-alive-and-well-n2603906",
+        "headline": "Ukrainian Military Confirms Soldiers Who Told Russian Warship to  Go F -- k Yourself  Are  Alive and Well  ",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.22,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 4,
+        "event_id": "https://www.bbc.co.uk/news/uk-scotland-60552427",
+        "headline": "The expat Scots caught up in the Ukraine invasion",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 5,
+        "event_id": "https://www.wtvr.com/news/local-news/his-family-escaped-ukraine-a-week-before-russia-invaded-now-hes-helping-others-get-out",
+        "headline": "His family fled Ukraine before Russia invasion . Now he helping others get out . ",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.32,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 6,
+        "event_id": "https://www.taiwannews.com.tw/en/news/4458149",
+        "headline": "One Putin move and behold : West unity tightens overnight | Taiwan News",
+        "structural_domain": "Territorial Annexation & Recognition Disputes",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.73,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 7,
+        "event_id": "https://www.pghcitypaper.com/pittsburgh/over-70-organizations-demand-colcom-foundation-stop-funding-anti-immigrant-groups/Content?oid=21201599",
+        "headline": "Over 70 organizations demand Colcom Foundation stop funding anti - immigrant groups",
+        "structural_domain": "Sanctions & Counter-Sanctions Escalation",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.65,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 8,
+        "event_id": "https://www.irishtimes.com/news/world/europe/ukraine-accuses-russia-of-killing-civilians-amid-fierce-fighting-for-major-cities-1.4814627",
+        "headline": "Ukraine accuses Russia of killing civilians amid fierce fighting for major cities",
+        "structural_domain": "Financial Weaponization & Capital Controls",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 9,
+        "event_id": "https://www.algemeiner.com/2022/02/28/russian-artillery-pounds-ukraines-kharkiv-as-ceasefire-talks-end-with-no-breakthrough/",
+        "headline": "Russian Artillery Pounds Ukraine Kharkiv as Ceasefire Talks End With No Breakthrough",
+        "structural_domain": "Diplomatic Breakdown & Sovereign Expulsion",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.62,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 10,
+        "event_id": "https://www.krgv.com/news/at-cartel-extermination-site-mexico-nears-100k-missing",
+        "headline": "At cartel extermination site ; Mexico nears 100k missing",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 19.4326,
+        "lon": -99.1332
+    },
+    {
+        "event_index": 11,
+        "event_id": "https://www.mirror.co.uk/news/world-news/ukrainian-civilians-throw-molotov-cocktail-26352915",
+        "headline": "Ukrainian civilians throw molotov cocktail at Russia tank in brave drive - by attack - World News",
+        "structural_domain": "International Legal & War Crime Proceedings",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.32,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 12,
+        "event_id": "https://www.latimes.com/entertainment-arts/music/story/2022-02-28/ukraine-russia-invasion-dee-snider-were-not-gonna-take-it",
+        "headline": "Dee Snider lauds Ukrainians , slams anti - maskers for song use",
+        "structural_domain": "Unknown Domain",
+        "internal_theme": "Operations",
+        "severity_score": 0.0,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 13,
+        "event_id": "https://www.sowetanlive.co.za/news/2022-02-28-un-general-assembly-set-to-isolate-russia-over-ukraine-invasion/",
+        "headline": "UN General Assembly set to isolate Russia over Ukraine invasion",
+        "structural_domain": "Nuclear Deterrence & Escalatory Signaling",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.43,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 14,
+        "event_id": "https://www.insideedition.com/ukraine-un-ambassador-shares-texts-russian-soldier-sent-moments-before-dying-mama-this-is-so-hard",
+        "headline": "Ukraine UN Ambassador Shares Texts Russian Soldier Sent Moments Before Dying :  Mama , This Is So Hard  ",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 15,
+        "event_id": "https://www.sandiegouniontribune.com/news/nation-world/story/2022-02-28/russia-slow-to-win-ukraines-airspace-limiting-war-gains",
+        "headline": "Russia slow to win Ukraine airspace , limiting war gains",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 16,
+        "event_id": "https://www.lagrandeobserver.com/coronavirus/oregon-will-lift-mask-mandate-march-12/article_21bc4f8c-98c9-11ec-8b23-a7ae85659e2e.html",
+        "headline": "Oregon will lift mask mandate March 12",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.12,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 17,
+        "event_id": "https://www.unionrecorder.com/news/director-of-the-u-s-secret-service-visits-georgia-military-college-speaks-to-143rd-corps/article_dfeee11c-98de-11ec-b39a-5b131bd4f145.html",
+        "headline": "Director of the U . S . Secret Service visits Georgia Military College , speaks to 143rd Corps of Cadets",
+        "structural_domain": "Nuclear Deterrence & Escalatory Signaling",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.05,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 18,
+        "event_id": "https://www.algemeiner.com/2022/02/28/israeli-heroines/",
+        "headline": "Israeli Heroines",
+        "structural_domain": "Sovereign Asset Nationalization & Resource Seizure",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 31.7683,
+        "lon": 35.2137
+    },
+    {
+        "event_index": 19,
+        "event_id": "https://www.kdrv.com/news/white-house-responds-to-russias-decision-to-put-deterrence-forces-on-high-alert/article_29842612-d58b-5fd8-acc0-eb3d850a8025.html",
+        "headline": "White House responds to Russia decision to put deterrence forces on high alert",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 20,
+        "event_id": "https://www.weareiowa.com/article/news/nation-world/ukraine/ukraine-slows-russian-advance-into-major-cities/507-28680a41-cc0e-4563-8b35-13ffe48aa60d",
+        "headline": "Ukraine Russia war : Ukraine asks for EU membership",
+        "structural_domain": "Nuclear Deterrence & Escalatory Signaling",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.32,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 21,
+        "event_id": "https://www.wamc.org/commentary-opinion/2022-02-28/ny-lawmakers-return-to-a-changed-world",
+        "headline": "NY lawmakers return - to a changed world",
+        "structural_domain": "Armed Conflict Spectrum (Interstate)",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 22,
+        "event_id": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-retreats-from-daily-highs-but-stays-in-the-green-steady-at-around-1900-202202281944",
+        "headline": "Gold Price Forecast : XAU / USD holds on bullish grounds near $1 , 910",
+        "structural_domain": "Financial Weaponization & Capital Controls",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "severity_score": 0.62,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 23,
+        "event_id": "https://www.theage.com.au/national/nsw/it-s-not-stopping-lismore-residents-unaccounted-for-awaiting-rescue-as-ballina-told-to-evacuate-20220301-p5a0jj.html",
+        "headline": "NSW floods : Lismore residents evacuated ; Ballina issued with evacuation orders",
+        "structural_domain": "Strategic Migration & Forced Displacement",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.63,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 24,
+        "event_id": "https://www.plenglish.com/news/2022/02/28/un-calls-for-progress-in-russia-and-ukraine-peace-talks/",
+        "headline": "UN calls for progress in Russia and Ukraine peace talks",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.32,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 25,
+        "event_id": "https://www.thecentersquare.com/illinois/pritzker-says-there-is-no-conflict-of-interest-with-blind-trust/article_c0ec0088-98de-11ec-ae86-531d76ab3ed5.html",
+        "headline": "Pritzker says there is no conflict of interest with blind trust",
+        "structural_domain": "Sovereign Asset Nationalization & Resource Seizure",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 26,
+        "event_id": "https://www.prnewswire.com/news-releases/coordinated-bargaining-coalition-unions-support-bmwedsmart-mechanical-request-for-an-end-to-mediation-301492123.html",
+        "headline": "Coordinated Bargaining Coalition Unions Support BMWED / SMART Mechanical Request For An End To Mediation",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.32,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 27,
+        "event_id": "http://sacw.net/article14830.html",
+        "headline": "South Asian Doctors call for immediate cessation of Russian military operation against Ukraine & demand immediate resumption of dialogue to avoid unprecedented humanitarian crisis | 28 February 2022",
+        "structural_domain": "Nuclear Deterrence & Escalatory Signaling",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.22,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 28,
+        "event_id": "https://oilprice.com/Energy/Energy-General/Iran-Is-Tantalizingly-Close-To-A-Nuclear-Deal-That-Could-Drag-Oil-Prices-Down.html",
+        "headline": "Iran Is  Tantalizingly Close  To A Nuclear Deal That Could Drag Oil Prices Down",
+        "structural_domain": "Sovereign Asset Nationalization & Resource Seizure",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 35.6892,
+        "lon": 51.389
+    },
+    {
+        "event_index": 29,
+        "event_id": "https://kstp.com/kstp-news/top-news/ukraine-talks-yield-no-breakthrough-as-russians-close-in-2/",
+        "headline": "Ukraine talks yield no breakthrough as Russians close in",
+        "structural_domain": "Nuclear Deterrence & Escalatory Signaling",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 30,
+        "event_id": "https://oilprice.com/Energy/Crude-Oil/Big-Oil-Is-Turning-Its-Back-On-Russia.html",
+        "headline": "Big Oil Is Turning Its Back On Russia",
+        "structural_domain": "Sovereign Asset Nationalization & Resource Seizure",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.73,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 31,
+        "event_id": "http://www.xinhuanet.com/english/20220301/6ff4481c9e5147239f9f0f1feaaba679/c.html",
+        "headline": "Chinese envoy warns against politicization of humanitarian aid to Ukraine - Xinhua",
+        "structural_domain": "Diplomatic Breakdown & Sovereign Expulsion",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.32,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 32,
+        "event_id": "https://www.govexec.com/workforce/2022/02/lawmakers-eye-rolling-back-controversial-va-workforce-law-department-and-union-begin-negotiations/362553/",
+        "headline": "Lawmakers Eye Rolling Back Controversial VA Workforce Law , As the Department and Union Begin Negotiations",
+        "structural_domain": "Defense Mobilization & Readiness Posture",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.43,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 33,
+        "event_id": "https://www.israelnationalnews.com/news/323071",
+        "headline": "Ukraine President urges no - fly zone for Russian aircraft",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 34,
+        "event_id": "http://www.ecns.cn/news/politics/2022-03-01/detail-ihawawkt8344037.shtml",
+        "headline": "Chinese envoy calls for efforts to promote direct negotiations on Ukraine",
+        "structural_domain": "Diplomatic Breakdown & Sovereign Expulsion",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.22,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 35,
+        "event_id": "https://mises.org/power-market/modest-proposal-ukraine-should-sell-donetsk-and-luhansk-russia",
+        "headline": "A Modest Proposal : Ukraine Should Sell Donetsk and Luhansk to Russia . ",
+        "structural_domain": "Territorial Annexation & Recognition Disputes",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 36,
+        "event_id": "https://www.mtpr.org/2022-02-24/photos-ukrainians-seek-shelter-as-security-forces-defend-against-russias-invasion",
+        "headline": "Photos : Ukrainians seek shelter as security forces defend against Russia invasion",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.73,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 37,
+        "event_id": "https://thenationonlineng.net/southeasts-support-for-tinubu-will-be-unprecedented/",
+        "headline": "  Southeast support for Tinubu will be unprecedented  ",
+        "structural_domain": "Territorial Annexation & Recognition Disputes",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 38,
+        "event_id": "https://www.bangkokpost.com/business/2271863/state-agencies-seek-to-boost-egdi-ranking",
+        "headline": "State agencies seek to boost EGDI ranking",
+        "structural_domain": "Sovereign Asset Nationalization & Resource Seizure",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.8,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 39,
+        "event_id": "https://thenationonlineng.net/adamu-storms-out-of-meeting-with-nans-after-students-attack/",
+        "headline": "Adamu storms out of meeting with NANS after student attack",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 40,
+        "event_id": "https://www.cbs8.com/article/news/nation-world/joe-biden-state-of-the-union-ukraine-putin/507-6b76f831-0e49-494e-be4d-e49ac441a598",
+        "headline": "Joe Biden State of the Union 2022 : What to know",
+        "structural_domain": "Territorial Annexation & Recognition Disputes",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.32,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 41,
+        "event_id": "https://www.kclu.org/world/2022-02-28/the-icc-says-it-will-open-an-investigation-into-alleged-war-crimes-in-ukraine",
+        "headline": "The ICC says it will open an investigation into alleged war crimes in Ukraine",
+        "structural_domain": "International Legal & War Crime Proceedings",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.43,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 42,
+        "event_id": "https://www.penarthtimes.co.uk/news/national/19959009.bbc-faces-ban-russia-uk-shuts-rt-liz-truss-warns-mps/",
+        "headline": "BBC faces ban in Russia if united kingdom shuts down RT , Liz Truss warns MPs",
+        "structural_domain": "Nuclear Deterrence & Escalatory Signaling",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 43,
+        "event_id": "https://www.taiwannews.com.tw/en/news/4458271",
+        "headline": "State of the Union : Amid disputes , common cause for Ukraine | Taiwan News",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 44,
+        "event_id": "https://www.prnewswire.com/news-releases/summit-midstream-partners-lp-announces-the-appointment-of-rommel-m-oates-to-the-board-of-directors-of-its-general-partner-301492116.html",
+        "headline": "Summit Midstream Partners , LP Announces the Appointment of Rommel M . Oates to the Board of Directors of its General Partner",
+        "structural_domain": "Sovereign Asset Nationalization & Resource Seizure",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.0,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 45,
+        "event_id": "https://www.latimes.com/business/story/2022-02-28/stocks-swing-oil-rises-russia-sanctions-ukraine-investor-fears",
+        "headline": "Stocks end mixed as U . S . and allies squeeze Russia economy",
+        "structural_domain": "Financial Weaponization & Capital Controls",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "severity_score": 0.8,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 46,
+        "event_id": "https://www.foxbusiness.com/personal-finance/2021-tax-refund-child-tax-credit-payments",
+        "headline": "You could get a smaller tax refund if you received child tax credit payments in 2021",
+        "structural_domain": "Sanctions & Counter-Sanctions Escalation",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.12,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 47,
+        "event_id": "https://www.wbfo.org/2022-02-28/russias-central-bank-doubles-a-key-interest-rate-as-sanctions-spark-economic-turmoil",
+        "headline": "Russia central bank doubles a key interest rate as sanctions spark economic turmoil",
+        "structural_domain": "Financial Weaponization & Capital Controls",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "severity_score": 0.83,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 48,
+        "event_id": "https://www.etftrends.com/energy-infrastructure-channel/what-does-midstream-mlp-consolidation-mean-for-investors/",
+        "headline": "The Advisor Guide to M & A in Midstream / MLP",
+        "structural_domain": "Sovereign Asset Nationalization & Resource Seizure",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.43,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 49,
+        "event_id": "https://www.foxbusiness.com/personal-finance/student-loan-refinance-rates-february-28-2022",
+        "headline": "Student loan refinance rates fall : 5 - year variable rates plunge below 3 % again",
+        "structural_domain": "Financial Weaponization & Capital Controls",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 50,
+        "event_id": "https://www.justicenewsflash.com/2022/02/28/rouble-interest-rates-knock-on-effects-of-sanctions-will-ripple-beyond-russia_20220228169035.html",
+        "headline": "Rouble / interest rates : knock - on effects of sanctions will ripple beyond Russia",
+        "structural_domain": "Financial Weaponization & Capital Controls",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "severity_score": 0.83,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 51,
+        "event_id": "https://drleonardcoldwell.com/2022/02/28/how-to-prepare-for-and-prevent-cyberattacks/",
+        "headline": "How To Prepare For And Prevent Cyberattacks",
+        "structural_domain": "Defense Mobilization & Readiness Posture",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.83,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 52,
+        "event_id": "https://www.capitalfm.co.ke/news/2022/03/oil-and-safe-havens-rally-ruble-sinks-on-russia-sanctions/",
+        "headline": "Oil soars , ruble dives on fallout from Russia sanctions",
+        "structural_domain": "Sanctions & Counter-Sanctions Escalation",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.83,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 53,
+        "event_id": "https://www.hngnews.com/deforest_times/news/business/article_b7aa3f9e-98d4-11ec-b095-bb04b62b62b3.html",
+        "headline": "Chevron acquires Renewable Energy Group",
+        "structural_domain": "Sovereign Asset Nationalization & Resource Seizure",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 54,
+        "event_id": "https://island.lk/slt-mobitel-annual-report-2020-records-another-accolade-with-gold-at-ca-sri-lanka-annual-report-awards-2021/",
+        "headline": "SLT - MOBITEL Annual Report 2020 records another accolade with Gold at CA Sri Lanka Annual Report Awards 2021",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.2,
+        "lat": 6.9271,
+        "lon": 79.8612
+    },
+    {
+        "event_index": 55,
+        "event_id": "https://triblive.com/business/come-join-my-derby-of-economic-forecasting-talent/",
+        "headline": "Come join my Derby of Economic Forecasting Talent",
+        "structural_domain": "Sanctions & Counter-Sanctions Escalation",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.2,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 56,
+        "event_id": "https://pjmedia.com/news-and-politics/robert-spencer/2022/02/28/new-cnn-poll-americans-favor-russia-sanctions-still-dont-trust-biden-n1562441",
+        "headline": "CNN : Americans Support Sanctions , But Distrust Biden \u2013 PJ Media",
+        "structural_domain": "Sanctions & Counter-Sanctions Escalation",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 57,
+        "event_id": "https://journalrecord.com/2022/02/28/ruble-plummets-as-sanctions-bite-oil-prices-rise/",
+        "headline": "Ruble plummets as sanctions bite ; oil prices rise",
+        "structural_domain": "Sanctions & Counter-Sanctions Escalation",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.83,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 58,
+        "event_id": "https://www.hellenicshippingnews.com/freight-operators-seek-routes-around-ukraine-russia/",
+        "headline": "Freight Operators Seek Routes Around Ukraine , Russia | Hellenic Shipping News Worldwide",
+        "structural_domain": "Diplomatic Breakdown & Sovereign Expulsion",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.62,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 59,
+        "event_id": "http://www.bjreview.com.cn/./Opinion/Fact_Check/202202/t20220228_800277160.html",
+        "headline": "Deflation alert -- Beijing Review",
+        "structural_domain": "Financial Weaponization & Capital Controls",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "severity_score": 0.6,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 60,
+        "event_id": "https://island.lk/top-academic-to-lead-combank-board/",
+        "headline": "Top academic to lead ComBank Board",
+        "structural_domain": "Sovereign Asset Nationalization & Resource Seizure",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 61,
+        "event_id": "https://www.thehindu.com/business/Industry/burmans-of-dabur-group-make-open-offer-for-eveready-industries-takeover-bid/article65095132.ece",
+        "headline": "Burmans of Dabur group make open offer for Eveready Industries takeover bid",
+        "structural_domain": "Sovereign Asset Nationalization & Resource Seizure",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.52,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 62,
+        "event_id": "https://island.lk/68th-annual-general-meeting-of-skal-international-colombo/",
+        "headline": "68th Annual General Meeting of Skal International Colombo",
+        "structural_domain": "International Legal & War Crime Proceedings",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.2,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 63,
+        "event_id": "https://www.natlawreview.com:443/article/united-states-issues-significant-bank-sanctions-and-historic-export-controls",
+        "headline": "United States Issues Significant Bank Sanctions",
+        "structural_domain": "Sanctions & Counter-Sanctions Escalation",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.8,
+        "lat": 38.9072,
+        "lon": -77.0369
+    },
+    {
+        "event_index": 64,
+        "event_id": "https://www.americanbanker.com/news/tds-ambitious-timetable-for-closing-first-horizon-deal-raises-eyebrows",
+        "headline": "TD ambitious timetable for closing First Horizon deal raises eyebrows",
+        "structural_domain": "Financial Weaponization & Capital Controls",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "severity_score": 0.62,
+        "lat": 38.9072,
+        "lon": -77.0369
+    },
+    {
+        "event_index": 65,
+        "event_id": "https://www.natlawreview.com:443/article/weekly-irs-roundup-february-20-february-26-2022",
+        "headline": "Internal Revenue Service and Tax Law Legal News Roundups",
+        "structural_domain": "Sanctions & Counter-Sanctions Escalation",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 66,
+        "event_id": "https://mises.org/wire/bubble-bust-japan",
+        "headline": "Bubble - Bust in Japan | Mises Wire",
+        "structural_domain": "Nuclear Deterrence & Escalatory Signaling",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 35.6762,
+        "lon": 139.6503
+    },
+    {
+        "event_index": 67,
+        "event_id": "https://www.nbcconnecticut.com/news/business/money-report/asia-pacific-markets-set-to-gain-as-investors-weigh-russia-ukraine-conflict/2730008/",
+        "headline": "Asia - Pacific Markets Set to Gain as Investors Weigh Russia - Ukraine Conflict",
+        "structural_domain": "Trade War & Tariff Weaponization",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 50.4501,
+        "lon": 30.5234
+    },
+    {
+        "event_index": 68,
+        "event_id": "https://www.nbcconnecticut.com/news/business/money-report/economic-sanctions-send-russians-scrambling-for-dollars-euros-and-other-currencies-as-ruble-plunges/2729790/",
+        "headline": "Economic Sanctions Cripple Russian Economy as Ruble Plunges , Interest Rates Soar",
+        "structural_domain": "Financial Weaponization & Capital Controls",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "severity_score": 0.83,
+        "lat": 55.7558,
+        "lon": 37.6173
+    },
+    {
+        "event_index": 69,
+        "event_id": "https://island.lk/russian-ukrainian-crisis-likely-to-affect-multiple-sectors-in-sri-lanka/",
+        "headline": "Russian - Ukrainian crisis likely to affect multiple sectors in Sri Lanka",
+        "structural_domain": "International Legal & War Crime Proceedings",
+        "internal_theme": "Strategy & Business Model",
+        "severity_score": 0.42,
+        "lat": 55.7558,
+        "lon": 37.6173
+    }
+]

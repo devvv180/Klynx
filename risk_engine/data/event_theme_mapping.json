@@ -1,0 +1,1882 @@
+[
+    {
+        "event_index": 0,
+        "headline": "A historical challenge from Kim: The nuclear button is on my desk.",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 1,
+        "headline": "GigaDevice Strengthens Global Presence at Embedded World 2026, Showcasing System-Level Innovations for Humanoid Robotics, Industry, and Edge AI",
+        "structural_domain": "Industrial & Manufacturing Base Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 2,
+        "headline": "Guangdong Signals Push Into Advanced Technologies as China Prepares Next Five-year Plan",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 3,
+        "headline": "A 5.1 magnitude earthquake in Denizli! It was also felt in surrounding provinces.",
+        "structural_domain": "Wildfire Regime Escalation",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 4,
+        "headline": "ENHERTU\u00ae Granted Priority Review in the U.S. as Post-Neoadjuvant Treatment for Patients with HER2 Positive Early Breast Cancer",
+        "structural_domain": "Policy Signal Volatility Mechanism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 5,
+        "headline": "GenSight Biologics Provides Updates about GS010/LUMEVOQ\u00ae Early Access Programs and the Ongoing REVISE Study",
+        "structural_domain": "Regulatory Access Restriction Mechanism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 6,
+        "headline": "Genentech Provides Update on Phase III persevERA Study in ER-positive Advanced Breast Cancer",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 7,
+        "headline": "Community first-responders in cardiac arrest. Effect on survival? A comprehensive Danish study of 29,445 out-of-hospital cardiac arrests.",
+        "structural_domain": "Healthcare Infrastructure System Failure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 8,
+        "headline": "KYOCERA Document Solutions \u2013 \u201cFOREARTH\u201d adopted for ANREALAGE\u2019s Paris Fashion Week AUTUMN/WINTER 2026-27 collection, presented in collaboration with \u201cGHOST IN THE SHELL\u201d",
+        "structural_domain": "Platform Ecosystem Fragmentation",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 9,
+        "headline": "Galderma Introduces Cetaphil AM/PM Antioxidant Serums, a New Science-Driven Defense and Recovery System for Sensitive Skin",
+        "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 10,
+        "headline": "Crisis on the 10th day of the Iran war! Israel's move drove Trump crazy.",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 11,
+        "headline": "Video message from \u0130mamo\u011flu before the \u0130BB trial: I will not defend myself.",
+        "structural_domain": "Civic Institution Trust Erosion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 12,
+        "headline": "The war has hit the markets hard! Historic rise in oil prices.",
+        "structural_domain": "Commodity Supercycle Shock",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 13,
+        "headline": "SkyDrive Reaches Agreement with Japan\u2019s Civil Aviation Authority on its General Certification Plan, a Core Element of the Type Certification Process",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 14,
+        "headline": "Iran names slain Khamenei\u2019s son supreme leader while oil soars above $100",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 15,
+        "headline": "KSrelief Implements 1,244 Projects Worth Nearly $1 Billion Supporting Women\u2019s Contributions to Sustainable Development Worldwide",
+        "structural_domain": "Climate-Driven Migration Pressure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 16,
+        "headline": "Trump\u2019s Iran war drags the world into his tear-it-down politics",
+        "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 17,
+        "headline": "A critical step from Turkey while the war continues! The F-16 is departing today.",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 18,
+        "headline": "'When will the war end?' Trump dodged the question.",
+        "structural_domain": "Policy Signal Volatility Mechanism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 19,
+        "headline": "Madinah Bus Project Extends Shuttle Service Hours during Ramadan Last Ten Days",
+        "structural_domain": "Transportation Network Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 20,
+        "headline": "What we know on the 10th day of the US and Israel\u2019s war with Iran",
+        "structural_domain": "Commodity Supercycle Shock",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 21,
+        "headline": "Hezbollah has changed tactics! They have started full-scale guerrilla warfare.",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 22,
+        "headline": "Israel attempted to infiltrate the country, their helicopter was shot down! There are dozens of dead.",
+        "structural_domain": "Climate-Driven Migration Pressure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 23,
+        "headline": "ScienceLogic to Host Opening Ceremony at New Nanakramguda, Hyderabad Office on March 10",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 24,
+        "headline": "Hours-long delays at airports Sunday due to TSA shortages as DHS shutdown shows no sign of ending",
+        "structural_domain": "Transportation Network Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 25,
+        "headline": "Municipalities Ministry Boosts Readiness for Final 10 Days of Ramadan to Serve Umrah Performers",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 26,
+        "headline": "Sport Ministry Announces Extension of Rectification Period for Professional Licensing and Program Accreditation Regulations",
+        "structural_domain": "Policy Signal Volatility Mechanism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 27,
+        "headline": "Huge fire in Scotland triggers train chaos as historic building partially collapses",
+        "structural_domain": "Urban Utilities & Municipal Services Breakdown",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 28,
+        "headline": "Over 1,000 Saudi Judges Enroll in Higher Diploma in Civil Law",
+        "structural_domain": "Civic Institution Trust Erosion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 29,
+        "headline": "Rochester Electronics Launches Refreshed South Korean Website",
+        "structural_domain": "Platform Ecosystem Fragmentation",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 30,
+        "headline": "AmMetLife Insurance appoints Wan Saifulrizal Wan Ismail as Chief Executive Officer",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 31,
+        "headline": "BCS Investors Have Opportunity to Join Barclays PLC Fraud Investigation with the Schall Law Firm",
+        "structural_domain": "Industry Governance & Transparency Failures",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 32,
+        "headline": "ELWT Investors Have Opportunity to Join Elauwit Connection, Inc. Fraud Investigation with the Schall Law Firm",
+        "structural_domain": "Industry Governance & Transparency Failures",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 33,
+        "headline": "DINO Investors Have Opportunity to Join HF Sinclair Corporation Fraud Investigation with the Schall Law Firm",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 34,
+        "headline": "Targeted detection of Mycobacterium tuberculosis MPT64 antigen using an antibody-coated nanoporous anodic alumina biosensor: A novel approach for tuberculosis screening.",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 35,
+        "headline": "Utilizing virtual reality to improve ICU visual displays",
+        "structural_domain": "Transportation Network Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 36,
+        "headline": "Rapid Identification of HIV Among People Who Inject Drugs: Tampa, FL, 2024",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 37,
+        "headline": "Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: Completes Delivery of Master Robot and Pre-Delivery of Aegis Robot to NS Federation in Texas, Expanding Education and Performance Scenarios for EAI Robotics",
+        "structural_domain": "Industrial & Manufacturing Base Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 38,
+        "headline": "BFAM Investors Have Opportunity to Join Bright Horizons Family Solutions Inc. Fraud Investigation with the Schall Law Firm",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 39,
+        "headline": "PRCT Investors Have Opportunity to Join PROCEPT BioRobotics Corporation Fraud Investigation with the Schall Law Firm",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 40,
+        "headline": "Stream macroinvertebrate responses vary with region, land use and management practice type.",
+        "structural_domain": "Water Stress & Hydrological Instability",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 41,
+        "headline": "Cruises Boost Economic and Recreational Activity in Jubail Industrial City",
+        "structural_domain": "Transportation Network Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 42,
+        "headline": "New KSrelief Humanitarian Aid Convoy Arrives in Gaza Strip",
+        "structural_domain": "Migration & Internal Displacement",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 43,
+        "headline": "Ramadan Market in Farasan Islands Boosts Tourism Appeal",
+        "structural_domain": "Regulatory Access Restriction Mechanism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 44,
+        "headline": "Kuwaiti Defense Ministry: Three Ballistic Missiles Destroyed in Past 24 Hours",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 45,
+        "headline": "India: We provided Israel with the exact location of the Iranian ship.",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 46,
+        "headline": "Week 2 of Iran: Military momentum meets economic and political reality",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 47,
+        "headline": "Oil prices soar past $100 a barrel as war escalates in Iran",
+        "structural_domain": "Commodity Supercycle Shock",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 48,
+        "headline": "Urgent call from the UAE to South Korea: Accelerate the delivery.",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 49,
+        "headline": "Iranian supreme leader\u2019s son takes country\u2019s top job, cementing hardliners\u2019 grip on power",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 50,
+        "headline": "KSrelief Distributes Food Baskets to Displaced Families in Northern Gaza Strip",
+        "structural_domain": "Migration & Internal Displacement",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 51,
+        "headline": "GCC Secretary General Condemns Iranian Attack on Residential Site in Al-Kharj Resulting in Two Deaths and 12 Injuries",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 52,
+        "headline": "Rural Parks and Farms in Qassim Attract Families and Youth During the Holy Month",
+        "structural_domain": "Climate-Driven Migration Pressure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 53,
+        "headline": "Mawani Records 20.89% Growth in Container Throughput for February 2026 Year-on-Year",
+        "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 54,
+        "headline": "Red Sea Museum in Historic Jeddah Highlights Maritime, Civilizational Heritage Through Cultural Programs, Specialized Exhibitions",
+        "structural_domain": "Transportation Network Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 55,
+        "headline": "You've never seen anything like this before! Referee reaction from Sadettin Saran.",
+        "structural_domain": "Sovereign Debt Distress",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 56,
+        "headline": "Alarm in the USA! Planes held on the runway, the entire airport evacuated.",
+        "structural_domain": "Transportation Network Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 57,
+        "headline": "The new religious leader in Iran is Mojtaba Khamenei.",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 58,
+        "headline": "The number of US soldiers who lost their lives in the Iran war has risen to 7.",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 59,
+        "headline": "Seventh US service member killed in Iran war after being wounded in attack in Saudi Arabia",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 60,
+        "headline": "Macron spoke on the phone with Peze\u015fkiyan.",
+        "structural_domain": "Armed Conflict Spectrum (Interstate)",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 61,
+        "headline": "GCC permanent representatives meet UN chief over Iranian aggression",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 62,
+        "headline": "Abdullah bin Zayed meets Slovak Prime Minister during working visit to Bratislava",
+        "structural_domain": "Sovereign Debt Distress",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 63,
+        "headline": "Hamad Al Sharqi receives media figures, stresses role of positive media in society",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 64,
+        "headline": "CDA teams up with \u2018P.O.D.FEST Global\u2019 to unveil plans for global festival dedicated to People of Determination",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 65,
+        "headline": "Italian Prime Minister condemns continued Iranian attacks in phone call with UAE President and affirms Italy\u2019s solidarity with the UAE",
+        "structural_domain": "Sovereign Debt Distress",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 66,
+        "headline": "Khaled bin Mohamed bin Zayed reviews emergency readiness, response ecosystem at Unified Medical Operations Command Centre in Abu Dhabi",
+        "structural_domain": "Healthcare Infrastructure System Failure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 67,
+        "headline": "Joseph Magnus & Co. and Fox & Oden Launch in Australia with Honey Barrel",
+        "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 68,
+        "headline": "A suspect has been arrested for assaulting a child in Ba\u015fak\u015fehir.",
+        "structural_domain": "Social Stability & Civil Unrest",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Human Resources",
+        "internal_theme": "Human Resources",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 69,
+        "headline": "After the US-Israel attacks on Iran, Iraq's oil production decreased by 60%.",
+        "structural_domain": "Commodity Supercycle Shock",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 70,
+        "headline": "Military ammunition fell in a residential area in Saudi Arabia! 2 people died, 12 people were injured.",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 71,
+        "headline": "Turkey will deploy 6 F-16s to the TRNC.",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 72,
+        "headline": "Al-Arak Village: The Historic Heart of Miswak Production in AlUla",
+        "structural_domain": "Climate-Driven Migration Pressure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 73,
+        "headline": "Arab League Secretary-General Condemns Iranian Escalation Against Vital Targets in Gulf Region",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 74,
+        "headline": "A radiation facility was attacked in the city of Isfahan, Iran.",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 75,
+        "headline": "Spain\u2019s S\u00e1nchez doubles down on rejection of Trump\u2019s war with Iran",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 76,
+        "headline": "Bursaspor, which ended its rival's 835-day streak, saw its fans and players come back from the dead at the end of the match.",
+        "structural_domain": "Social Stability & Civil Unrest",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Human Resources",
+        "internal_theme": "Human Resources",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 77,
+        "headline": "CENTCOM's threat of 'We can target civilians in Iran.'",
+        "structural_domain": "Social Stability & Civil Unrest",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Human Resources",
+        "internal_theme": "Human Resources",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 78,
+        "headline": "New attack from Israel: Revolutionary Guards headquarters hit.",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 79,
+        "headline": "Israel's first soldier casualty in the war! The number was announced by the army.",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 80,
+        "headline": "Smoke is rising from the oil depot hit in Iran! There is a critical warning for citizens.",
+        "structural_domain": "Wildfire Regime Escalation",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 81,
+        "headline": "Mansour bin Zayed receives phone call from Kuwaiti Prime Minister",
+        "structural_domain": "Sovereign Debt Distress",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 82,
+        "headline": "UAE President and UK Prime Minister discuss regional developments and their implications for security and stability",
+        "structural_domain": "Sovereign Debt Distress",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 83,
+        "headline": "UAE consolidates its position as global hub for cross-border e-commerce",
+        "structural_domain": "Platform Ecosystem Fragmentation",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 84,
+        "headline": "UAE President receives phone call from President of the Council of Ministers of Togo condemning Iranian attacks targeting the UAE",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 85,
+        "headline": "Statement by the Ministry of Foreign Affairs",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 86,
+        "headline": "UAE selected member of UN's Consultative Advisory Board on Fundamental Principles of Official Statistics",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 87,
+        "headline": "SAP Relocates MENA Regional Headquarters to Misk City Offices",
+        "structural_domain": "Climate-Driven Migration Pressure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 88,
+        "headline": "Madinah\u2019s Al-Safiah Health Center Serves Nearly 6,000 Visitors During First Half of Ramadan",
+        "structural_domain": "Commodity Supercycle Shock",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 89,
+        "headline": "GCC Secretary-General Calls for Arab Solidarity Against Iranian Aggression at Emergency Meeting",
+        "structural_domain": "Climate-Driven Migration Pressure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 90,
+        "headline": "Saudi Arabia Leads Globally in Women\u2019s AI Empowerment with Groundbreaking Initiatives",
+        "structural_domain": "Technology Skills, Workforce & Knowledge Continuity",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Human Resources",
+        "internal_theme": "Human Resources",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 91,
+        "headline": "300 Years of Heritage: Al-Taboot Mosque Restored under Prince Mohammed bin Salman Project",
+        "structural_domain": "Sovereign Debt Distress",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 92,
+        "headline": "Human Rights Society President: Legislative Developments in Saudi Arabia Boost Protection of Women\u2019s Rights, Reinforce Legal Guarantees",
+        "structural_domain": "Cultural & Identity Polarization",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 93,
+        "headline": "Image from Iran: Rushed to the gas station after hearing the news.",
+        "structural_domain": "Energy Production & Refining Infrastructure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 94,
+        "headline": "The Iran war has cost the US dearly! The figures are increasing exponentially every second.",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 95,
+        "headline": "Digital Platforms Reshape Ramadan Gaming Traditions",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 96,
+        "headline": "Iran struck at the heart of Israel! The destruction in the city is massive, a giant crater has formed.",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 97,
+        "headline": "Al-Ahsa Heritage Sites Adorned with Ramadan Decorations",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 98,
+        "headline": "Scouts Enhance Worshipper Experience at Grand Mosque During Ramadan",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 99,
+        "headline": "Xsolla Celebrates International Women\u2019s Day by Spotlighting Women in Games and Advancing Its Vision for Female Leadership",
+        "structural_domain": "Platform Ecosystem Fragmentation",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 100,
+        "headline": "The country stained with the blood of war! The toll has reached terrifying proportions.",
+        "structural_domain": "Climate-Driven Migration Pressure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 101,
+        "headline": "[Reduction in hospital stay after the implementation of a clinical pathway for patients with pacemaker implantation].",
+        "structural_domain": "Healthcare Infrastructure System Failure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 102,
+        "headline": "Saudi Arabia Reinforces Global Leadership in Open Data to Drive Sustainable Development",
+        "structural_domain": "Regulatory Information Control Mechanism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 103,
+        "headline": "Nearly Two Million Visitors to Makkah Miqats Through Mid-Ramadan",
+        "structural_domain": "Heat Stress & Habitability Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 104,
+        "headline": "Makkah Transport System Serves over 31 Million Passengers in First Third of Ramadan",
+        "structural_domain": "Transportation Network Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 105,
+        "headline": "Makkah Public Markets Inspected to Maintain Quality and Services",
+        "structural_domain": "Industry Reputation & Trust Capital Erosion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 106,
+        "headline": "Diesel prices are climbing even faster than gas prices. Here\u2019s why you should care",
+        "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 107,
+        "headline": "After the rivers of fire, a rain of oil! A 'poison' warning has come from the Iranian Red Crescent.",
+        "structural_domain": "Wildfire Regime Escalation",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 108,
+        "headline": "Alliances were based on interests: Here are the 2 countries that sold Iran in the life-and-death struggle.",
+        "structural_domain": "Diplomatic Breakdown & Sovereign Expulsion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 109,
+        "headline": "Design, synthesis and pharmacological evaluation of phenylthiophene-2-carboxamide-based RSV fusion protein inhibitors.",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 110,
+        "headline": "Adult neurogenesis: New neurons, new opportunities.",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 111,
+        "headline": "Three injuries, material damage to university building in Bahrain",
+        "structural_domain": "Acute Natural Hazard Events",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 112,
+        "headline": "Maternal Obesity, Gestational Diabetes Mellitus and Offspring's Body Mass Index Trajectories From Birth to Age 6 Years: Glucose in Relation to Women and Babies' Health (GrownB) Study",
+        "structural_domain": "Demographic & Population Dynamics",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Human Resources",
+        "internal_theme": "Human Resources",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 113,
+        "headline": "Two Cases of Successful Kidney Transplantation From a 39-Year-Old Male Deceased Donor With Marfan Syndrome: A Case Series",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 114,
+        "headline": "Details that will create a buzz regarding the drone that struck the British base.",
+        "structural_domain": "Airspace Intrusion & Denial",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 115,
+        "headline": "In-incubator continuous and endpoint monitoring of angiogenesis using a chip-sized holographic microscope",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 116,
+        "headline": "Evaluating the effect of two different training interventions on improving vaginal twin birth rates and provider confidence and knowledge levels: A pre- and post-intervention study",
+        "structural_domain": "Demographic & Population Dynamics",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Human Resources",
+        "internal_theme": "Human Resources",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 117,
+        "headline": "Electron transfer-driven ultrathin nanozyme synergizes with nucleic acid amplification for bladder cancer screening.",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 118,
+        "headline": "Screening of binding by antidiabetic drugs to normal vs AGE-modified human serum albumin through covalent immobilization and microscale affinity chromatography",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 119,
+        "headline": "Deciphering Mn(II)/peroxymonosulfate system with nitrilotriacetic acid to degrade antibiotics: Roles of Mn species and interference of protein-like DOM.",
+        "structural_domain": "Water & Wastewater Infrastructure Failure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 120,
+        "headline": "Application of Modified Life's Essential 8 Framework in Sleep Surgery Clinic Patients.",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 121,
+        "headline": "It was expressed for the first time! Special forces are involved in the war, there is a single purpose.",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 122,
+        "headline": "The Kremlin accidentally published it! Putin will not like it at all.",
+        "structural_domain": "Sovereign Debt Distress",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 123,
+        "headline": "Integrated Assessment of Three NDSRIs Through CPCA Prioritization, In Silico Toxicity Assessment, and Stability Indicating LC-MS/MS Method for Avatrombopag Maleate.",
+        "structural_domain": "Digital Supply Chain Dependency",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 124,
+        "headline": "WAMY Commends Saudi Arabia's Pioneering Model for Women's Empowerment on International Women's Day",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 125,
+        "headline": "Children\u2019s Nursery Centers at Two Holy Mosques Provide Safe and Enriching Environment",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 126,
+        "headline": "Kidana Station Welcomes 2.5 Million Visitors in First Half of Ramadan",
+        "structural_domain": "Climate-Driven Migration Pressure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 127,
+        "headline": "Al-Ahsa Celebrates Arabian Horse Heritage at International Beauty Championship",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 128,
+        "headline": "SDRPY Handball Championship Continues in Marib Governorate to Support Yemeni Youth",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 129,
+        "headline": "Islamic University of Madinah Students Volunteer at Prophet\u2019s Mosque During Ramadan",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 130,
+        "headline": "Iran's new religious leader has been chosen! His name will not be disclosed for security reasons.",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 131,
+        "headline": "SEF Launches 2026 Saudi Esports League Season with SAR4 Million in Prizes",
+        "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 132,
+        "headline": "Imam Turki bin Abdullah Royal Reserve Launches Updated Grazing Regulations to Protect Vegetation Cover, Enhance Sustainability",
+        "structural_domain": "Climate-Driven Migration Pressure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 133,
+        "headline": "This Atlanta ministry is doing what most denominations can\u2019t \u2014 turning Gen Z into passionate churchgoers",
+        "structural_domain": "Cultural & Identity Polarization",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 134,
+        "headline": "Vance, Rubio and others in Trump\u2019s inner circle preached caution on Iran. Now they\u2019re on board",
+        "structural_domain": "Border Militarization & Forward Deployment",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 135,
+        "headline": "A threat from Israel that will unsettle Iran: They know the city where they will gather.",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 136,
+        "headline": "Putin's historic lesson to Modi, who kneels before the USA.",
+        "structural_domain": "Trade War & Tariff Weaponization",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 137,
+        "headline": "Attacks in the morning of Tehran! Oil officially rained down like rain.",
+        "structural_domain": "Climate-Driven Migration Pressure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 138,
+        "headline": "Female ninjas are waiting for Israeli soldiers.",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 139,
+        "headline": "Repurposing the hERG Activator NS-1643 as a Ferroptosis-Targeting Therapeutic against Doxorubicin Cardiotoxicity.",
+        "structural_domain": "Healthcare Infrastructure System Failure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 140,
+        "headline": "The Regression based Defined Approach for Skin Sensitization Potency Assessment Based on NAM Data from OECD accepted tests.",
+        "structural_domain": "Industry Standard & Regulatory Alignment Drift",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 141,
+        "headline": "Antibody-drug conjugates: from efficacy testing to bioassay evaluation in modern drug development.",
+        "structural_domain": "Industry Standard & Regulatory Alignment Drift",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 142,
+        "headline": "The money he requested caused a debate: Here is the seal of Celal Karat\u00fcre.",
+        "structural_domain": "Sovereign Debt Distress",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 143,
+        "headline": "The battlefield in the Middle East has been hit! A global food crisis is at the door.",
+        "structural_domain": "Natural Resource Scarcity",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 144,
+        "headline": "Lifestyle Interventions as Adjuvant Treatments for Depression: An Umbrella Review of Systematic Reviews and Meta-Analyses.",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 145,
+        "headline": "Aqara Showcases Scaling Professional-Grade Infrastructure and Unified Management at Light + Building 2026",
+        "structural_domain": "Industrial & Manufacturing Base Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 146,
+        "headline": "Review of treatment modalities and clinical outcome of giant saccular anterior inferior cerebellar artery aneurysms",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 147,
+        "headline": "The effects of music and virtual reality on pain and anxiety during central venous port implantation: a randomised clinical trial",
+        "structural_domain": "Healthcare Infrastructure System Failure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 148,
+        "headline": "Application of alanine and ionization chamber dosimetry with a 3D-printed prostate phantom for quality assurance in high dose rate brachytherapy.",
+        "structural_domain": "AI Model Governance & Integrity",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 149,
+        "headline": "Challenging the myths of subcutaneous delivery: An industry expert perspective.",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 150,
+        "headline": "Reprogramming the flavo-encapsulin from Thermotoga maritima to a novel protein nanocage platform for potent photodynamic therapy.",
+        "structural_domain": "Agricultural & Food System Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 151,
+        "headline": "Enhanced recovery after surgery for gastric cancer with HIPEC: feasibility and outcomes in a complex setting.",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 152,
+        "headline": "A resveratrol derivative RVX-208 inhibits PD-1/PD-L1 to restrain non-small cell lung cancer as an immunotherapy",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 153,
+        "headline": "Protein-based nanocarriers in the management of hard-to-treat solid tumours",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 154,
+        "headline": "Engineering tumor-specific interferon-alpha-Nivolumab pro-immunocytokine for enhanced melanoma immunotherapy",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 155,
+        "headline": "68 Ga/ 177 Lu-labeled nectin4-targeted covalent bicyclic peptide: a novel nectin-4-targeted radioligands for theranostic of urothelial carcinoma",
+        "structural_domain": "Policy Signal Volatility Mechanism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 156,
+        "headline": "Diagnostic Value of Fluorine-18-fluorodeoxyglucose Positron Emission Tomography/Computed Tomography in Staging Histological Subtypes of Invasive Bladder Cancer",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 157,
+        "headline": "One-step nucleic acid amplification versus ultra-staging to detect sentinel lymph node metastasis in endometrial cancer: a randomized, multi-center, controlled trial (SENT-OSNA Trial)",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 158,
+        "headline": "Rhino-orbito-cerebral mucormycosis in new-onset type 1 diabetes mellitus: a case-based short review",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 159,
+        "headline": "Reclassifying Left Ventricular Diastolic Function With the 2025 ASE Guideline Versus the 2016 Algorithm.",
+        "structural_domain": "Industry Standard & Regulatory Alignment Drift",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 160,
+        "headline": "Pharmacotherapy in childhood obesity: Key points from the 2023 AAP clinical practice guideline",
+        "structural_domain": "Administrative Rulemaking Shift",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 161,
+        "headline": "ZebRack: A budget-friendly mobile system for short-term zebrafish housing",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 162,
+        "headline": "Development and validation of a biomimetic mastication simulator for dynamic texture evaluation for cooked rice",
+        "structural_domain": "Agricultural & Food System Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 163,
+        "headline": "Development and characterization of microalgae-based hydrogel with Nannochloropsis oceanica and soy protein isolate: Antioxidant activities and gallic acid delivery",
+        "structural_domain": "Natural Resource Scarcity",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 164,
+        "headline": "Tibial Bone-Anchored Prostheses: A Narrative Review of the Literature and Reflection on 10\u00a0Years of Surgical Practice",
+        "structural_domain": "Healthcare Infrastructure System Failure",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 165,
+        "headline": "Bridging the gap towards a novel antiviral therapeutic against dengue virus with major flavonoids from Scutellaria baicalensis",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 166,
+        "headline": "Tunable gelatin/carrageenan interactions enable balanced toughness and conductivity of double-network eutectogels for sensitive strain sensors",
+        "structural_domain": "Wildfire Regime Escalation",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 167,
+        "headline": "Fluoroalkylated antimicrobial peptides enables cytosolic delivery and eradication of intracellular Staphylococcus aureus",
+        "structural_domain": "Industry Reputation & Trust Capital Erosion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 168,
+        "headline": "Enhanced removal of Pb (II) and sulfate by immobilizing acid-tolerant sulfate-reducing bacteria on magnetic chitosan.",
+        "structural_domain": "Natural Resource Scarcity",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 169,
+        "headline": "An antibody-drug conjugate designed through clone and isotype selection restricts the growth of CSPG4-expressing triple-negative breast cancer",
+        "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 170,
+        "headline": "Iran said, 'We have captured US soldiers,' and a swift response came from CENTCOM.",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 171,
+        "headline": "A curated and integrated dataset for exploring global bee-plant interactions",
+        "structural_domain": "AI Model Governance & Integrity",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 172,
+        "headline": "Impact of treated wash water from ready mix concrete plants on concrete properties and durability",
+        "structural_domain": "Natural Resource Scarcity",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 173,
+        "headline": "Selective targeting of endothelial and perivascular angiocrine ROCK2 treats liver fibrosis",
+        "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 174,
+        "headline": "Dissemination of vancomycin-resistant Enterococcus faecalis and Enterococcus faecium between humans and fishes",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 175,
+        "headline": "International consensuses and guidelines on clinical practices on abducens nerve palsy by the Asia-Pacific Strabismus and Pediatric Ophthalmology Society (APSPOS) and the Academy of Asia-Pacific Professors of Ophthalmology (AAPPO)",
+        "structural_domain": "Industry Standard & Regulatory Alignment Drift",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 176,
+        "headline": "A novel digital twin strategy to examine the implications of randomized clinical trials for real-world populations.",
+        "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 177,
+        "headline": "Artificial Intelligence-based Gram Stain Classification: Accuracy and Clinical Utility in Positive Blood Cultures.",
+        "structural_domain": "AI Model Governance & Integrity",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 178,
+        "headline": "Efficient self-supervised Barlow Twins from limited tissue slide cohorts for colonic pathology diagnostics.",
+        "structural_domain": "Regulatory Institutional Restructuring",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 179,
+        "headline": "Fluoropyrimidine-induced cardiotoxicity: outcomes and safety of chemotherapy reintroduction in a retrospective cohort study.",
+        "structural_domain": "Public Health & Pandemic Risk",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 180,
+        "headline": "MeMoSA dataset: A multi-country collection of over 30,000 oral mucosa images with clinically labelled lesions.",
+        "structural_domain": "AI Model Governance & Integrity",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 181,
+        "headline": "Trans-2-hexenal-loaded gelatin/dialdehyde starch/nanocellulose cushioning aerogel: synergistic postharvest preservation of Chinese bayberry with 1-MCP",
+        "structural_domain": "Agricultural & Food System Disruption",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 182,
+        "headline": "Depression rating scales demonstrate significant correlations but systematic differences: a multicenter prospective cohort study using equipercentile linking.",
+        "structural_domain": "Demographic & Population Dynamics",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Human Resources",
+        "internal_theme": "Human Resources",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 183,
+        "headline": "Multileaf Faraday cup for beam energy verification in radiation therapy with ultra-high dose-rate electron beams and ion beams",
+        "structural_domain": "National Power Grid Instability",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 184,
+        "headline": "Health risk assessment of nitrate and fluoride in groundwater across 10 Nigerian states.",
+        "structural_domain": "Water Stress & Hydrological Instability",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Operations",
+        "internal_theme": "Operations",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 185,
+        "headline": "Reconstitution of spermatogenesis and continuous generation of functional haploid germ cells in mouse testicular organoids",
+        "structural_domain": "Demographic & Population Dynamics",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Human Resources",
+        "internal_theme": "Human Resources",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 186,
+        "headline": "Encapsulation of quercetin in zein/sodium caseinate nanoparticles: Fabrication, characterization, stability and controlled release properties",
+        "structural_domain": "Industry Reputation & Trust Capital Erosion",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Finance/Treasury/FP&A",
+        "internal_theme": "Finance/Treasury/FP&A",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    },
+    {
+        "event_index": 187,
+        "headline": "Jazan Celebrates Ramadan with Basta Khair Saudi Arabia 2026 at Sunset Waterfront",
+        "structural_domain": "Youth Radicalization & Extremism",
+        "structural_domain_source_field": "predicted_structural_domain",
+        "primary_internal_theme": "Strategy & Business Model",
+        "internal_theme": "Strategy & Business Model",
+        "mapped_theme_source_column": "Primary Internal Theme",
+        "domain_match_type": "exact"
+    }
+]

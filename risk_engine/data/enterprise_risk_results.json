@@ -1,0 +1,20 @@
+[
+    {
+        "internal_theme": "Strategy & Business Model",
+        "external_theme_severity": 0.429,
+        "client_exposure": 0,
+        "enterprise_risk": 0.0
+    },
+    {
+        "internal_theme": "Finance/Treasury/FP&A",
+        "external_theme_severity": 0.663,
+        "client_exposure": 0.713,
+        "enterprise_risk": 0.473
+    },
+    {
+        "internal_theme": "Operations",
+        "external_theme_severity": 0.0,
+        "client_exposure": 0.513,
+        "enterprise_risk": 0.0
+    }
+]

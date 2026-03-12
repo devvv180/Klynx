@@ -1,0 +1,17 @@
+News Article
+     ↓
+Event Frame Extraction
+     ↓
+Structural Domain Identification
+     ↓
+(Threshold already applied here)
+     ↓
+Structural Domain → Internal Theme Mapping
+     ↓
+LLM Severity Evaluation
+     ↓
+External Theme Impact Score
+     ↓
+Combine with Internal Questionnaire Exposure
+     ↓
+Final Client Risk Impact

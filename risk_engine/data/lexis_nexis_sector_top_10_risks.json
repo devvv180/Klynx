@@ -1,0 +1,974 @@
+{
+    "generated_at_utc": "2026-03-12T16:40:22.687811+00:00",
+    "top_n_per_sector": 10,
+    "sector_count": 13,
+    "sectors": [
+        {
+            "sector": "Defense, Aerospace & Security",
+            "event_count": 8,
+            "avg_severity": 0.767,
+            "high_risk_count": 7,
+            "critical_risk_count": 5,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/43858b8c395b134c",
+                    "headline": "Crisis on the 10th day of the Iran war! Israel's move drove Trump crazy.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Airspace Intrusion & Denial",
+                    "geography": "Iran"
+                },
+                {
+                    "event_id": "generated://event/c8f37089b2ecb9c9",
+                    "headline": "Hezbollah has changed tactics! They have started full-scale guerrilla warfare.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Border Militarization & Forward Deployment",
+                    "geography": "northern Israel"
+                },
+                {
+                    "event_id": "generated://event/f29c6d88677ba2f3",
+                    "headline": "India: We provided Israel with the exact location of the Iranian ship.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Border Militarization & Forward Deployment",
+                    "geography": "India, Israel, Sri Lanka"
+                },
+                {
+                    "event_id": "generated://event/5eefa08888c220cb",
+                    "headline": "Week 2 of Iran: Military momentum meets economic and political reality",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "Iran"
+                },
+                {
+                    "event_id": "generated://event/ecffa121bef62f14",
+                    "headline": "Urgent call from the UAE to South Korea: Accelerate the delivery.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Airspace Intrusion & Denial",
+                    "geography": "United Arab Emirates, South Korea"
+                },
+                {
+                    "event_id": "generated://event/65eb3be1e79fac90",
+                    "headline": "Kuwaiti Defense Ministry: Three Ballistic Missiles Destroyed in Past 24 Hours",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Airspace Intrusion & Denial",
+                    "geography": "Kuwait, southern part"
+                },
+                {
+                    "event_id": "generated://event/b2dd59776fe7ae01",
+                    "headline": "UAE President and UK Prime Minister discuss regional developments and their implications for security and stability",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Sovereign Debt Distress",
+                    "geography": "United Arab Emirates, United Kingdom"
+                },
+                {
+                    "event_id": "generated://event/96e860487e32ae5d",
+                    "headline": "Female ninjas are waiting for Israeli soldiers.",
+                    "severity_score": 0.53,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Youth Radicalization & Extremism",
+                    "geography": "Iran"
+                }
+            ]
+        },
+        {
+            "sector": "Energy & Utilities",
+            "event_count": 17,
+            "avg_severity": 0.754,
+            "high_risk_count": 15,
+            "critical_risk_count": 10,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/f16a04ea0acea358",
+                    "headline": "The war has hit the markets hard! Historic rise in oil prices.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Commodity Supercycle Shock",
+                    "geography": "Middle East"
+                },
+                {
+                    "event_id": "generated://event/ae51f71ca645b59b",
+                    "headline": "Iran names slain Khamenei\u2019s son supreme leader while oil soars above $100",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Youth Radicalization & Extremism",
+                    "geography": "Iran"
+                },
+                {
+                    "event_id": "generated://event/022b562756001b72",
+                    "headline": "Oil prices soar past $100 a barrel as war escalates in Iran",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Commodity Supercycle Shock",
+                    "geography": "global"
+                },
+                {
+                    "event_id": "generated://event/a8cfe3a14a4757f1",
+                    "headline": "Image from Iran: Rushed to the gas station after hearing the news.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Energy Production & Refining Infrastructure",
+                    "geography": "Tehran, Iran"
+                },
+                {
+                    "event_id": "generated://event/4e36a57305e0e2b0",
+                    "headline": "Iran struck at the heart of Israel! The destruction in the city is massive, a giant crater has formed.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Airspace Intrusion & Denial",
+                    "geography": "Israel"
+                },
+                {
+                    "event_id": "generated://event/6cabb5fcb41dc081",
+                    "headline": "Diesel prices are climbing even faster than gas prices. Here\u2019s why you should care",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+                    "geography": "Iran"
+                },
+                {
+                    "event_id": "generated://event/fe4ab375e20e91fb",
+                    "headline": "It was expressed for the first time! Special forces are involved in the war, there is a single purpose.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Youth Radicalization & Extremism",
+                    "geography": "Iran"
+                },
+                {
+                    "event_id": "generated://event/ace793c50a38da9a",
+                    "headline": "Putin's historic lesson to Modi, who kneels before the USA.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Trade War & Tariff Weaponization",
+                    "geography": "India"
+                },
+                {
+                    "event_id": "generated://event/20d50474717dc662",
+                    "headline": "Attacks in the morning of Tehran! Oil officially rained down like rain.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Climate-Driven Migration Pressure",
+                    "geography": "Tehran, Iran"
+                },
+                {
+                    "event_id": "generated://event/598df0309514af3c",
+                    "headline": "Artificial Intelligence-based Gram Stain Classification: Accuracy and Clinical Utility in Positive Blood Cultures.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "AI Model Governance & Integrity",
+                    "geography": ""
+                }
+            ]
+        },
+        {
+            "sector": "Consumer, Retail & E-Commerce",
+            "event_count": 2,
+            "avg_severity": 0.73,
+            "high_risk_count": 2,
+            "critical_risk_count": 0,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/fe0dbcc8a0d5c262",
+                    "headline": "Ramadan Market in Farasan Islands Boosts Tourism Appeal",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Access Restriction Mechanism",
+                    "geography": "Farasan Islands, Saudi Arabia"
+                },
+                {
+                    "event_id": "generated://event/a4368c0ae6adbc70",
+                    "headline": "Joseph Magnus & Co. and Fox & Oden Launch in Australia with Honey Barrel",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+                    "geography": "Australia"
+                }
+            ]
+        },
+        {
+            "sector": "Media, Sports & Entertainment",
+            "event_count": 1,
+            "avg_severity": 0.73,
+            "high_risk_count": 1,
+            "critical_risk_count": 0,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/76ba7064887a1a34",
+                    "headline": "The number of US soldiers who lost their lives in the Iran war has risen to 7.",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Border Militarization & Forward Deployment",
+                    "geography": "United States, Iran"
+                }
+            ]
+        },
+        {
+            "sector": "Education & Research",
+            "event_count": 1,
+            "avg_severity": 0.73,
+            "high_risk_count": 1,
+            "critical_risk_count": 0,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/67cb10b75d128241",
+                    "headline": "Maternal Obesity, Gestational Diabetes Mellitus and Offspring's Body Mass Index Trajectories From Birth to Age 6 Years: Glucose in Relation to Women and Babies' Health (GrownB) Study",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Human Resources",
+                    "structural_domain": "Demographic & Population Dynamics",
+                    "geography": "Los Angeles"
+                }
+            ]
+        },
+        {
+            "sector": "Government, Public Policy & Regulatory",
+            "event_count": 12,
+            "avg_severity": 0.713,
+            "high_risk_count": 10,
+            "critical_risk_count": 3,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/027023b53ab7e4fd",
+                    "headline": "Iranian supreme leader\u2019s son takes country\u2019s top job, cementing hardliners\u2019 grip on power",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "Iran"
+                },
+                {
+                    "event_id": "generated://event/293704429532dc55",
+                    "headline": "Statement by the Ministry of Foreign Affairs",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Airspace Intrusion & Denial",
+                    "geography": "United Arab Emirates, Abu Dhabi"
+                },
+                {
+                    "event_id": "generated://event/cd6bd9ced5f60b93",
+                    "headline": "UAE selected member of UN's Consultative Advisory Board on Fundamental Principles of Official Statistics",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "New York, United States; United Arab Emirates"
+                },
+                {
+                    "event_id": "generated://event/2915b4c5b6b8c457",
+                    "headline": "Sport Ministry Announces Extension of Rectification Period for Professional Licensing and Program Accreditation Regulations",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Policy Signal Volatility Mechanism",
+                    "geography": "Riyadh, Saudi Arabia"
+                },
+                {
+                    "event_id": "generated://event/5f4eeb6aa2316b73",
+                    "headline": "Over 1,000 Saudi Judges Enroll in Higher Diploma in Civil Law",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Civic Institution Trust Erosion",
+                    "geography": "Riyadh, Saudi Arabia"
+                },
+                {
+                    "event_id": "generated://event/7a0dc44b471dd90a",
+                    "headline": "A suspect has been arrested for assaulting a child in Ba\u015fak\u015fehir.",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Human Resources",
+                    "structural_domain": "Social Stability & Civil Unrest",
+                    "geography": "Ba\u015fak\u015fehir, Istanbul, Turkey"
+                },
+                {
+                    "event_id": "generated://event/058082eb78f8af31",
+                    "headline": "UAE President receives phone call from President of the Council of Ministers of Togo condemning Iranian attacks targeting the UAE",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "United Arab Emirates, Togo"
+                },
+                {
+                    "event_id": "generated://event/9e464d7b9117118d",
+                    "headline": "Iran's new religious leader has been chosen! His name will not be disclosed for security reasons.",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "Iran"
+                },
+                {
+                    "event_id": "generated://event/5ddb9b82fa298e12",
+                    "headline": "The Regression based Defined Approach for Skin Sensitization Potency Assessment Based on NAM Data from OECD accepted tests.",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Industry Standard & Regulatory Alignment Drift",
+                    "geography": "OECD"
+                },
+                {
+                    "event_id": "generated://event/bb8e555608ef8666",
+                    "headline": "Depression rating scales demonstrate significant correlations but systematic differences: a multicenter prospective cohort study using equipercentile linking.",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Human Resources",
+                    "structural_domain": "Demographic & Population Dynamics",
+                    "geography": "China"
+                }
+            ]
+        },
+        {
+            "sector": "Technology & Telecommunications",
+            "event_count": 78,
+            "avg_severity": 0.701,
+            "high_risk_count": 55,
+            "critical_risk_count": 34,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/af92a10e2f5d4ef1",
+                    "headline": "A historical challenge from Kim: The nuclear button is on my desk.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "North Korea"
+                },
+                {
+                    "event_id": "generated://event/deeae3e1af4af502",
+                    "headline": "GigaDevice Strengthens Global Presence at Embedded World 2026, Showcasing System-Level Innovations for Humanoid Robotics, Industry, and Edge AI",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Industrial & Manufacturing Base Disruption",
+                    "geography": "Nuremberg, Germany"
+                },
+                {
+                    "event_id": "generated://event/18c58624c4b87e85",
+                    "headline": "Guangdong Signals Push Into Advanced Technologies as China Prepares Next Five-year Plan",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "Guangdong, China"
+                },
+                {
+                    "event_id": "generated://event/d0670a3b943a4679",
+                    "headline": "KYOCERA Document Solutions \u2013 \u201cFOREARTH\u201d adopted for ANREALAGE\u2019s Paris Fashion Week AUTUMN/WINTER 2026-27 collection, presented in collaboration with \u201cGHOST IN THE SHELL\u201d",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Platform Ecosystem Fragmentation",
+                    "geography": "Paris, France"
+                },
+                {
+                    "event_id": "generated://event/3f81e1cf5eb898e7",
+                    "headline": "Galderma Introduces Cetaphil AM/PM Antioxidant Serums, a New Science-Driven Defense and Recovery System for Sensitive Skin",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+                    "geography": "Canton of Zug, Switzerland"
+                },
+                {
+                    "event_id": "generated://event/7b4f78f41bca8766",
+                    "headline": "Video message from \u0130mamo\u011flu before the \u0130BB trial: I will not defend myself.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Civic Institution Trust Erosion",
+                    "geography": "Silivri, Turkey"
+                },
+                {
+                    "event_id": "generated://event/faa556d092f0f473",
+                    "headline": "SkyDrive Reaches Agreement with Japan\u2019s Civil Aviation Authority on its General Certification Plan, a Core Element of the Type Certification Process",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "Japan"
+                },
+                {
+                    "event_id": "generated://event/5461f57c4dec06bc",
+                    "headline": "A critical step from Turkey while the war continues! The F-16 is departing today.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Airspace Intrusion & Denial",
+                    "geography": "Northern Cyprus"
+                },
+                {
+                    "event_id": "generated://event/80e86a8251a0a9b9",
+                    "headline": "'When will the war end?' Trump dodged the question.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Policy Signal Volatility Mechanism",
+                    "geography": "United States, Iran"
+                },
+                {
+                    "event_id": "generated://event/2f97e11687d5ac55",
+                    "headline": "Israel attempted to infiltrate the country, their helicopter was shot down! There are dozens of dead.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Climate-Driven Migration Pressure",
+                    "geography": "Lebanon"
+                }
+            ]
+        },
+        {
+            "sector": "Healthcare & Life Sciences",
+            "event_count": 29,
+            "avg_severity": 0.677,
+            "high_risk_count": 21,
+            "critical_risk_count": 10,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/e655299b7cbda5ba",
+                    "headline": "ENHERTU\u00ae Granted Priority Review in the U.S. as Post-Neoadjuvant Treatment for Patients with HER2 Positive Early Breast Cancer",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Policy Signal Volatility Mechanism",
+                    "geography": "United States"
+                },
+                {
+                    "event_id": "generated://event/1a2a1ba60e6efcba",
+                    "headline": "Community first-responders in cardiac arrest. Effect on survival? A comprehensive Danish study of 29,445 out-of-hospital cardiac arrests.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Healthcare Infrastructure System Failure",
+                    "geography": "Denmark"
+                },
+                {
+                    "event_id": "generated://event/4cfb11352898ebcb",
+                    "headline": "Rapid Identification of HIV Among People Who Inject Drugs: Tampa, FL, 2024",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Public Health & Pandemic Risk",
+                    "geography": "Tampa, Florida, United States"
+                },
+                {
+                    "event_id": "generated://event/ad7691c09a1b5543",
+                    "headline": "[Reduction in hospital stay after the implementation of a clinical pathway for patients with pacemaker implantation].",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Healthcare Infrastructure System Failure",
+                    "geography": "Unknown"
+                },
+                {
+                    "event_id": "generated://event/79be513b99f0471c",
+                    "headline": "Antibody-drug conjugates: from efficacy testing to bioassay evaluation in modern drug development.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Industry Standard & Regulatory Alignment Drift",
+                    "geography": "United States"
+                },
+                {
+                    "event_id": "generated://event/b4d758e0df5ca3b1",
+                    "headline": "68 Ga/ 177 Lu-labeled nectin4-targeted covalent bicyclic peptide: a novel nectin-4-targeted radioligands for theranostic of urothelial carcinoma",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Policy Signal Volatility Mechanism",
+                    "geography": "United States"
+                },
+                {
+                    "event_id": "generated://event/2f2c1ac7ec805f83",
+                    "headline": "Pharmacotherapy in childhood obesity: Key points from the 2023 AAP clinical practice guideline",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Administrative Rulemaking Shift",
+                    "geography": "United States"
+                },
+                {
+                    "event_id": "generated://event/c72b6e054cc00df5",
+                    "headline": "Dissemination of vancomycin-resistant Enterococcus faecalis and Enterococcus faecium between humans and fishes",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Public Health & Pandemic Risk",
+                    "geography": "unspecified"
+                },
+                {
+                    "event_id": "generated://event/0793fbe6e5a4b47f",
+                    "headline": "A novel digital twin strategy to examine the implications of randomized clinical trials for real-world populations.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+                    "geography": ""
+                },
+                {
+                    "event_id": "generated://event/c80842ad119ee9f7",
+                    "headline": "MeMoSA dataset: A multi-country collection of over 30,000 oral mucosa images with clinically labelled lesions.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "AI Model Governance & Integrity",
+                    "geography": "Global"
+                }
+            ]
+        },
+        {
+            "sector": "Transportation & Logistics",
+            "event_count": 10,
+            "avg_severity": 0.677,
+            "high_risk_count": 8,
+            "critical_risk_count": 7,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/8df0623aea2f95e9",
+                    "headline": "Trump\u2019s Iran war drags the world into his tear-it-down politics",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+                    "geography": "Strait of Hormuz"
+                },
+                {
+                    "event_id": "generated://event/c73e6ea9dd289d81",
+                    "headline": "Mawani Records 20.89% Growth in Container Throughput for February 2026 Year-on-Year",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+                    "geography": "Riyadh, Saudi Arabia"
+                },
+                {
+                    "event_id": "generated://event/f8c451095829739d",
+                    "headline": "After the US-Israel attacks on Iran, Iraq's oil production decreased by 60%.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Commodity Supercycle Shock",
+                    "geography": "Iraq"
+                },
+                {
+                    "event_id": "generated://event/b807162ac9a08dcb",
+                    "headline": "A radiation facility was attacked in the city of Isfahan, Iran.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Airspace Intrusion & Denial",
+                    "geography": "Isfahan, Iran"
+                },
+                {
+                    "event_id": "generated://event/fcf6307f3a920cc8",
+                    "headline": "Israel's first soldier casualty in the war! The number was announced by the army.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Border Militarization & Forward Deployment",
+                    "geography": "Lebanon"
+                },
+                {
+                    "event_id": "generated://event/c6533de8c9c86ff7",
+                    "headline": "UAE consolidates its position as global hub for cross-border e-commerce",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Platform Ecosystem Fragmentation",
+                    "geography": "United Arab Emirates"
+                },
+                {
+                    "event_id": "generated://event/cb79f558ac103d39",
+                    "headline": "Makkah Transport System Serves over 31 Million Passengers in First Third of Ramadan",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Transportation Network Disruption",
+                    "geography": "Makkah, Grand Mosque"
+                },
+                {
+                    "event_id": "generated://event/8a6b2fd4681aa49f",
+                    "headline": "The new religious leader in Iran is Mojtaba Khamenei.",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "Iran"
+                },
+                {
+                    "event_id": "generated://event/c0781b14b7e3bf95",
+                    "headline": "Red Sea Museum in Historic Jeddah Highlights Maritime, Civilizational Heritage Through Cultural Programs, Specialized Exhibitions",
+                    "severity_score": 0.15,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Transportation Network Disruption",
+                    "geography": "Jeddah, Saudi Arabia"
+                },
+                {
+                    "event_id": "generated://event/1cb3ed69dbd62732",
+                    "headline": "Utilizing virtual reality to improve ICU visual displays",
+                    "severity_score": 0.08,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Transportation Network Disruption",
+                    "geography": "Virtual"
+                }
+            ]
+        },
+        {
+            "sector": "Industrial & Manufacturing",
+            "event_count": 5,
+            "avg_severity": 0.67,
+            "high_risk_count": 3,
+            "critical_risk_count": 1,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/4bb3d66aad0b3302",
+                    "headline": "Aqara Showcases Scaling Professional-Grade Infrastructure and Unified Management at Light + Building 2026",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Industrial & Manufacturing Base Disruption",
+                    "geography": "Frankfurt, Germany"
+                },
+                {
+                    "event_id": "generated://event/80764e1f26b249de",
+                    "headline": "Stream macroinvertebrate responses vary with region, land use and management practice type.",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Water Stress & Hydrological Instability",
+                    "geography": "Chesapeake Bay watershed"
+                },
+                {
+                    "event_id": "generated://event/e978b4a3fee7a601",
+                    "headline": "Impact of treated wash water from ready mix concrete plants on concrete properties and durability",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Natural Resource Scarcity",
+                    "geography": ""
+                },
+                {
+                    "event_id": "generated://event/1b52ead60ecbcdcd",
+                    "headline": "Al-Arak Village: The Historic Heart of Miswak Production in AlUla",
+                    "severity_score": 0.53,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Climate-Driven Migration Pressure",
+                    "geography": "AlUla, Saudi Arabia"
+                },
+                {
+                    "event_id": "generated://event/482dc74789e0f931",
+                    "headline": "Two Cases of Successful Kidney Transplantation From a 39-Year-Old Male Deceased Donor With Marfan Syndrome: A Case Series",
+                    "severity_score": 0.53,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "United States"
+                }
+            ]
+        },
+        {
+            "sector": "Mining, Metals & Materials",
+            "event_count": 3,
+            "avg_severity": 0.663,
+            "high_risk_count": 2,
+            "critical_risk_count": 1,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/02bd57175159380f",
+                    "headline": "Bursaspor, which ended its rival's 835-day streak, saw its fans and players come back from the dead at the end of the match.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Human Resources",
+                    "structural_domain": "Social Stability & Civil Unrest",
+                    "geography": "Mu\u015f"
+                },
+                {
+                    "event_id": "generated://event/19ed546ee4b95962",
+                    "headline": "Health risk assessment of nitrate and fluoride in groundwater across 10 Nigerian states.",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Operations",
+                    "structural_domain": "Water Stress & Hydrological Instability",
+                    "geography": "Nigeria"
+                },
+                {
+                    "event_id": "generated://event/057e1276f2593cbe",
+                    "headline": "Islamic University of Madinah Students Volunteer at Prophet\u2019s Mosque During Ramadan",
+                    "severity_score": 0.43,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Youth Radicalization & Extremism",
+                    "geography": "Madinah"
+                }
+            ]
+        },
+        {
+            "sector": "Cross-Sector / Multi-Industry",
+            "event_count": 5,
+            "avg_severity": 0.65,
+            "high_risk_count": 3,
+            "critical_risk_count": 2,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/790081ea6606aab2",
+                    "headline": "Macron spoke on the phone with Peze\u015fkiyan.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Armed Conflict Spectrum (Interstate)",
+                    "geography": "Mediterranean Sea"
+                },
+                {
+                    "event_id": "generated://event/3585a5ff779ceaf3",
+                    "headline": "Engineering tumor-specific interferon-alpha-Nivolumab pro-immunocytokine for enhanced melanoma immunotherapy",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Public Health & Pandemic Risk",
+                    "geography": "Unknown"
+                },
+                {
+                    "event_id": "generated://event/f19ad92314b3b625",
+                    "headline": "Lifestyle Interventions as Adjuvant Treatments for Depression: An Umbrella Review of Systematic Reviews and Meta-Analyses.",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Public Health & Pandemic Risk",
+                    "geography": ""
+                },
+                {
+                    "event_id": "generated://event/59e3fee5d2a0111b",
+                    "headline": "A 5.1 magnitude earthquake in Denizli! It was also felt in surrounding provinces.",
+                    "severity_score": 0.43,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Wildfire Regime Escalation",
+                    "geography": "Denizli, Turkey"
+                },
+                {
+                    "event_id": "generated://event/fe395dbad11176e0",
+                    "headline": "Development and characterization of microalgae-based hydrogel with Nannochloropsis oceanica and soy protein isolate: Antioxidant activities and gallic acid delivery",
+                    "severity_score": 0.43,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Natural Resource Scarcity",
+                    "geography": "unknown"
+                }
+            ]
+        },
+        {
+            "sector": "Financial Services",
+            "event_count": 17,
+            "avg_severity": 0.404,
+            "high_risk_count": 6,
+            "critical_risk_count": 3,
+            "top_risks": [
+                {
+                    "event_id": "generated://event/103c2d5b6e5e187c",
+                    "headline": "BCS Investors Have Opportunity to Join Barclays PLC Fraud Investigation with the Schall Law Firm",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Industry Governance & Transparency Failures",
+                    "geography": "United Kingdom"
+                },
+                {
+                    "event_id": "generated://event/280769ee5bffa7cf",
+                    "headline": "PRCT Investors Have Opportunity to Join PROCEPT BioRobotics Corporation Fraud Investigation with the Schall Law Firm",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Finance/Treasury/FP&A",
+                    "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+                    "geography": "Los Angeles, California, United States"
+                },
+                {
+                    "event_id": "generated://event/2d55cdfa8351ce73",
+                    "headline": "Design, synthesis and pharmacological evaluation of phenylthiophene-2-carboxamide-based RSV fusion protein inhibitors.",
+                    "severity_score": 0.83,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Public Health & Pandemic Risk",
+                    "geography": ""
+                },
+                {
+                    "event_id": "generated://event/3cf3e995bb929bbe",
+                    "headline": "AmMetLife Insurance appoints Wan Saifulrizal Wan Ismail as Chief Executive Officer",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Strategy & Business Model",
+                    "structural_domain": "Regulatory Institutional Restructuring",
+                    "geography": "Kuala Lumpur, Malaysia"
+                },
+                {
+                    "event_id": "generated://event/dd336d66df6850e3",
+                    "headline": "DINO Investors Have Opportunity to Join HF Sinclair Corporation Fraud Investigation with the Schall Law Firm",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Finance/Treasury/FP&A",
+                    "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+                    "geography": "United States"
+                },
+                {
+                    "event_id": "generated://event/7dd6b504f56eea1f",
+                    "headline": "BFAM Investors Have Opportunity to Join Bright Horizons Family Solutions Inc. Fraud Investigation with the Schall Law Firm",
+                    "severity_score": 0.73,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Finance/Treasury/FP&A",
+                    "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+                    "geography": "Los Angeles, California, United States"
+                },
+                {
+                    "event_id": "generated://event/7640d7debe6efc3a",
+                    "headline": "Spain\u2019s S\u00e1nchez doubles down on rejection of Trump\u2019s war with Iran",
+                    "severity_score": 0.43,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Finance/Treasury/FP&A",
+                    "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+                    "geography": "Spain"
+                },
+                {
+                    "event_id": "generated://event/c9047a6b63c510e8",
+                    "headline": "Genentech Provides Update on Phase III persevERA Study in ER-positive Advanced Breast Cancer",
+                    "severity_score": 0.23,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Finance/Treasury/FP&A",
+                    "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+                    "geography": "South San Francisco, California, United States"
+                },
+                {
+                    "event_id": "generated://event/1a94c6cbd72105c7",
+                    "headline": "Makkah Public Markets Inspected to Maintain Quality and Services",
+                    "severity_score": 0.23,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Finance/Treasury/FP&A",
+                    "structural_domain": "Industry Reputation & Trust Capital Erosion",
+                    "geography": "Jeddah, Saudi Arabia"
+                },
+                {
+                    "event_id": "generated://event/060ee3808b3286fc",
+                    "headline": "A resveratrol derivative RVX-208 inhibits PD-1/PD-L1 to restrain non-small cell lung cancer as an immunotherapy",
+                    "severity_score": 0.23,
+                    "materiality": null,
+                    "theme_impact": null,
+                    "internal_theme": "Finance/Treasury/FP&A",
+                    "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+                    "geography": "United States"
+                }
+            ]
+        }
+    ]
+}
