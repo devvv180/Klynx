@@ -18,17 +18,13 @@ GROQ_URL = os.getenv("GROQ_URL", "https://api.groq.com/openai/v1")
 GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 GROQ_TEMPERATURE = float(os.getenv("GROQ_TEMPERATURE", "0.05"))
 GROQ_TIMEOUT_SEC = int(os.getenv("GROQ_TIMEOUT_SEC", "180"))
-# Paste your Groq API key here.
-# Example: "gsk_xxxxxxxxxxxxxxxx"
-GROQ_API_KEY = ""
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()
 
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1:70b")
 OLLAMA_TEMPERATURE = float(os.getenv("OLLAMA_TEMPERATURE", "0.05"))
 OLLAMA_TIMEOUT_SEC = int(os.getenv("OLLAMA_TIMEOUT_SEC", "180"))
-# Optional: paste your hosted Ollama/API gateway key here.
-# Example: "sk-xxxxxxxxxxxxxxxx"
-OLLAMA_API_KEY = ""
+OLLAMA_API_KEY = os.getenv("OLLAMA_API_KEY", "").strip()
 
 CHECKPOINT_EVERY = int(os.getenv("SAVE_CHECKPOINT_EVERY", "5"))
 RESUME_RUN = os.getenv("RESUME_RUN", "true").strip().lower() in {"1", "true", "yes", "y"}
@@ -43,158 +39,6 @@ THEME_GUIDANCE = {
     "Cybersecurity": "cyber attack surface, data loss/exfiltration, ransomware downtime risk, third-party cyber contagion, control environment stress",
     "Governance, Risk & Compliance": "regulatory/legal action, compliance burden, policy enforcement, reporting/governance failures, sanctions and audit risk",
     "Governance, Risk & Complaiance": "regulatory/legal action, compliance burden, policy enforcement, reporting/governance failures, sanctions and audit risk",
-}
-
-
-LOW_SIGNAL_KEYWORDS = {
-    "opinion",
-    "editorial",
-    "column",
-    "commentary",
-    "op-ed",
-    "analysis only",
-    "think-tank",
-    "sports",
-    "match",
-    "tournament",
-    "league",
-    "football",
-    "cricket",
-    "basketball",
-    "celebrity",
-    "entertainment",
-    "fashion week",
-    "awards",
-    "festival",
-    "webinar",
-    "podcast",
-    "general news reporting",
-    "historical comparison",
-    "symbolic gesture",
-    "social media reaction",
-    "minor local incident",
-    "announced participation",
-    "press release",
-    "media release",
-    "introduces",
-    "showcasing",
-}
-
-
-HIGH_SIGNAL_KEYWORDS = {
-    "sanction",
-    "export control",
-    "regulatory",
-    "policy change",
-    "trade restriction",
-    "embargo",
-    "capital control",
-    "banking disruption",
-    "currency",
-    "default",
-    "asset seizure",
-    "nationalization",
-    "war",
-    "airstrike",
-    "invasion",
-    "military escalation",
-    "port closure",
-    "logistics corridor",
-    "supply chain disruption",
-    "factory shutdown",
-    "cyberattack",
-    "ransomware",
-    "critical infrastructure",
-    "commodity shock",
-    "infrastructure destruction",
-    "forced migration",
-    "government directive",
-}
-
-
-THEME_SIGNAL_TERMS = {
-    "Finance/Treasury/FP&A": {
-        "sanction",
-        "bank",
-        "banking",
-        "liquidity",
-        "currency",
-        "capital control",
-        "debt",
-        "sovereign",
-        "default",
-        "interest rate",
-        "credit",
-        "fx",
-        "treasury",
-        "financing",
-    },
-    "Operations": {
-        "supply chain",
-        "logistics",
-        "port",
-        "shipping",
-        "factory",
-        "plant",
-        "shutdown",
-        "infrastructure",
-        "transport",
-        "labor",
-        "workforce",
-        "disruption",
-        "corridor",
-    },
-    "Strategy & Business Model": {
-        "market access",
-        "trade restriction",
-        "realignment",
-        "industry shift",
-        "competition",
-        "business model",
-        "strategic",
-        "pricing",
-        "channel",
-        "ecosystem",
-        "geopolitical",
-    },
-    "Human Resources": {
-        "labor",
-        "workforce",
-        "talent",
-        "retention",
-        "employee",
-        "migration",
-        "safety",
-        "headcount",
-        "hiring",
-    },
-    "Cybersecurity": {
-        "cyber",
-        "ransomware",
-        "malware",
-        "data breach",
-        "critical infrastructure",
-        "exfiltration",
-        "ddos",
-    },
-    "Governance, Risk & Compliance": {
-        "regulatory",
-        "compliance",
-        "audit",
-        "legal",
-        "policy",
-        "sanction",
-        "enforcement",
-    },
-    "Governance, Risk & Complaiance": {
-        "regulatory",
-        "compliance",
-        "audit",
-        "legal",
-        "policy",
-        "sanction",
-        "enforcement",
-    },
 }
 
 
@@ -416,11 +260,7 @@ def build_sector_top_risk_report(rows: list, top_n: int):
     for sector, items in sector_groups.items():
         ranked = sorted(
             items,
-            key=lambda x: (
-                float(x.get("severity_score") or 0.0),
-                float(x.get("materiality") or 0.0),
-                float(x.get("theme_impact") or 0.0),
-            ),
+            key=lambda x: float(x.get("severity_score") or 0.0),
             reverse=True,
         )
         top_rows = ranked[:top_n]
@@ -445,8 +285,6 @@ def build_sector_top_risk_report(rows: list, top_n: int):
                         "event_id": x.get("event_id"),
                         "headline": x.get("headline"),
                         "severity_score": x.get("severity_score"),
-                        "materiality": x.get("materiality"),
-                        "theme_impact": x.get("theme_impact"),
                         "internal_theme": x.get("internal_theme"),
                         "structural_domain": x.get("structural_domain"),
                         "geography": x.get("geography"),
@@ -465,31 +303,6 @@ def build_sector_top_risk_report(rows: list, top_n: int):
         "top_n_per_sector": top_n,
         "sector_count": len(sectors_out),
         "sectors": sectors_out,
-    }
-
-
-def soft_signal_flags(event: dict):
-    text = " ".join(
-        [
-            normalize_text(event.get("headline")),
-            normalize_text(event.get("summary")),
-            normalize_text(event.get("verb")),
-            normalize_text(event.get("action")),
-            normalize_text(event.get("object")),
-            normalize_text(event.get("target")),
-            normalize_text(event.get("geography")),
-            normalize_text(event.get("structural_domain")),
-        ]
-    )
-
-    low_hits = [k for k in LOW_SIGNAL_KEYWORDS if k in text]
-    high_hits = [k for k in HIGH_SIGNAL_KEYWORDS if k in text]
-
-    return {
-        "has_low_signal": len(low_hits) > 0,
-        "has_high_signal": len(high_hits) > 0,
-        "low_hits": low_hits,
-        "high_hits": high_hits,
     }
 
 
@@ -530,6 +343,8 @@ Geography: {geography}
 IMPORTANT PRINCIPLE:
 Score ONLY the potential enterprise impact on the specified internal theme.
 Ignore general geopolitical drama unless it creates a direct business risk signal.
+Use only the provided event fields and the theme lens; do not rely on external assumptions.
+Do not output any rationale. Return only the final numeric severity.
 
 -------------------------------------
 STEP 1 - EVENT VALIDITY CHECK
@@ -635,65 +450,6 @@ def parse_numeric_score(raw_text: str, default: float = 0.2) -> float:
     return default
 
 
-
-def estimate_materiality(flags: dict) -> float:
-    if flags["has_low_signal"] and not flags["has_high_signal"]:
-        return 0.12
-    if flags["has_high_signal"]:
-        return min(1.0, 0.55 + 0.08 * len(flags["high_hits"]))
-    return 0.30
-
-
-
-def estimate_theme_relevance(theme: str, event: dict, flags: dict) -> float:
-    if flags["has_low_signal"] and not flags["has_high_signal"]:
-        return 0.15
-
-    terms = THEME_SIGNAL_TERMS.get(theme, set())
-    haystack = " ".join(
-        [
-            normalize_text(event.get("headline")),
-            normalize_text(event.get("summary")),
-            normalize_text(event.get("verb")),
-            normalize_text(event.get("action")),
-            normalize_text(event.get("object")),
-            normalize_text(event.get("target")),
-            normalize_text(event.get("structural_domain")),
-        ]
-    )
-
-    hits = sum(1 for t in terms if t in haystack)
-    if hits >= 2:
-        return 0.72
-    if hits == 1:
-        return 0.52
-    if flags["has_high_signal"]:
-        return 0.42
-    return 0.25
-
-
-
-def postprocess_score(raw_final: float, materiality: float, theme_relevance: float, flags: dict) -> float:
-    score = max(0.0, min(1.0, raw_final))
-
-    if flags["has_low_signal"] and not flags["has_high_signal"]:
-        score = min(score, 0.15)
-
-    if materiality < 0.50:
-        score = min(score, 0.39)
-    if materiality <= 0.30:
-        score = min(score, 0.29)
-
-    if theme_relevance < 0.45:
-        score = min(score, 0.35)
-
-    if score >= 0.80 and len(flags["high_hits"]) < 2:
-        score = 0.74
-
-    return round(score, 3)
-
-
-
 def call_ollama_chat(prompt: str) -> str:
     endpoint = OLLAMA_URL.rstrip("/") + "/api/chat"
     payload = {
@@ -727,12 +483,12 @@ def call_groq_chat(prompt: str) -> str:
         "messages": [{"role": "user", "content": prompt}],
         "temperature": GROQ_TEMPERATURE,
     }
-    if not GROQ_API_KEY.strip():
-        raise ValueError("GROQ_API_KEY is empty in llm_severity.py. Paste your Groq API key.")
+    if not GROQ_API_KEY:
+        raise ValueError("Missing GROQ_API_KEY. Export GROQ_API_KEY in your environment.")
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {GROQ_API_KEY.strip()}",
+        "Authorization": f"Bearer {GROQ_API_KEY}",
     }
     req = urllib.request.Request(
         endpoint,
@@ -749,7 +505,6 @@ def call_groq_chat(prompt: str) -> str:
 
 
 def evaluate_event_severity(event: dict, theme: str) -> dict:
-    flags = soft_signal_flags(event)
     prompt = build_prompt(event, theme)
 
     if LLM_PROVIDER == "groq":
@@ -759,19 +514,10 @@ def evaluate_event_severity(event: dict, theme: str) -> dict:
     else:
         raise ValueError("Unsupported provider. Set LLM_PROVIDER=groq or LLM_PROVIDER=ollama.")
 
-    raw_final = parse_numeric_score(raw, default=0.2)
-    materiality = estimate_materiality(flags)
-    theme_impact = estimate_theme_relevance(theme, event, flags)
-    final = postprocess_score(raw_final, materiality, theme_impact, flags)
+    final = round(parse_numeric_score(raw, default=0.2), 3)
 
     return {
         "severity_score": final,
-        "materiality": round(materiality, 3),
-        "theme_impact": round(theme_impact, 3),
-        "low_signal_flag": flags["has_low_signal"],
-        "high_signal_flag": flags["has_high_signal"],
-        "low_signal_hits": flags["low_hits"],
-        "high_signal_hits": flags["high_hits"],
         "raw_model_output": clip_text(raw, 1200),
     }
 
@@ -905,12 +651,6 @@ if __name__ == "__main__":
                 print(f"Error processing event {idx}: {exc}")
                 score_detail = {
                     "severity_score": 0.25,
-                    "materiality": 0.2,
-                    "theme_impact": 0.5,
-                    "low_signal_flag": False,
-                    "high_signal_flag": False,
-                    "low_signal_hits": [],
-                    "high_signal_hits": [],
                     "raw_model_output": "",
                 }
 
@@ -928,12 +668,6 @@ if __name__ == "__main__":
                 "structural_domain": domain,
                 "internal_theme": theme,
                 "severity_score": score_detail["severity_score"],
-                "materiality": score_detail["materiality"],
-                "theme_impact": score_detail["theme_impact"],
-                "low_signal_flag": score_detail["low_signal_flag"],
-                "high_signal_flag": score_detail["high_signal_flag"],
-                "low_signal_hits": score_detail["low_signal_hits"],
-                "high_signal_hits": score_detail["high_signal_hits"],
                 "geography": event.get("geography"),
                 "lat": lat,
                 "lon": lon,
@@ -948,8 +682,7 @@ if __name__ == "__main__":
                 processed_event_ids.add(event_id)
 
             print(
-                f"Event {idx:03d} | Theme: {theme} | Severity: {row['severity_score']:.2f} "
-                f"(mat={row['materiality']:.2f}, impact={row['theme_impact']:.2f}) | Geo: {geo_source}"
+                f"Event {idx:03d} | Theme: {theme} | Severity: {row['severity_score']:.2f} | Geo: {geo_source}"
             )
 
             if CHECKPOINT_EVERY > 0 and len(results) % CHECKPOINT_EVERY == 0:
