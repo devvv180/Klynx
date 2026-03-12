@@ -1,0 +1,87 @@
+Client: Rajiv Nair, CFO — Meridian Lifesciences Pvt. Ltd.
+Date: March 12, 2026
+
+Interviewer: Walk me through the business.
+
+Rajiv: We make generic medicines — tablets, capsules, injectables — and two-thirds of 
+revenue comes from exports. The US is 40% of total revenue. Europe is another 18%. 
+Two manufacturing plants in Andhra Pradesh — Hyderabad and Vizag, both US regulator approved.
+
+Interviewer: How is the business performing?
+
+Rajiv: Margins are getting squeezed from multiple directions. Raw material costs are up 
+because we import most of our key ingredients from China — suppliers we've worked with 
+for years. The relationship is fine, but lead times have gotten unpredictable. Something 
+has shifted in how they're prioritising their order books. We suspect domestic pressure 
+on their end but can't confirm.
+
+Freight has been the other big hit — logistics costs up over 20%. Our freight forwarder 
+is giving us longer transit times and higher quotes. We used to plan 4 to 5 weeks from 
+China to our warehouse. Now we quote 7 to 8 weeks internally just to be safe.
+
+Interviewer: Do you know what's driving the freight disruption?
+
+Rajiv: Not precisely. Our logistics team says certain shipping routes have become 
+more expensive or are being avoided by carriers. We've just been absorbing the cost 
+and adjusting safety stock upwards. That's created a working capital problem — 
+now we hold more inventory than before. US buyers are also taking longer to pay. 
+So we're squeezed on both sides of the balance sheet.
+
+Interviewer: How is the regulatory situation?
+
+Rajiv: It's our single biggest operational anxiety. We had an inspection at Vizag 
+about 14 months ago — documentation and data management observations. We've addressed 
+the findings, but until we get formal clearance, there's always a risk of action that 
+could restrict US shipments. That's roughly 400 crore of revenue at risk if the worst 
+happens. Our compliance team is on high alert.
+
+Europe has introduced new rules around medicine traceability and environmental 
+standards. Our contract clients there are passing those requirements down to us. 
+In India, pricing controls on a few domestic categories hit our margins last revision.
+
+Interviewer: Tell me about your technology infrastructure.
+
+Rajiv: We're mid-transformation — vulnerable position. SAP on cloud for the ERP. 
+But the manufacturing floor systems at Vizag are old — software the vendor no longer 
+actively supports. We've had a couple of security incidents in the last two years. 
+Nothing serious but a wake-up call.
+
+The bigger worry is the US traceability requirement. Every product shipped to America 
+must be tracked end-to-end. That requires our systems to connect with our distributors' 
+systems. Every integration point is a potential vulnerability — and a problem there 
+isn't just a technology issue, it's a regulatory one simultaneously.
+
+We're also piloting an AI-based quality detection tool using edge computing hardware 
+from an Asian vendor. Chosen on cost and performance. But there have been internal 
+conversations about whether to revisit that given the broader technology environment.
+
+Interviewer: People and talent?
+
+Rajiv: R&D attrition has been painful — three senior scientists left this year, 
+two to multinationals. The compensation gap is widening. The more concerning one was 
+a regulatory affairs specialist who left just as we're entering an inspection cycle. 
+At Vizag, we had a near-miss with a contractor workforce dispute six months ago — 
+a reminder of how exposed we are if that export plant goes down even briefly.
+
+Interviewer: Top risks in the next 12 months?
+
+Rajiv: One — the regulatory situation with the US authority. Binary and immediate. 
+Two — raw material supply from China. No easy fallback if a key supplier has a problem. 
+Qualifying alternates takes 12 months. Three — a technology failure touching our 
+compliance systems. A security incident that also triggers a regulatory response — 
+that combination would be really bad.
+
+Interviewer: What are you not paying enough attention to?
+
+Rajiv: Our Vizag plant sits on the coast. We've had serious weather events in 
+Andhra Pradesh — heavier rainfall, a flooding event near the port. Our business 
+continuity plan hasn't been reviewed since 2023. It keeps getting pushed down the list.
+
+The other one — and I say this as someone who doesn't track geopolitics closely — 
+is that our business is quite exposed to how relationships between large countries 
+evolve. We source from China, sell to America, our shipping goes through sensitive 
+parts of the world. If any of those relationships deteriorate, we feel it through 
+suppliers, freight costs, regulatory treatment. But we don't have a structured way 
+to monitor that or build it into planning. We react rather than anticipate.
+
+Interviewer: That's exactly what this assessment is designed to address. Thank you, Rajiv.
