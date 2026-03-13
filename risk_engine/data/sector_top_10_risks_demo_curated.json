@@ -1,0 +1,541 @@
+{
+  "generated_at_utc": "2026-03-13T01:06:10.520531+00:00",
+  "top_n_per_sector": 10,
+  "sector_count": 6,
+  "sectors": [
+    {
+      "sector": "Energy & Utilities",
+      "event_count": 20,
+      "avg_severity": 0.83,
+      "high_risk_count": 20,
+      "critical_risk_count": 20,
+      "top_risks": [
+        {
+          "event_id": "generated://event/af92a10e2f5d4ef1",
+          "headline": "A historical challenge from Kim: The nuclear button is on my desk.",
+          "severity_score": 0.83,
+          "internal_theme": "Governance, Risk & Compliance",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "North Korea"
+        },
+        {
+          "event_id": "generated://event/43858b8c395b134c",
+          "headline": "Crisis on the 10th day of the Iran war! Israel's move drove Trump crazy.",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Airspace Intrusion & Denial",
+          "geography": "Iran"
+        },
+        {
+          "event_id": "generated://event/f16a04ea0acea358",
+          "headline": "The war has hit the markets hard! Historic rise in oil prices.",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Commodity Supercycle Shock",
+          "geography": "Middle East"
+        },
+        {
+          "event_id": "generated://event/ae51f71ca645b59b",
+          "headline": "Iran names slain Khamenei\u2019s son supreme leader while oil soars above $100",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Youth Radicalization & Extremism",
+          "geography": "Iran"
+        },
+        {
+          "event_id": "generated://event/8df0623aea2f95e9",
+          "headline": "Trump\u2019s Iran war drags the world into his tear-it-down politics",
+          "severity_score": 0.83,
+          "internal_theme": "Human Resources",
+          "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+          "geography": "Strait of Hormuz"
+        },
+        {
+          "event_id": "generated://event/5eefa08888c220cb",
+          "headline": "Week 2 of Iran: Military momentum meets economic and political reality",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "Iran"
+        },
+        {
+          "event_id": "generated://event/022b562756001b72",
+          "headline": "Oil prices soar past $100 a barrel as war escalates in Iran",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Commodity Supercycle Shock",
+          "geography": "global"
+        },
+        {
+          "event_id": "generated://event/027023b53ab7e4fd",
+          "headline": "Iranian supreme leader\u2019s son takes country\u2019s top job, cementing hardliners\u2019 grip on power",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "Iran"
+        },
+        {
+          "event_id": "generated://event/f97173a5c098f7a7",
+          "headline": "GCC permanent representatives meet UN chief over Iranian aggression",
+          "severity_score": 0.83,
+          "internal_theme": "Governance, Risk & Compliance",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "New York, United States"
+        },
+        {
+          "event_id": "generated://event/f8c451095829739d",
+          "headline": "After the US-Israel attacks on Iran, Iraq's oil production decreased by 60%.",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Commodity Supercycle Shock",
+          "geography": "Iraq"
+        }
+      ]
+    },
+    {
+      "sector": "Technology & Telecommunications",
+      "event_count": 20,
+      "avg_severity": 0.83,
+      "high_risk_count": 20,
+      "critical_risk_count": 20,
+      "top_risks": [
+        {
+          "event_id": "generated://event/af92a10e2f5d4ef1",
+          "headline": "A historical challenge from Kim: The nuclear button is on my desk.",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "North Korea"
+        },
+        {
+          "event_id": "generated://event/deeae3e1af4af502",
+          "headline": "GigaDevice Strengthens Global Presence at Embedded World 2026, Showcasing System-Level Innovations for Humanoid Robotics, Industry, and Edge AI",
+          "severity_score": 0.83,
+          "internal_theme": "Cybersecurity",
+          "structural_domain": "Industrial & Manufacturing Base Disruption",
+          "geography": "Nuremberg, Germany"
+        },
+        {
+          "event_id": "generated://event/18c58624c4b87e85",
+          "headline": "Guangdong Signals Push Into Advanced Technologies as China Prepares Next Five-year Plan",
+          "severity_score": 0.83,
+          "internal_theme": "Cybersecurity",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "Guangdong, China"
+        },
+        {
+          "event_id": "generated://event/e655299b7cbda5ba",
+          "headline": "ENHERTU\u00ae Granted Priority Review in the U.S. as Post-Neoadjuvant Treatment for Patients with HER2 Positive Early Breast Cancer",
+          "severity_score": 0.83,
+          "internal_theme": "Cybersecurity",
+          "structural_domain": "Policy Signal Volatility Mechanism",
+          "geography": "United States"
+        },
+        {
+          "event_id": "generated://event/1a2a1ba60e6efcba",
+          "headline": "Community first-responders in cardiac arrest. Effect on survival? A comprehensive Danish study of 29,445 out-of-hospital cardiac arrests.",
+          "severity_score": 0.83,
+          "internal_theme": "Cybersecurity",
+          "structural_domain": "Healthcare Infrastructure System Failure",
+          "geography": "Denmark"
+        },
+        {
+          "event_id": "generated://event/d0670a3b943a4679",
+          "headline": "KYOCERA Document Solutions \u2013 \u201cFOREARTH\u201d adopted for ANREALAGE\u2019s Paris Fashion Week AUTUMN/WINTER 2026-27 collection, presented in collaboration with \u201cGHOST IN THE SHELL\u201d",
+          "severity_score": 0.83,
+          "internal_theme": "Cybersecurity",
+          "structural_domain": "Platform Ecosystem Fragmentation",
+          "geography": "Paris, France"
+        },
+        {
+          "event_id": "generated://event/3f81e1cf5eb898e7",
+          "headline": "Galderma Introduces Cetaphil AM/PM Antioxidant Serums, a New Science-Driven Defense and Recovery System for Sensitive Skin",
+          "severity_score": 0.83,
+          "internal_theme": "Cybersecurity",
+          "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+          "geography": "Canton of Zug, Switzerland"
+        },
+        {
+          "event_id": "generated://event/43858b8c395b134c",
+          "headline": "Crisis on the 10th day of the Iran war! Israel's move drove Trump crazy.",
+          "severity_score": 0.83,
+          "internal_theme": "Cybersecurity",
+          "structural_domain": "Airspace Intrusion & Denial",
+          "geography": "Iran"
+        },
+        {
+          "event_id": "generated://event/7b4f78f41bca8766",
+          "headline": "Video message from \u0130mamo\u011flu before the \u0130BB trial: I will not defend myself.",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Civic Institution Trust Erosion",
+          "geography": "Silivri, Turkey"
+        },
+        {
+          "event_id": "generated://event/faa556d092f0f473",
+          "headline": "SkyDrive Reaches Agreement with Japan\u2019s Civil Aviation Authority on its General Certification Plan, a Core Element of the Type Certification Process",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "Japan"
+        }
+      ]
+    },
+    {
+      "sector": "Defense, Aerospace & Security",
+      "event_count": 20,
+      "avg_severity": 0.83,
+      "high_risk_count": 20,
+      "critical_risk_count": 20,
+      "top_risks": [
+        {
+          "event_id": "generated://event/af92a10e2f5d4ef1",
+          "headline": "A historical challenge from Kim: The nuclear button is on my desk.",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "North Korea"
+        },
+        {
+          "event_id": "generated://event/3f81e1cf5eb898e7",
+          "headline": "Galderma Introduces Cetaphil AM/PM Antioxidant Serums, a New Science-Driven Defense and Recovery System for Sensitive Skin",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+          "geography": "Canton of Zug, Switzerland"
+        },
+        {
+          "event_id": "generated://event/43858b8c395b134c",
+          "headline": "Crisis on the 10th day of the Iran war! Israel's move drove Trump crazy.",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Airspace Intrusion & Denial",
+          "geography": "Iran"
+        },
+        {
+          "event_id": "generated://event/f16a04ea0acea358",
+          "headline": "The war has hit the markets hard! Historic rise in oil prices.",
+          "severity_score": 0.83,
+          "internal_theme": "Governance, Risk & Compliance",
+          "structural_domain": "Commodity Supercycle Shock",
+          "geography": "Middle East"
+        },
+        {
+          "event_id": "generated://event/faa556d092f0f473",
+          "headline": "SkyDrive Reaches Agreement with Japan\u2019s Civil Aviation Authority on its General Certification Plan, a Core Element of the Type Certification Process",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "Japan"
+        },
+        {
+          "event_id": "generated://event/ae51f71ca645b59b",
+          "headline": "Iran names slain Khamenei\u2019s son supreme leader while oil soars above $100",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Youth Radicalization & Extremism",
+          "geography": "Iran"
+        },
+        {
+          "event_id": "generated://event/8df0623aea2f95e9",
+          "headline": "Trump\u2019s Iran war drags the world into his tear-it-down politics",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+          "geography": "Strait of Hormuz"
+        },
+        {
+          "event_id": "generated://event/5461f57c4dec06bc",
+          "headline": "A critical step from Turkey while the war continues! The F-16 is departing today.",
+          "severity_score": 0.83,
+          "internal_theme": "Governance, Risk & Compliance",
+          "structural_domain": "Airspace Intrusion & Denial",
+          "geography": "Northern Cyprus"
+        },
+        {
+          "event_id": "generated://event/80e86a8251a0a9b9",
+          "headline": "'When will the war end?' Trump dodged the question.",
+          "severity_score": 0.83,
+          "internal_theme": "Governance, Risk & Compliance",
+          "structural_domain": "Policy Signal Volatility Mechanism",
+          "geography": "United States, Iran"
+        },
+        {
+          "event_id": "generated://event/c8f37089b2ecb9c9",
+          "headline": "Hezbollah has changed tactics! They have started full-scale guerrilla warfare.",
+          "severity_score": 0.83,
+          "internal_theme": "Human Resources",
+          "structural_domain": "Border Militarization & Forward Deployment",
+          "geography": "northern Israel"
+        }
+      ]
+    },
+    {
+      "sector": "Healthcare & Life Sciences",
+      "event_count": 20,
+      "avg_severity": 0.825,
+      "high_risk_count": 20,
+      "critical_risk_count": 19,
+      "top_risks": [
+        {
+          "event_id": "generated://event/e655299b7cbda5ba",
+          "headline": "ENHERTU\u00ae Granted Priority Review in the U.S. as Post-Neoadjuvant Treatment for Patients with HER2 Positive Early Breast Cancer",
+          "severity_score": 0.83,
+          "internal_theme": "Human Resources",
+          "structural_domain": "Policy Signal Volatility Mechanism",
+          "geography": "United States"
+        },
+        {
+          "event_id": "generated://event/1a2a1ba60e6efcba",
+          "headline": "Community first-responders in cardiac arrest. Effect on survival? A comprehensive Danish study of 29,445 out-of-hospital cardiac arrests.",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Healthcare Infrastructure System Failure",
+          "geography": "Denmark"
+        },
+        {
+          "event_id": "generated://event/3f81e1cf5eb898e7",
+          "headline": "Galderma Introduces Cetaphil AM/PM Antioxidant Serums, a New Science-Driven Defense and Recovery System for Sensitive Skin",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+          "geography": "Canton of Zug, Switzerland"
+        },
+        {
+          "event_id": "generated://event/2f97e11687d5ac55",
+          "headline": "Israel attempted to infiltrate the country, their helicopter was shot down! There are dozens of dead.",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Climate-Driven Migration Pressure",
+          "geography": "Lebanon"
+        },
+        {
+          "event_id": "generated://event/75d1a0f018a64ea1",
+          "headline": "Targeted detection of Mycobacterium tuberculosis MPT64 antigen using an antibody-coated nanoporous anodic alumina biosensor: A novel approach for tuberculosis screening.",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Public Health & Pandemic Risk",
+          "geography": "global"
+        },
+        {
+          "event_id": "generated://event/4cfb11352898ebcb",
+          "headline": "Rapid Identification of HIV Among People Who Inject Drugs: Tampa, FL, 2024",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Public Health & Pandemic Risk",
+          "geography": "Tampa, Florida, United States"
+        },
+        {
+          "event_id": "generated://event/fcf6307f3a920cc8",
+          "headline": "Israel's first soldier casualty in the war! The number was announced by the army.",
+          "severity_score": 0.83,
+          "internal_theme": "Governance, Risk & Compliance",
+          "structural_domain": "Border Militarization & Forward Deployment",
+          "geography": "Lebanon"
+        },
+        {
+          "event_id": "generated://event/11e2e0faf1fae749",
+          "headline": "The country stained with the blood of war! The toll has reached terrifying proportions.",
+          "severity_score": 0.83,
+          "internal_theme": "Governance, Risk & Compliance",
+          "structural_domain": "Climate-Driven Migration Pressure",
+          "geography": "Lebanon"
+        },
+        {
+          "event_id": "generated://event/ad7691c09a1b5543",
+          "headline": "[Reduction in hospital stay after the implementation of a clinical pathway for patients with pacemaker implantation].",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Healthcare Infrastructure System Failure",
+          "geography": "Unknown"
+        },
+        {
+          "event_id": "generated://event/2d55cdfa8351ce73",
+          "headline": "Design, synthesis and pharmacological evaluation of phenylthiophene-2-carboxamide-based RSV fusion protein inhibitors.",
+          "severity_score": 0.83,
+          "internal_theme": "Governance, Risk & Compliance",
+          "structural_domain": "Public Health & Pandemic Risk",
+          "geography": ""
+        }
+      ]
+    },
+    {
+      "sector": "Financial Services",
+      "event_count": 20,
+      "avg_severity": 0.8,
+      "high_risk_count": 20,
+      "critical_risk_count": 14,
+      "top_risks": [
+        {
+          "event_id": "generated://event/103c2d5b6e5e187c",
+          "headline": "BCS Investors Have Opportunity to Join Barclays PLC Fraud Investigation with the Schall Law Firm",
+          "severity_score": 0.83,
+          "internal_theme": "Governance, Risk & Compliance",
+          "structural_domain": "Industry Governance & Transparency Failures",
+          "geography": "United Kingdom"
+        },
+        {
+          "event_id": "generated://event/4cfb11352898ebcb",
+          "headline": "Rapid Identification of HIV Among People Who Inject Drugs: Tampa, FL, 2024",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Public Health & Pandemic Risk",
+          "geography": "Tampa, Florida, United States"
+        },
+        {
+          "event_id": "generated://event/280769ee5bffa7cf",
+          "headline": "PRCT Investors Have Opportunity to Join PROCEPT BioRobotics Corporation Fraud Investigation with the Schall Law Firm",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+          "geography": "Los Angeles, California, United States"
+        },
+        {
+          "event_id": "generated://event/ecffa121bef62f14",
+          "headline": "Urgent call from the UAE to South Korea: Accelerate the delivery.",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Airspace Intrusion & Denial",
+          "geography": "United Arab Emirates, South Korea"
+        },
+        {
+          "event_id": "generated://event/027023b53ab7e4fd",
+          "headline": "Iranian supreme leader\u2019s son takes country\u2019s top job, cementing hardliners\u2019 grip on power",
+          "severity_score": 0.83,
+          "internal_theme": "Cybersecurity",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "Iran"
+        },
+        {
+          "event_id": "generated://event/c73e6ea9dd289d81",
+          "headline": "Mawani Records 20.89% Growth in Container Throughput for February 2026 Year-on-Year",
+          "severity_score": 0.83,
+          "internal_theme": "Cybersecurity",
+          "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+          "geography": "Riyadh, Saudi Arabia"
+        },
+        {
+          "event_id": "generated://event/cd6bd9ced5f60b93",
+          "headline": "UAE selected member of UN's Consultative Advisory Board on Fundamental Principles of Official Statistics",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Regulatory Institutional Restructuring",
+          "geography": "New York, United States; United Arab Emirates"
+        },
+        {
+          "event_id": "generated://event/37d7645273debf2e",
+          "headline": "The Iran war has cost the US dearly! The figures are increasing exponentially every second.",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Airspace Intrusion & Denial",
+          "geography": "United States, Iran"
+        },
+        {
+          "event_id": "generated://event/4e36a57305e0e2b0",
+          "headline": "Iran struck at the heart of Israel! The destruction in the city is massive, a giant crater has formed.",
+          "severity_score": 0.83,
+          "internal_theme": "Governance, Risk & Compliance",
+          "structural_domain": "Airspace Intrusion & Denial",
+          "geography": "Israel"
+        },
+        {
+          "event_id": "generated://event/11e2e0faf1fae749",
+          "headline": "The country stained with the blood of war! The toll has reached terrifying proportions.",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Climate-Driven Migration Pressure",
+          "geography": "Lebanon"
+        }
+      ]
+    },
+    {
+      "sector": "Consumer, Retail & E-Commerce",
+      "event_count": 20,
+      "avg_severity": 0.8,
+      "high_risk_count": 20,
+      "critical_risk_count": 14,
+      "top_risks": [
+        {
+          "event_id": "generated://event/deeae3e1af4af502",
+          "headline": "GigaDevice Strengthens Global Presence at Embedded World 2026, Showcasing System-Level Innovations for Humanoid Robotics, Industry, and Edge AI",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Industrial & Manufacturing Base Disruption",
+          "geography": "Nuremberg, Germany"
+        },
+        {
+          "event_id": "generated://event/d0670a3b943a4679",
+          "headline": "KYOCERA Document Solutions \u2013 \u201cFOREARTH\u201d adopted for ANREALAGE\u2019s Paris Fashion Week AUTUMN/WINTER 2026-27 collection, presented in collaboration with \u201cGHOST IN THE SHELL\u201d",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Platform Ecosystem Fragmentation",
+          "geography": "Paris, France"
+        },
+        {
+          "event_id": "generated://event/f16a04ea0acea358",
+          "headline": "The war has hit the markets hard! Historic rise in oil prices.",
+          "severity_score": 0.83,
+          "internal_theme": "Finance/Treasury/FP&A",
+          "structural_domain": "Commodity Supercycle Shock",
+          "geography": "Middle East"
+        },
+        {
+          "event_id": "generated://event/8df0623aea2f95e9",
+          "headline": "Trump\u2019s Iran war drags the world into his tear-it-down politics",
+          "severity_score": 0.83,
+          "internal_theme": "Cybersecurity",
+          "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+          "geography": "Strait of Hormuz"
+        },
+        {
+          "event_id": "generated://event/a84c55e24151ee67",
+          "headline": "Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: Completes Delivery of Master Robot and Pre-Delivery of Aegis Robot to NS Federation in Texas, Expanding Education and Performance Scenarios for EAI Robotics",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Industrial & Manufacturing Base Disruption",
+          "geography": "United States"
+        },
+        {
+          "event_id": "generated://event/ecffa121bef62f14",
+          "headline": "Urgent call from the UAE to South Korea: Accelerate the delivery.",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Airspace Intrusion & Denial",
+          "geography": "United Arab Emirates, South Korea"
+        },
+        {
+          "event_id": "generated://event/c73e6ea9dd289d81",
+          "headline": "Mawani Records 20.89% Growth in Container Throughput for February 2026 Year-on-Year",
+          "severity_score": 0.83,
+          "internal_theme": "Human Resources",
+          "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+          "geography": "Riyadh, Saudi Arabia"
+        },
+        {
+          "event_id": "generated://event/f8c451095829739d",
+          "headline": "After the US-Israel attacks on Iran, Iraq's oil production decreased by 60%.",
+          "severity_score": 0.83,
+          "internal_theme": "Strategy & Business Model",
+          "structural_domain": "Commodity Supercycle Shock",
+          "geography": "Iraq"
+        },
+        {
+          "event_id": "generated://event/c6533de8c9c86ff7",
+          "headline": "UAE consolidates its position as global hub for cross-border e-commerce",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Platform Ecosystem Fragmentation",
+          "geography": "United Arab Emirates"
+        },
+        {
+          "event_id": "generated://event/4b725b3318635b11",
+          "headline": "SAP Relocates MENA Regional Headquarters to Misk City Offices",
+          "severity_score": 0.83,
+          "internal_theme": "Operations",
+          "structural_domain": "Climate-Driven Migration Pressure",
+          "geography": "Riyadh, Saudi Arabia"
+        }
+      ]
+    }
+  ]
+}

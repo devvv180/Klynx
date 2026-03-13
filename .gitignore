@@ -41,10 +41,25 @@ env/
 .env
 .env.local
 
-# Data files (keep structure, ignore large data)
+# Data files (keep structure, ignore large/temp data)
 risk_engine/data/*.jsonl
 risk_engine/data/*.json
+
+# Allow essential data files for dashboard
 !risk_engine/data/client_data.json
+!risk_engine/data/client_theme_exposure.json
+!risk_engine/data/client_risk_narratives.json
+!risk_engine/data/event_severity_results.json
+!risk_engine/data/event_severity_results_demo.json
+!risk_engine/data/event_severity_results_demo_curated.json
+!risk_engine/data/sector_top_10_risks.json
+!risk_engine/data/sector_top_10_risks_demo.json
+!risk_engine/data/sector_top_10_risks_demo_curated.json
+!risk_engine/data/event_severity_with_geo.json
+!risk_engine/data/event_theme_mapping.json
+!risk_engine/data/merged_lexis_event_frames_similarity_v1.jsonl
+!risk_engine/data/enterprise_risk_results.json
+!risk_engine/data/all_ranked_client_risks.json
 risk_engine/data/transcripts/*.txt
 !risk_engine/data/transcripts/client_meridian.txt
 

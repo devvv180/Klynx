@@ -1,0 +1,2119 @@
+[
+  {
+    "event_index": 31,
+    "event_id": "generated://event/103c2d5b6e5e187c",
+    "headline": "BCS Investors Have Opportunity to Join Barclays PLC Fraud Investigation with the Schall Law Firm",
+    "summary": "The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Barclays PLC. The investigation focuses on whether the Company issued false and/or misleading statements. Barclays is the subject of a Reuters report published on February 27, 2026, titled: \"Wall Street hit by UK mortgage lender collapse, raising fears of more credit \u2018cockroaches'\" If you are a shareholder who suffered a loss, click here to participate.",
+    "structural_domain": "Industry Governance & Transparency Failures",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "United Kingdom",
+    "lat": 55.3781,
+    "lon": -3.436,
+    "geo_resolution_source": "country:united kingdom",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "credit"
+    ]
+  },
+  {
+    "event_index": 36,
+    "event_id": "generated://event/4cfb11352898ebcb",
+    "headline": "Rapid Identification of HIV Among People Who Inject Drugs: Tampa, FL, 2024",
+    "summary": "In 2022, the IDEA Exchange Tampa, Florida's second legally sanctioned SSP, transitioned from an opt-in to a routine opt-out screening model. This shift identified six anonymous participants with acute and untreated HIV. Clinical counseling sessions revealed that these individuals were part of an interconnected 26-person risk network involving needle-sharing and sex exchange behaviors. All six participants were linked to care within an average of 7.5 days (100% linkage rate)",
+    "structural_domain": "Public Health & Pandemic Risk",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Tampa, Florida, United States",
+    "lat": 27.9506,
+    "lon": -82.4572,
+    "geo_resolution_source": "city:tampa",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "drug"
+    ]
+  },
+  {
+    "event_index": 39,
+    "event_id": "generated://event/280769ee5bffa7cf",
+    "headline": "PRCT Investors Have Opportunity to Join PROCEPT BioRobotics Corporation Fraud Investigation with the Schall Law Firm",
+    "summary": "The Schall Law Firm is investigating claims on behalf of investors of PROCEPT BioRobotics Corporation. Procept reported its Q4 2025 financial results on February 25, 2026. The Company reported quarterly revenue well below analyst expectations and cut its full-year revenue guidance significantly. Based on this news, shares of Procept fell by more than 15.1% on the next day. If you are a shareholder who suffered a loss, click here to participate.",
+    "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Los Angeles, California, United States",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "geo_resolution_source": "city:los angeles",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "treasury",
+      "financial",
+      "capital",
+      "finance"
+    ]
+  },
+  {
+    "event_index": 48,
+    "event_id": "generated://event/ecffa121bef62f14",
+    "headline": "Urgent call from the UAE to South Korea: Accelerate the delivery.",
+    "summary": "The United Arab Emirates has requested South Korea to expedite the delivery of Cheongung-II air defense systems. The increasing risk of conflict in the region by March 2026 has led the UAE to demand not only new batteries but also additional preventive missile supplies for critical stockpiles. The UAE's Minister of State for Defense Affairs, Mohammed al-Mazrouei, held meetings with defense ministers from various countries to develop joint defense cooperation. The countries Mazrouei spoke with included France, Italy, Greece, and South Korea.",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "United Arab Emirates, South Korea",
+    "lat": 23.4241,
+    "lon": 53.8478,
+    "geo_resolution_source": "country:united arab emirates",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "missile",
+      "defense"
+    ]
+  },
+  {
+    "event_index": 49,
+    "event_id": "generated://event/027023b53ab7e4fd",
+    "headline": "Iranian supreme leader\u2019s son takes country\u2019s top job, cementing hardliners\u2019 grip on power",
+    "summary": "Mojtaba Khamenei has been elevated to the position his father held for nearly four decades. He is married to Zahra, the daughter of former speaker of parliament and Khamenei confidant Gholam Haddad Adel. Many believe he played a pivotal role in pushing for the election of the hardline Mahmoud Ahmadinejad in the 2005 presidential elections. He was sanctioned by the US in 2019 after the US Treasury accused him of working closely with the commander of the powerful Revolutionary Guards.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "regulator",
+      "parliament",
+      "sanction"
+    ]
+  },
+  {
+    "event_index": 53,
+    "event_id": "generated://event/c73e6ea9dd289d81",
+    "headline": "Mawani Records 20.89% Growth in Container Throughput for February 2026 Year-on-Year",
+    "summary": "Inbound containers increased 26.18% to 272,210 TEUs, compared with 215,735 TEUs in the same period last year. The ports received 837,548 head of livestock, a 19.99% increase from 698,035. Total cargo throughput - including general cargo, solid bulk, and liquid bulk - rose by 9.22% to 18,150,103 tons, compared to 16,618,189 tons.",
+    "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Riyadh, Saudi Arabia",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "geo_resolution_source": "city:riyadh",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "logistics",
+      "cargo",
+      "port"
+    ]
+  },
+  {
+    "event_index": 86,
+    "event_id": "generated://event/cd6bd9ced5f60b93",
+    "headline": "UAE selected member of UN's Consultative Advisory Board on Fundamental Principles of Official Statistics",
+    "summary": "The United Nations Statistical Commission has selected the UAE as a member of the Advisory Board on the Fundamental Principles of Official Statistics. The announcement was made during the UAE's participation in the 57th session of the UN Statistical Commission, held in New York from 3rd to 6th March. The board brings together a distinguished group of international experts and specialists in official statistics. The UAE's selection to the advisory board represents a significant milestone in its international leadership.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "New York, United States; United Arab Emirates",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "regulator"
+    ]
+  },
+  {
+    "event_index": 94,
+    "event_id": "generated://event/37d7645273debf2e",
+    "headline": "The Iran war has cost the US dearly! The figures are increasing exponentially every second.",
+    "summary": "The US-Israel war with Iran has entered its ninth day. In these eight days, the cost of attacks on Iran for the US has reached 8.3 billion dollars. According to the Pentagon's own estimates, this means 1 billion dollars for this day, or 41.6 million dollars per hour. The cost of the ammunition used in operations targeting many cities, especially Tehran, Kerman, and Isfahan, has reached billions of dollars.",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "United States, Iran",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 96,
+    "event_id": "generated://event/4e36a57305e0e2b0",
+    "headline": "Iran struck at the heart of Israel! The destruction in the city is massive, a giant crater has formed.",
+    "summary": "For the first time, oil storage facilities and refinery plants in Tehran were targeted, resulting in large fires in the city. In missile attacks carried out this afternoon, missiles that evaded air defense systems fell in Tel Aviv. A large crater was created in the middle of the capital, and it was reported that there were injuries. Iranian officials claimed that the US bombed the drinking water facility on Qeshm Island, while it was stated that a new religious leader had been elected.",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "Israel",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "geo_resolution_source": "country:israel",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "oil",
+      "refinery"
+    ]
+  },
+  {
+    "event_index": 100,
+    "event_id": "generated://event/11e2e0faf1fae749",
+    "headline": "The country stained with the blood of war! The toll has reached terrifying proportions.",
+    "summary": "The death toll from Israeli attacks on Lebanon since March 2 has risen to 394, with the number of injured reaching 1,130. Israel continues its intense attacks that began on March 2 against Lebanon. The Israeli army announced that it had launched airstrikes across Lebanon and targeted the capital Beirut. The Ministry of Health had previously announced that the. number of those who lost their lives in the attacks had risen to 294, while the number. of injured had increased to 1,023.",
+    "structural_domain": "Climate-Driven Migration Pressure",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Lebanon",
+    "lat": 33.8547,
+    "lon": 35.8623,
+    "geo_resolution_source": "country:lebanon",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "api",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 107,
+    "event_id": "generated://event/3266f618af65761d",
+    "headline": "After the rivers of fire, a rain of oil! A 'poison' warning has come from the Iranian Red Crescent.",
+    "summary": "Fires caused by leaking oil spread flames along major roads, creating images referred to as \"fire rivers\" After the attacks, oil rained down on the city following the rain. The Iranian Red Crescent warned the public about the risk of \"toxic rain\" due to possible chemical reactions in the atmosphere. Authorities warned citizens to stay home and wear masks, pointing out that oil residues could fall to the ground. Fuel sales in the capital had been temporarily halted completely.",
+    "structural_domain": "Wildfire Regime Escalation",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Tehran, Iran",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "geo_resolution_source": "city:tehran",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "api",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 109,
+    "event_id": "generated://event/2d55cdfa8351ce73",
+    "headline": "Design, synthesis and pharmacological evaluation of phenylthiophene-2-carboxamide-based RSV fusion protein inhibitors.",
+    "summary": "Respiratory syncytial virus (RSV) remains a significant cause of serious lower respiratory tract infection. A series of amide bond containing fluorinated benzimidazole derivatives was synthesized. Substitution of the N-phenylcarboxamide moiety with five-membered heteroaryl groups led to enhanced potency. 2- and 3-halogenated thiophene rings significantly improved anti-RSV activity.",
+    "structural_domain": "Public Health & Pandemic Risk",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "",
+    "lat": null,
+    "lon": null,
+    "geo_resolution_source": "none",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "bond"
+    ]
+  },
+  {
+    "event_index": 121,
+    "event_id": "generated://event/fe4ab375e20e91fb",
+    "headline": "It was expressed for the first time! Special forces are involved in the war, there is a single purpose.",
+    "summary": "US and Israel considered sending special forces to Iran to seize highly enriched uranium stockpiles in later stages of war. Sources argued that this step could be taken \"during a period when it is assured that the Iranian army does not pose a serious threat\" Officials from the Trump administration, whose names were not disclosed, claimed that discussions were also held regarding the \"seizure\" of Hark Island, which is said to be Iran's largest oil terminal.",
+    "structural_domain": "Youth Radicalization & Extremism",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 136,
+    "event_id": "generated://event/ace793c50a38da9a",
+    "headline": "Putin's historic lesson to Modi, who kneels before the USA.",
+    "summary": "India has once again turned to Moscow following the global energy crisis. Russia has announced that this time it will sell oil without applying discounts and at higher prices. India, one of the world's largest oil importers, had turned to discounted Russian oil in recent years due to sanctions. The US administration has requested that India reduce its oil purchases from Moscow within the framework of sanctions against Russia. But after the outbreak of the war, the global oil crisis led America to grant India a \"permission\" to purchase Russian oil again for 30 days.",
+    "structural_domain": "Trade War & Tariff Weaponization",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "India",
+    "lat": 20.5937,
+    "lon": 78.9629,
+    "geo_resolution_source": "country:india",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 5,
+    "event_id": "generated://event/f5140b894441d7a6",
+    "headline": "GenSight Biologics Provides Updates about GS010/LUMEVOQ\u00ae Early Access Programs and the Ongoing REVISE Study",
+    "summary": "GenSight Biologics is a biopharma company focused on developing and commercializing innovative gene therapies for retinal neurodegenerative diseases and central nervous system disorders. The Company's candidate gene therapy in clinical development is a treatment for Leber Hereditary Optic Neuropathy (LHON) caused by a mutated ND4 mitochondrial gene. The dose-ranging study REVISE is progressing on schedule, with the first patient treated in February and the second patient expected to be enrolled over the next few weeks.",
+    "structural_domain": "Regulatory Access Restriction Mechanism",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.73,
+    "geography": "France",
+    "lat": 46.2276,
+    "lon": 2.2137,
+    "geo_resolution_source": "country:france",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "gene therapy",
+      "pharma",
+      "patient"
+    ]
+  },
+  {
+    "event_index": 26,
+    "event_id": "generated://event/2915b4c5b6b8c457",
+    "headline": "Sport Ministry Announces Extension of Rectification Period for Professional Licensing and Program Accreditation Regulations",
+    "summary": "The extension applies to all individuals practicing professions related to sports activities. The ministry emphasized the importance of promptly rectifying statuses before the extended deadline to avoid the penalties stipulated in the regulations. The extension aims to enable those concerned to fulfill the requirements and conditions in the best possible manner, while the ministry continues its efforts to develop the regulatory framework for sports professions, regulate their practice, and create a safe and professional sports environment that aligns with national objectives.",
+    "structural_domain": "Policy Signal Volatility Mechanism",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.73,
+    "geography": "Riyadh, Saudi Arabia",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "geo_resolution_source": "city:riyadh",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "policy",
+      "regulator",
+      "ministry"
+    ]
+  },
+  {
+    "event_index": 30,
+    "event_id": "generated://event/3cf3e995bb929bbe",
+    "headline": "AmMetLife Insurance appoints Wan Saifulrizal Wan Ismail as Chief Executive Officer",
+    "summary": "Wan Saifulrizal Wan Ismail has been appointed as the company's Chief Executive Officer. He succeeds Rangam Bir, who has left the company to pursue other opportunities. Wan has nearly 30 years of experience in the insurance and takaful industries. AmMetLife, established in 1973 as AmLife Insurance Berhad, is one of the longest-serving insurers in Malaysia. It is a joint venture between AmBank Group and MetLife.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.73,
+    "geography": "Kuala Lumpur, Malaysia",
+    "lat": 3.139,
+    "lon": 101.6869,
+    "geo_resolution_source": "city:kuala lumpur",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "insurance",
+      "bank"
+    ]
+  },
+  {
+    "event_index": 33,
+    "event_id": "generated://event/dd336d66df6850e3",
+    "headline": "DINO Investors Have Opportunity to Join HF Sinclair Corporation Fraud Investigation with the Schall Law Firm",
+    "summary": "HF Sinclair announced on February 18, 2026, that CEO and President Tim Go would \"take a voluntary leave of absence from his duties\" Shares of HF Sinclair fell by more than 10.8% on the same day. If you are a shareholder who suffered a loss, click here to participate. You can also contact Brian Schall of the Schall Law Firm, 2049 Century Park East, Suite 2460, Los Angeles, CA 90067, to discuss your rights free of charge.",
+    "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.73,
+    "geography": "United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "treasury",
+      "capital",
+      "finance"
+    ]
+  },
+  {
+    "event_index": 38,
+    "event_id": "generated://event/7dd6b504f56eea1f",
+    "headline": "BFAM Investors Have Opportunity to Join Bright Horizons Family Solutions Inc. Fraud Investigation with the Schall Law Firm",
+    "summary": "The Schall Law Firm is investigating claims on behalf of investors of Bright Horizons Family Solutions Inc. (NYSE: BFAM) The investigation focuses on whether the Company issued false and/or misleading statements. The Company reported significantly reduced net income and diluted earnings per share due to a $14.8 million impairment and lease termination costs related to childcare facility closures. Based on this news, shares of Bright Horizon fell by 18.25% on February 13, 2026.",
+    "structural_domain": "Capital Allocation & Investment Cycle Distortion",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.73,
+    "geography": "Los Angeles, California, United States",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "geo_resolution_source": "city:los angeles",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "treasury",
+      "capital",
+      "finance"
+    ]
+  },
+  {
+    "event_index": 55,
+    "event_id": "generated://event/cd8b155f148802b3",
+    "headline": "You've never seen anything like this before! Referee reaction from Sadettin Saran.",
+    "summary": "Fenerbah\u00e7e President Sadettin Saran spoke after the victory against Samsunspor in the 25th week of the Super League. Criticizing the referees' management, Saran said, \"I want to mention the referees. We all watched together yesterday and today. We want a fair competitive environment\" \"I fear that if this continues, there will be no referees left to officiate matches by the end of the year!\"",
+    "structural_domain": "Sovereign Debt Distress",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.73,
+    "geography": "Turkey",
+    "lat": 38.9637,
+    "lon": 35.2433,
+    "geo_resolution_source": "country:turkey",
+    "sector": "Financial Services",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 0,
+    "event_id": "generated://event/af92a10e2f5d4ef1",
+    "headline": "A historical challenge from Kim: The nuclear button is on my desk.",
+    "summary": "North Korean leader Kim Jong Un has made harsh statements targeting the United States. Kim emphasized that the entire territory of the U.S. is within North Korea's attack range. Experts warn that the renewed nuclear tensions between Pyongyang and Washington could affect not only the Korean Peninsula but also global security. \"The nuclear button is always on my desk,\" Kim said, claiming that North Korea has the power to hit any point on the American continent without prior warning.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "North Korea",
+    "lat": 40.3399,
+    "lon": 127.5101,
+    "geo_resolution_source": "country:north korea",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 10,
+    "event_id": "generated://event/43858b8c395b134c",
+    "headline": "Crisis on the 10th day of the Iran war! Israel's move drove Trump crazy.",
+    "summary": "The US administration is concerned about the extent of Israel's airstrikes on oil depots in Iran. Israel's attacks have exceeded Washington's expectations and have led to disagreements between the two allies. According to Iranian officials, 1,332 people lost their lives in the U.S.-Israel attacks. The Iranian army warned that if the country's energy infrastructure continued to be targeted, it would aim at oil facilities in the region. President Donald Trump stated that the President \"wants to protect oil\"",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "army",
+      "airstrike"
+    ]
+  },
+  {
+    "event_index": 12,
+    "event_id": "generated://event/f16a04ea0acea358",
+    "headline": "The war has hit the markets hard! Historic rise in oil prices.",
+    "summary": "The price of Brent crude oil per barrel on ICE increased by 26% to reach $119. In Asian trading, the price of West Texas Intermediate crude oil also rose by 24.37% to trade at $113.05 per barrel. Experts point out that if geopolitical risks persist, high volatility in energy markets may continue in the short term. U.S. President Donald Trump argued that the rise in oil prices would not be permanent.",
+    "structural_domain": "Commodity Supercycle Shock",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Middle East",
+    "lat": 20.0,
+    "lon": 0.0,
+    "geo_resolution_source": "global-default",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 14,
+    "event_id": "generated://event/ae51f71ca645b59b",
+    "headline": "Iran names slain Khamenei\u2019s son supreme leader while oil soars above $100",
+    "summary": "Israel says it launched strikes on Beirut and Iran, while Tehran announces missile launches. Israel's attacks on Iran's energy resources and fuel storage sites have pushed the war into a \"new phase,\" a senior Iranian official has warned. The widening conflict sent the price of oil surging past $100 per barrel on Sunday, the first time it crossed that mark since Russia's 2022 invasion of Ukraine. The Islamic Revolutionary Guard Corps announced new missile launches hours after Iran named its new supreme leader.",
+    "structural_domain": "Youth Radicalization & Extremism",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 16,
+    "event_id": "generated://event/8df0623aea2f95e9",
+    "headline": "Trump\u2019s Iran war drags the world into his tear-it-down politics",
+    "summary": "The Iran war has pulled the world more deeply than ever into the disorienting vortex that has already defined American life. The US' and Israel's opening strikes - which killed Iran's supreme leader, Ayatollah Ali Khamenei - sent off a regional pandemonium. The Iran war shock waves pummeled a transatlantic alliance already reeling from Trump's renewed demands in January that Greenland join the United States. The cutoff of liquified national gas production in Qatar and the effective closure of the Strait of Hormuz are spiking economic mayhem.",
+    "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+    "internal_theme": "Human Resources",
+    "severity_score": 0.83,
+    "geography": "Strait of Hormuz",
+    "lat": 26.5667,
+    "lon": 56.25,
+    "geo_resolution_source": "city:strait of hormuz",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "logistics",
+      "hormuz"
+    ]
+  },
+  {
+    "event_index": 46,
+    "event_id": "generated://event/5eefa08888c220cb",
+    "headline": "Week 2 of Iran: Military momentum meets economic and political reality",
+    "summary": "Iranian state media announced that Khamenei's 56-year old son, Mojtaba, was selected as Iran's next supreme leader - its third since the 1979 revolution. The United States together with Israel and a broader coalition in defense is now prosecuting a methodical military campaign. Cutting the military campaign short mid-stream might be the worst outcome of all - leaving behind a wounded but intact Iranian regime with residual missile and nuclear capabilities. The economic factor and the Strait of Hormuz that might emerge as the dominant issue.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "military",
+      "nuclear",
+      "missile",
+      "defense"
+    ]
+  },
+  {
+    "event_index": 47,
+    "event_id": "generated://event/022b562756001b72",
+    "headline": "Oil prices soar past $100 a barrel as war escalates in Iran",
+    "summary": "US crude futures rose 14.7%. Brent futures, the global benchmark, increased 12.63%. Dow futures, meanwhile, dropped 851.6 points, or 2%. S&P 500 and Nasdaq futures fell 1.73% and 1.65%, respectively. The average price of gasoline in America reached $3.45 a gallon on Sunday, up 16% from the week prior. The Trump administration argued Sunday that the US and Israeli-led military campaign against Iran will only have short-term effects on oil and gas prices.",
+    "structural_domain": "Commodity Supercycle Shock",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "global",
+    "lat": 20.0,
+    "lon": 0.0,
+    "geo_resolution_source": "global-default",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "gas",
+      "oil"
+    ]
+  },
+  {
+    "event_index": 49,
+    "event_id": "generated://event/027023b53ab7e4fd",
+    "headline": "Iranian supreme leader\u2019s son takes country\u2019s top job, cementing hardliners\u2019 grip on power",
+    "summary": "Mojtaba Khamenei has been elevated to the position his father held for nearly four decades. He is married to Zahra, the daughter of former speaker of parliament and Khamenei confidant Gholam Haddad Adel. Many believe he played a pivotal role in pushing for the election of the hardline Mahmoud Ahmadinejad in the 2005 presidential elections. He was sanctioned by the US in 2019 after the US Treasury accused him of working closely with the commander of the powerful Revolutionary Guards.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "regulator",
+      "parliament",
+      "sanction"
+    ]
+  },
+  {
+    "event_index": 61,
+    "event_id": "generated://event/f97173a5c098f7a7",
+    "headline": "GCC permanent representatives meet UN chief over Iranian aggression",
+    "summary": "The permanent representatives of the Gulf Cooperation Council (GCC) member states to the United Nations in New York met with Ant\u00f3nio Guterres. The meeting reviewed the latest developments resulting from the Iranian attacks targeting civilian facilities, vital infrastructure, energy installations, as well as airports and ports. The permanent representatives also provided briefings on the scale of the attacks faced by GCC countries and the serious repercussions of these assaults on the security and stability of the region.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "New York, United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 69,
+    "event_id": "generated://event/f8c451095829739d",
+    "headline": "After the US-Israel attacks on Iran, Iraq's oil production decreased by 60%.",
+    "summary": "Iraq announced on Tuesday, March 3, that it would reduce crude oil production due to decreased exports resulting from the closure of the Strait of Hormuz. Israel and the US launched a military attack on Iran on February 28 while negotiations were ongoing between Tehran and the Washington administration. Iran responded with attacks on targets it identified in several regional countries, including Qatar, the United Arab Emirates (UAE), and Bahrain. In the US-Israel attacks, many high-ranking officials, including Iranian leader Ali Khamenei, were killed.",
+    "structural_domain": "Commodity Supercycle Shock",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Iraq",
+    "lat": 33.2232,
+    "lon": 43.6793,
+    "geo_resolution_source": "country:iraq",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "hormuz",
+      "port"
+    ]
+  },
+  {
+    "event_index": 90,
+    "event_id": "generated://event/e685b01d7e704fb2",
+    "headline": "Saudi Arabia Leads Globally in Women\u2019s AI Empowerment with Groundbreaking Initiatives",
+    "summary": "The Saudi Data and Artificial Intelligence Authority (SDAIA) offers specialized programs and workshops in partnership with global technology leaders. In just one year, over 666,000 Saudi women received training in data and AI. SDAIA has created a supportive work environment for women through flexible digital infrastructure, enabling remote work and work-life balance. This commitment reflects the Kingdom's dedication to building a sustainable, data-driven economy, with Saudi women now playing vital roles in shaping the future of advanced technologies.",
+    "structural_domain": "Technology Skills, Workforce & Knowledge Continuity",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "Riyadh, Saudi Arabia",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "geo_resolution_source": "city:riyadh",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "api",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 92,
+    "event_id": "generated://event/67552966556df0cf",
+    "headline": "Human Rights Society President: Legislative Developments in Saudi Arabia Boost Protection of Women\u2019s Rights, Reinforce Legal Guarantees",
+    "summary": "Alfakhri said legislative updates, national programs, and institutional initiatives in the Kingdom reflect growing attention to protecting rights. He added that these efforts support women's participation in development and enhance their presence across multiple sectors. Alfakhri also said the National Society for Human Rights, as an independent national institution dedicated to promoting and protecting human rights, closely monitors developments related to women's rights. The society works to raise awareness of rights and support initiatives that empower women.",
+    "structural_domain": "Cultural & Identity Polarization",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Riyadh, Saudi Arabia",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "geo_resolution_source": "city:riyadh",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 93,
+    "event_id": "generated://event/a8cfe3a14a4757f1",
+    "headline": "Image from Iran: Rushed to the gas station after hearing the news.",
+    "summary": "Long lines formed from the morning as the fuel quota was reduced. Concerns about fuel began to arise in the city following the attacks. Authorities have reduced the quota for fuel purchases made with personal fuel cards from 30 liters to 20 liters. The possible effects on Iran's energy infrastructure and potential issues in fuel supply are being closely monitored after the attacks by the U.S. and Israel in Tehran and its surroundings. The US and Israel targeted oil storage facilities near Tehran.",
+    "structural_domain": "Energy Production & Refining Infrastructure",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Tehran, Iran",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "geo_resolution_source": "city:tehran",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "gas",
+      "oil"
+    ]
+  },
+  {
+    "event_index": 96,
+    "event_id": "generated://event/4e36a57305e0e2b0",
+    "headline": "Iran struck at the heart of Israel! The destruction in the city is massive, a giant crater has formed.",
+    "summary": "For the first time, oil storage facilities and refinery plants in Tehran were targeted, resulting in large fires in the city. In missile attacks carried out this afternoon, missiles that evaded air defense systems fell in Tel Aviv. A large crater was created in the middle of the capital, and it was reported that there were injuries. Iranian officials claimed that the US bombed the drinking water facility on Qeshm Island, while it was stated that a new religious leader had been elected.",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Human Resources",
+    "severity_score": 0.83,
+    "geography": "Israel",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "geo_resolution_source": "country:israel",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "oil",
+      "refinery"
+    ]
+  },
+  {
+    "event_index": 106,
+    "event_id": "generated://event/6cabb5fcb41dc081",
+    "headline": "Diesel prices are climbing even faster than gas prices. Here\u2019s why you should care",
+    "summary": "Since the fighting started in Iran a week ago, gasoline prices are up 47 cents, or 16%, to $3.45 a gallon. But that's nothing compared to the 84 cent increase, or 22% rise in diesel prices, taking a gallon of that critical fuel to $4.60. Home heating oil and diesel are essentially identical products. Nearly every item in your home was on a truck at some point, which mostly runs on diesel.",
+    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "gas",
+      "oil"
+    ]
+  },
+  {
+    "event_index": 107,
+    "event_id": "generated://event/3266f618af65761d",
+    "headline": "After the rivers of fire, a rain of oil! A 'poison' warning has come from the Iranian Red Crescent.",
+    "summary": "Fires caused by leaking oil spread flames along major roads, creating images referred to as \"fire rivers\" After the attacks, oil rained down on the city following the rain. The Iranian Red Crescent warned the public about the risk of \"toxic rain\" due to possible chemical reactions in the atmosphere. Authorities warned citizens to stay home and wear masks, pointing out that oil residues could fall to the ground. Fuel sales in the capital had been temporarily halted completely.",
+    "structural_domain": "Wildfire Regime Escalation",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Tehran, Iran",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "geo_resolution_source": "city:tehran",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "api",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 121,
+    "event_id": "generated://event/fe4ab375e20e91fb",
+    "headline": "It was expressed for the first time! Special forces are involved in the war, there is a single purpose.",
+    "summary": "US and Israel considered sending special forces to Iran to seize highly enriched uranium stockpiles in later stages of war. Sources argued that this step could be taken \"during a period when it is assured that the Iranian army does not pose a serious threat\" Officials from the Trump administration, whose names were not disclosed, claimed that discussions were also held regarding the \"seizure\" of Hark Island, which is said to be Iran's largest oil terminal.",
+    "structural_domain": "Youth Radicalization & Extremism",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 124,
+    "event_id": "generated://event/2161cb6a81c64cb5",
+    "headline": "WAMY Commends Saudi Arabia's Pioneering Model for Women's Empowerment on International Women's Day",
+    "summary": "The assembly affirmed that the support and empowerment enjoyed by women in the Kingdom reflect the leadership's wise vision and its belief in the capabilities of Saudi women. WAMY noted that its global humanitarian and development programs prioritize women's empowerment by supporting education, vocational training, and capacity building, alongside social welfare programs aimed at mothers and families. These initiatives strengthen women's roles in developing and advancing their societies, according to the assembly. The assembly affirmed the leaders' belief in women's capabilities and their vital role in shaping the future.",
+    "structural_domain": "Youth Radicalization & Extremism",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Saudi Arabia, Riyadh",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "geo_resolution_source": "city:riyadh",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "api",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 136,
+    "event_id": "generated://event/ace793c50a38da9a",
+    "headline": "Putin's historic lesson to Modi, who kneels before the USA.",
+    "summary": "India has once again turned to Moscow following the global energy crisis. Russia has announced that this time it will sell oil without applying discounts and at higher prices. India, one of the world's largest oil importers, had turned to discounted Russian oil in recent years due to sanctions. The US administration has requested that India reduce its oil purchases from Moscow within the framework of sanctions against Russia. But after the outbreak of the war, the global oil crisis led America to grant India a \"permission\" to purchase Russian oil again for 30 days.",
+    "structural_domain": "Trade War & Tariff Weaponization",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "India",
+    "lat": 20.5937,
+    "lon": 78.9629,
+    "geo_resolution_source": "country:india",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 137,
+    "event_id": "generated://event/20d50474717dc662",
+    "headline": "Attacks in the morning of Tehran! Oil officially rained down like rain.",
+    "summary": "The Iranian Revolutionary Guards announced that they retaliated against Israel's attack on the Tehran Refinery. It was reported that the facility in Haifa was hit by a \"Haybar Shiken\" missile. In the US-Israel attacks, many high-ranking officials, including Iranian leader Ayatollah Ali Khamenei, were killed. Iranian Health Ministry Spokesman Hossein Kermanpur announced that 926 people lost their lives in the attacks.",
+    "structural_domain": "Climate-Driven Migration Pressure",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Tehran, Iran",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "geo_resolution_source": "city:tehran",
+    "sector": "Energy & Utilities",
+    "sector_keyword_hits": [
+      "oil",
+      "refinery"
+    ]
+  },
+  {
+    "event_index": 0,
+    "event_id": "generated://event/af92a10e2f5d4ef1",
+    "headline": "A historical challenge from Kim: The nuclear button is on my desk.",
+    "summary": "North Korean leader Kim Jong Un has made harsh statements targeting the United States. Kim emphasized that the entire territory of the U.S. is within North Korea's attack range. Experts warn that the renewed nuclear tensions between Pyongyang and Washington could affect not only the Korean Peninsula but also global security. \"The nuclear button is always on my desk,\" Kim said, claiming that North Korea has the power to hit any point on the American continent without prior warning.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "North Korea",
+    "lat": 40.3399,
+    "lon": 127.5101,
+    "geo_resolution_source": "country:north korea",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 1,
+    "event_id": "generated://event/deeae3e1af4af502",
+    "headline": "GigaDevice Strengthens Global Presence at Embedded World 2026, Showcasing System-Level Innovations for Humanoid Robotics, Industry, and Edge AI",
+    "summary": "GigaDevice is a leading semiconductor company specializing in Flash memory, 32-bit microcontrollers (MCUs), sensors, and analog products. At Embedded World 2026, GigaDevice will demonstrate its latest system-level capabilities and its role as a long-term solution partner for global industrial leaders. The company provides a comprehensive solution that combines high-performance GD32 MCUs, including the GD32H75E, GD32G5, and GD32F5 series.",
+    "structural_domain": "Industrial & Manufacturing Base Disruption",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Nuremberg, Germany",
+    "lat": 49.4521,
+    "lon": 11.0767,
+    "geo_resolution_source": "city:nuremberg",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "semiconductor",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 2,
+    "event_id": "generated://event/18c58624c4b87e85",
+    "headline": "Guangdong Signals Push Into Advanced Technologies as China Prepares Next Five-year Plan",
+    "summary": "Guangdong, China's largest provincial economy, plans to deepen focus on emerging technologies. Officials from the southern province outlined their priorities during an open meeting. Guangdong has long been one of the main engines of China's export-driven economy. The province has ranked first among Chinese regions in innovation capability for nine consecutive years, according to official assessments. the country's 15th Five-Year Plan period (2026-2030)",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Guangdong, China",
+    "lat": 23.1291,
+    "lon": 113.2644,
+    "geo_resolution_source": "city:guangdong",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 4,
+    "event_id": "generated://event/e655299b7cbda5ba",
+    "headline": "ENHERTU\u00ae Granted Priority Review in the U.S. as Post-Neoadjuvant Treatment for Patients with HER2 Positive Early Breast Cancer",
+    "summary": "Based on DESTINY-Breast05 phase 3 trial results, which showed ENHERTU reduced the risk of invasive disease recurrence or death by 53% compared to T-DM1. If approved, Daiichi Sankyo and AstraZeneca's EN HERTU has the potential to become a new standard of care in this early breast cancer setting. \"While there has been significant progress in treating HER2 positive early. breast cancer, managing patients at a higher risk of recurrence remains challenging,\" said Susan Galbraith, MBBChir, PhD, Executive Vice President, Oncology Hematology R&D, Astra Zeneca.",
+    "structural_domain": "Policy Signal Volatility Mechanism",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "patient",
+      "oncology"
+    ]
+  },
+  {
+    "event_index": 7,
+    "event_id": "generated://event/1a2a1ba60e6efcba",
+    "headline": "Community first-responders in cardiac arrest. Effect on survival? A comprehensive Danish study of 29,445 out-of-hospital cardiac arrests.",
+    "summary": "Since 2018, Denmark has implemented a national community first-responder system, activated by the emergency dispatch centre. The responders are dispatched to all out-of-hospital cardiac arrests (OHCA) In 505 cases, the provider of the initial CPR was unclear. Provision of initial resuscitative efforts by on-scene bystanders before ambulance arrival was associated with odds ratios of 2.42 for 30-day survival and 2.51 for 365-year survival.",
+    "structural_domain": "Healthcare Infrastructure System Failure",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Denmark",
+    "lat": 56.2639,
+    "lon": 9.5018,
+    "geo_resolution_source": "country:denmark",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "hospital",
+      "healthcare"
+    ]
+  },
+  {
+    "event_index": 8,
+    "event_id": "generated://event/d0670a3b943a4679",
+    "headline": "KYOCERA Document Solutions \u2013 \u201cFOREARTH\u201d adopted for ANREALAGE\u2019s Paris Fashion Week AUTUMN/WINTER 2026-27 collection, presented in collaboration with \u201cGHOST IN THE SHELL\u201d",
+    "summary": "Kyocera's sustainable inkjet textile printer \"FOREARTH\" was used on garments in the collection presented by fashion brand ANREALAGE at Paris Fashion Week. The collection comprised 27 looks, 15 of which featured FOREARTH prints. This marks the fifth collaboration between Kyocera and ANRE realage. The intersection of creation, technology, and sustainability is a central theme for ANRErealAGE today, says designer Kunihiko Morinaga.",
+    "structural_domain": "Platform Ecosystem Fragmentation",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Paris, France",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "geo_resolution_source": "city:paris",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "platform",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 9,
+    "event_id": "generated://event/3f81e1cf5eb898e7",
+    "headline": "Galderma Introduces Cetaphil AM/PM Antioxidant Serums, a New Science-Driven Defense and Recovery System for Sensitive Skin",
+    "summary": "Cetaphil AM/PM Antioxidant Serums are clinically designed to defend skin by day and support accelerated repair by night for sensitive, stressed skin. An estimated 78% of people report experiencing skin sensitivity. Galderma research demonstrates that sensitive skin exhibits 16% higher oxidative stress compared to non-sensitive skin under modern environmental conditions. Together, these findings underscore the need for solutions designed to meet the needs of sensitive skin across ages, environments, and lifestyles.",
+    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Canton of Zug, Switzerland",
+    "lat": 47.1662,
+    "lon": 8.5155,
+    "geo_resolution_source": "city:zug",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 10,
+    "event_id": "generated://event/43858b8c395b134c",
+    "headline": "Crisis on the 10th day of the Iran war! Israel's move drove Trump crazy.",
+    "summary": "The US administration is concerned about the extent of Israel's airstrikes on oil depots in Iran. Israel's attacks have exceeded Washington's expectations and have led to disagreements between the two allies. According to Iranian officials, 1,332 people lost their lives in the U.S.-Israel attacks. The Iranian army warned that if the country's energy infrastructure continued to be targeted, it would aim at oil facilities in the region. President Donald Trump stated that the President \"wants to protect oil\"",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "army",
+      "airstrike"
+    ]
+  },
+  {
+    "event_index": 11,
+    "event_id": "generated://event/7b4f78f41bca8766",
+    "headline": "Video message from \u0130mamo\u011flu before the \u0130BB trial: I will not defend myself.",
+    "summary": "The trial of 407 defendants, including Ekrem \u0130mamo\u011flu, begins today at the Marmara Open Prison Campus. The first hearing of the case will start today and will continue four days a week until the end of April. CHP Chairman \u00d6zg\u00fcr \u00d6zel will be in Silivri for the trial. The indictment requests prison sentences ranging from 556 years and 8 months to 1542 years and 6 months for Kele\u015f.",
+    "structural_domain": "Civic Institution Trust Erosion",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Silivri, Turkey",
+    "lat": 41.0735,
+    "lon": 28.246,
+    "geo_resolution_source": "city:silivri",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 13,
+    "event_id": "generated://event/faa556d092f0f473",
+    "headline": "SkyDrive Reaches Agreement with Japan\u2019s Civil Aviation Authority on its General Certification Plan, a Core Element of the Type Certification Process",
+    "summary": "SkyDrive has reached agreement with the Japan Civil Aviation Bureau on the General Certification Plan for its \"SKYDRIVE\" (SkyDrive Model SD-05) Agreement represents a core certification milestone that significantly reduces future type certification risk. Looking ahead to the commercial launch of our eVTOL in 2028, we will continue to move steadily forward with our aircraft development. \"eVTOL\" is an abbreviation for electric Vertical Takeoff and Landing.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Japan",
+    "lat": 36.2048,
+    "lon": 138.2529,
+    "geo_resolution_source": "country:japan",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 14,
+    "event_id": "generated://event/ae51f71ca645b59b",
+    "headline": "Iran names slain Khamenei\u2019s son supreme leader while oil soars above $100",
+    "summary": "Israel says it launched strikes on Beirut and Iran, while Tehran announces missile launches. Israel's attacks on Iran's energy resources and fuel storage sites have pushed the war into a \"new phase,\" a senior Iranian official has warned. The widening conflict sent the price of oil surging past $100 per barrel on Sunday, the first time it crossed that mark since Russia's 2022 invasion of Ukraine. The Islamic Revolutionary Guard Corps announced new missile launches hours after Iran named its new supreme leader.",
+    "structural_domain": "Youth Radicalization & Extremism",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 16,
+    "event_id": "generated://event/8df0623aea2f95e9",
+    "headline": "Trump\u2019s Iran war drags the world into his tear-it-down politics",
+    "summary": "The Iran war has pulled the world more deeply than ever into the disorienting vortex that has already defined American life. The US' and Israel's opening strikes - which killed Iran's supreme leader, Ayatollah Ali Khamenei - sent off a regional pandemonium. The Iran war shock waves pummeled a transatlantic alliance already reeling from Trump's renewed demands in January that Greenland join the United States. The cutoff of liquified national gas production in Qatar and the effective closure of the Strait of Hormuz are spiking economic mayhem.",
+    "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Strait of Hormuz",
+    "lat": 26.5667,
+    "lon": 56.25,
+    "geo_resolution_source": "city:strait of hormuz",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "logistics",
+      "hormuz"
+    ]
+  },
+  {
+    "event_index": 17,
+    "event_id": "generated://event/5461f57c4dec06bc",
+    "headline": "A critical step from Turkey while the war continues! The F-16 is departing today.",
+    "summary": "Sources from the Ministry of National Defense announced that the deployment of F-16 aircraft to the island is being evaluated to ensure the security of Northern Cyprus. Acting Director of the Civil Aviation Authority, A\u015fk\u0131n Me\u015feli, stated today that 6 F- 16 fighter jets will be sent to the TRNC. The British base Akrotiri located in the Greek Cypriot Administration (GCA) was targeted by an Iranian drone on March 2.",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Northern Cyprus",
+    "lat": 35.1264,
+    "lon": 33.4299,
+    "geo_resolution_source": "country:cyprus",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 18,
+    "event_id": "generated://event/80e86a8251a0a9b9",
+    "headline": "'When will the war end?' Trump dodged the question.",
+    "summary": "President Donald Trump stated that he would make the final decision on when to end the attacks they have initiated against Iran, after consulting with Israeli Prime Minister Benjamin Netanyahu. Trump did not specify a clear timeline for when the attacks would cease. White House Press Secretary Karoline Leavitt stated in a Friday announcement that the Washington administration expected the war to last 4 to 6 weeks. On February 28, Trump said, \"We worked together and we destroyed a country that wanted to eliminate Israel\"",
+    "structural_domain": "Policy Signal Volatility Mechanism",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "United States, Iran",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 21,
+    "event_id": "generated://event/c8f37089b2ecb9c9",
+    "headline": "Hezbollah has changed tactics! They have started full-scale guerrilla warfare.",
+    "summary": "Hezbollah in Lebanon has transitioned from a \"semi-regular army\" style to a \"fully-fledged guerrilla warfare\" style in its attacks against Israel. Israel's Channel 12 television based on Israeli military sources, Hezbollah has begun to base its attacks on the front line on \"small and mobile units\" elements of Hezbollah's Radwan Force have spread to southern Lebanon and are conducting attacks on Israeli forces on both sides of the border from there.",
+    "structural_domain": "Border Militarization & Forward Deployment",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "northern Israel",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "geo_resolution_source": "country:israel",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "military",
+      "army"
+    ]
+  },
+  {
+    "event_index": 22,
+    "event_id": "generated://event/2f97e11687d5ac55",
+    "headline": "Israel attempted to infiltrate the country, their helicopter was shot down! There are dozens of dead.",
+    "summary": "Israeli army attempted to land soldiers by helicopter near the town of Nabi Sheet, close to the Syrian border in Lebanon. French media claimed that the Israeli helicopter was shot down. Hezbollah had announced that Israel's infiltration attempt had been repelled. The Lebanese Ministry of Health announced that the death toll from these Israeli attacks has risen to 41. The Israeli army entered Lebanon from the direction of Syria last week, landing troops near the towns of El-Hariba and Maaraboun.",
+    "structural_domain": "Climate-Driven Migration Pressure",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Lebanon",
+    "lat": 33.8547,
+    "lon": 35.8623,
+    "geo_resolution_source": "country:lebanon",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 24,
+    "event_id": "generated://event/8e6e7c8601764b57",
+    "headline": "Hours-long delays at airports Sunday due to TSA shortages as DHS shutdown shows no sign of ending",
+    "summary": "TSA lines at Houston's William P. Hobby Airport stretched for more than three hours Sunday. Long lines were also reported at Louis Armstrong New Orleans International Airport. \"The Government shutdown may impact security operations from one day - and even one shift to the next,\" Hobby airport says. DHS blames Democrats for holding spring break travel \"hostage for political points,\" blaming them for the shutdown, which has been in place since mid-February..",
+    "structural_domain": "Transportation Network Disruption",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 31,
+    "event_id": "generated://event/103c2d5b6e5e187c",
+    "headline": "BCS Investors Have Opportunity to Join Barclays PLC Fraud Investigation with the Schall Law Firm",
+    "summary": "The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Barclays PLC. The investigation focuses on whether the Company issued false and/or misleading statements. Barclays is the subject of a Reuters report published on February 27, 2026, titled: \"Wall Street hit by UK mortgage lender collapse, raising fears of more credit \u2018cockroaches'\" If you are a shareholder who suffered a loss, click here to participate.",
+    "structural_domain": "Industry Governance & Transparency Failures",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "United Kingdom",
+    "lat": 55.3781,
+    "lon": -3.436,
+    "geo_resolution_source": "country:united kingdom",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "credit"
+    ]
+  },
+  {
+    "event_index": 34,
+    "event_id": "generated://event/75d1a0f018a64ea1",
+    "headline": "Targeted detection of Mycobacterium tuberculosis MPT64 antigen using an antibody-coated nanoporous anodic alumina biosensor: A novel approach for tuberculosis screening.",
+    "summary": "According to WHO's Global Tuberculosis Report 2024, TB has again become the leading cause of death from a single infectious agent. This study presents a fluorogenic biosensor for detecting M. tuberculosis MPT64 antigen using gated nanoporous anodic alumina. The biosensor achieves a limit of detection (LOD) of 1.32 nM (0.032 mg L-1) for MPT 64 protein and demonstrated high selectivity through testing against other viral pathogens and bacterial species.",
+    "structural_domain": "Public Health & Pandemic Risk",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "global",
+    "lat": 20.0,
+    "lon": 0.0,
+    "geo_resolution_source": "global-default",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 36,
+    "event_id": "generated://event/4cfb11352898ebcb",
+    "headline": "Rapid Identification of HIV Among People Who Inject Drugs: Tampa, FL, 2024",
+    "summary": "In 2022, the IDEA Exchange Tampa, Florida's second legally sanctioned SSP, transitioned from an opt-in to a routine opt-out screening model. This shift identified six anonymous participants with acute and untreated HIV. Clinical counseling sessions revealed that these individuals were part of an interconnected 26-person risk network involving needle-sharing and sex exchange behaviors. All six participants were linked to care within an average of 7.5 days (100% linkage rate)",
+    "structural_domain": "Public Health & Pandemic Risk",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Tampa, Florida, United States",
+    "lat": 27.9506,
+    "lon": -82.4572,
+    "geo_resolution_source": "city:tampa",
+    "sector": "Technology & Telecommunications",
+    "sector_keyword_hits": [
+      "drug"
+    ]
+  },
+  {
+    "event_index": 4,
+    "event_id": "generated://event/e655299b7cbda5ba",
+    "headline": "ENHERTU\u00ae Granted Priority Review in the U.S. as Post-Neoadjuvant Treatment for Patients with HER2 Positive Early Breast Cancer",
+    "summary": "Based on DESTINY-Breast05 phase 3 trial results, which showed ENHERTU reduced the risk of invasive disease recurrence or death by 53% compared to T-DM1. If approved, Daiichi Sankyo and AstraZeneca's EN HERTU has the potential to become a new standard of care in this early breast cancer setting. \"While there has been significant progress in treating HER2 positive early. breast cancer, managing patients at a higher risk of recurrence remains challenging,\" said Susan Galbraith, MBBChir, PhD, Executive Vice President, Oncology Hematology R&D, Astra Zeneca.",
+    "structural_domain": "Policy Signal Volatility Mechanism",
+    "internal_theme": "Human Resources",
+    "severity_score": 0.83,
+    "geography": "United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "patient",
+      "oncology"
+    ]
+  },
+  {
+    "event_index": 7,
+    "event_id": "generated://event/1a2a1ba60e6efcba",
+    "headline": "Community first-responders in cardiac arrest. Effect on survival? A comprehensive Danish study of 29,445 out-of-hospital cardiac arrests.",
+    "summary": "Since 2018, Denmark has implemented a national community first-responder system, activated by the emergency dispatch centre. The responders are dispatched to all out-of-hospital cardiac arrests (OHCA) In 505 cases, the provider of the initial CPR was unclear. Provision of initial resuscitative efforts by on-scene bystanders before ambulance arrival was associated with odds ratios of 2.42 for 30-day survival and 2.51 for 365-year survival.",
+    "structural_domain": "Healthcare Infrastructure System Failure",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Denmark",
+    "lat": 56.2639,
+    "lon": 9.5018,
+    "geo_resolution_source": "country:denmark",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "hospital",
+      "healthcare"
+    ]
+  },
+  {
+    "event_index": 9,
+    "event_id": "generated://event/3f81e1cf5eb898e7",
+    "headline": "Galderma Introduces Cetaphil AM/PM Antioxidant Serums, a New Science-Driven Defense and Recovery System for Sensitive Skin",
+    "summary": "Cetaphil AM/PM Antioxidant Serums are clinically designed to defend skin by day and support accelerated repair by night for sensitive, stressed skin. An estimated 78% of people report experiencing skin sensitivity. Galderma research demonstrates that sensitive skin exhibits 16% higher oxidative stress compared to non-sensitive skin under modern environmental conditions. Together, these findings underscore the need for solutions designed to meet the needs of sensitive skin across ages, environments, and lifestyles.",
+    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Canton of Zug, Switzerland",
+    "lat": 47.1662,
+    "lon": 8.5155,
+    "geo_resolution_source": "city:zug",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 22,
+    "event_id": "generated://event/2f97e11687d5ac55",
+    "headline": "Israel attempted to infiltrate the country, their helicopter was shot down! There are dozens of dead.",
+    "summary": "Israeli army attempted to land soldiers by helicopter near the town of Nabi Sheet, close to the Syrian border in Lebanon. French media claimed that the Israeli helicopter was shot down. Hezbollah had announced that Israel's infiltration attempt had been repelled. The Lebanese Ministry of Health announced that the death toll from these Israeli attacks has risen to 41. The Israeli army entered Lebanon from the direction of Syria last week, landing troops near the towns of El-Hariba and Maaraboun.",
+    "structural_domain": "Climate-Driven Migration Pressure",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Lebanon",
+    "lat": 33.8547,
+    "lon": 35.8623,
+    "geo_resolution_source": "country:lebanon",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 34,
+    "event_id": "generated://event/75d1a0f018a64ea1",
+    "headline": "Targeted detection of Mycobacterium tuberculosis MPT64 antigen using an antibody-coated nanoporous anodic alumina biosensor: A novel approach for tuberculosis screening.",
+    "summary": "According to WHO's Global Tuberculosis Report 2024, TB has again become the leading cause of death from a single infectious agent. This study presents a fluorogenic biosensor for detecting M. tuberculosis MPT64 antigen using gated nanoporous anodic alumina. The biosensor achieves a limit of detection (LOD) of 1.32 nM (0.032 mg L-1) for MPT 64 protein and demonstrated high selectivity through testing against other viral pathogens and bacterial species.",
+    "structural_domain": "Public Health & Pandemic Risk",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "global",
+    "lat": 20.0,
+    "lon": 0.0,
+    "geo_resolution_source": "global-default",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 36,
+    "event_id": "generated://event/4cfb11352898ebcb",
+    "headline": "Rapid Identification of HIV Among People Who Inject Drugs: Tampa, FL, 2024",
+    "summary": "In 2022, the IDEA Exchange Tampa, Florida's second legally sanctioned SSP, transitioned from an opt-in to a routine opt-out screening model. This shift identified six anonymous participants with acute and untreated HIV. Clinical counseling sessions revealed that these individuals were part of an interconnected 26-person risk network involving needle-sharing and sex exchange behaviors. All six participants were linked to care within an average of 7.5 days (100% linkage rate)",
+    "structural_domain": "Public Health & Pandemic Risk",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Tampa, Florida, United States",
+    "lat": 27.9506,
+    "lon": -82.4572,
+    "geo_resolution_source": "city:tampa",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "drug"
+    ]
+  },
+  {
+    "event_index": 79,
+    "event_id": "generated://event/fcf6307f3a920cc8",
+    "headline": "Israel's first soldier casualty in the war! The number was announced by the army.",
+    "summary": "The Israeli army spokesperson reported that two soldiers, including a sergeant, were killed in the clashes in southern Lebanon. This is Israel's first soldier loss following the US-Israel attacks that began on February 28 and the ground invasion of Lebanon on March 2. Meanwhile, the Israeli army launched an attack with white phosphorus artillery shells on the town of Hiyam and Nahas Hill along the border. Lebanon's Health Minister Reken Nasreddin announced that the death toll from the attacks carried out by Israel on Lebanon since March 2 had increased by 100 to 394.",
+    "structural_domain": "Border Militarization & Forward Deployment",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "Lebanon",
+    "lat": 33.8547,
+    "lon": 35.8623,
+    "geo_resolution_source": "country:lebanon",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "port"
+    ]
+  },
+  {
+    "event_index": 100,
+    "event_id": "generated://event/11e2e0faf1fae749",
+    "headline": "The country stained with the blood of war! The toll has reached terrifying proportions.",
+    "summary": "The death toll from Israeli attacks on Lebanon since March 2 has risen to 394, with the number of injured reaching 1,130. Israel continues its intense attacks that began on March 2 against Lebanon. The Israeli army announced that it had launched airstrikes across Lebanon and targeted the capital Beirut. The Ministry of Health had previously announced that the. number of those who lost their lives in the attacks had risen to 294, while the number. of injured had increased to 1,023.",
+    "structural_domain": "Climate-Driven Migration Pressure",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "Lebanon",
+    "lat": 33.8547,
+    "lon": 35.8623,
+    "geo_resolution_source": "country:lebanon",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "api",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 101,
+    "event_id": "generated://event/ad7691c09a1b5543",
+    "headline": "[Reduction in hospital stay after the implementation of a clinical pathway for patients with pacemaker implantation].",
+    "summary": "Clinical pathways (CPs) are structured care plans designed to improve the quality of healthcare. In July 2020, we initiated a CP for patients admitted from the Emergency Department with a pacemaker indication. Patients without contraindications for early intervention were included in the CP and managed by the Arrhythmia Unit. There was a significant reduction in hospital stay, from 6.52\u00b12.21 days in 2019 to 5.01\u00b1 2.77 days in 2022.",
+    "structural_domain": "Healthcare Infrastructure System Failure",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Unknown",
+    "lat": null,
+    "lon": null,
+    "geo_resolution_source": "none",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "hospital",
+      "patient",
+      "healthcare"
+    ]
+  },
+  {
+    "event_index": 109,
+    "event_id": "generated://event/2d55cdfa8351ce73",
+    "headline": "Design, synthesis and pharmacological evaluation of phenylthiophene-2-carboxamide-based RSV fusion protein inhibitors.",
+    "summary": "Respiratory syncytial virus (RSV) remains a significant cause of serious lower respiratory tract infection. A series of amide bond containing fluorinated benzimidazole derivatives was synthesized. Substitution of the N-phenylcarboxamide moiety with five-membered heteroaryl groups led to enhanced potency. 2- and 3-halogenated thiophene rings significantly improved anti-RSV activity.",
+    "structural_domain": "Public Health & Pandemic Risk",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "",
+    "lat": null,
+    "lon": null,
+    "geo_resolution_source": "none",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "bond"
+    ]
+  },
+  {
+    "event_index": 137,
+    "event_id": "generated://event/20d50474717dc662",
+    "headline": "Attacks in the morning of Tehran! Oil officially rained down like rain.",
+    "summary": "The Iranian Revolutionary Guards announced that they retaliated against Israel's attack on the Tehran Refinery. It was reported that the facility in Haifa was hit by a \"Haybar Shiken\" missile. In the US-Israel attacks, many high-ranking officials, including Iranian leader Ayatollah Ali Khamenei, were killed. Iranian Health Ministry Spokesman Hossein Kermanpur announced that 926 people lost their lives in the attacks.",
+    "structural_domain": "Climate-Driven Migration Pressure",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "Tehran, Iran",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "geo_resolution_source": "city:tehran",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "oil",
+      "refinery"
+    ]
+  },
+  {
+    "event_index": 141,
+    "event_id": "generated://event/79be513b99f0471c",
+    "headline": "Antibody-drug conjugates: from efficacy testing to bioassay evaluation in modern drug development.",
+    "summary": "Antibody-drug conjugates (ADCs) have emerged as one of the fastest-growing therapeutic modalities in oncology. There are 15 FDA-approved ADCs and over 250 drugs in different stages of development. The fact that they are a multicomponent modality must be considered when designing preclinical programs, the authors say. The authors suggest that predictive biomarkers are identified early on to assess efficacy, specificity, and safety.",
+    "structural_domain": "Industry Standard & Regulatory Alignment Drift",
+    "internal_theme": "Human Resources",
+    "severity_score": 0.83,
+    "geography": "United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "drug",
+      "fda",
+      "oncology"
+    ]
+  },
+  {
+    "event_index": 154,
+    "event_id": "generated://event/3585a5ff779ceaf3",
+    "headline": "Engineering tumor-specific interferon-alpha-Nivolumab pro-immunocytokine for enhanced melanoma immunotherapy",
+    "summary": "Interferon-alpha (IFN\u03b1)-Nivolumab is a tumor-selective pro-immunocytokine. It combines IFN\u03b1 signaling with PD-1 blockade. In a humanized ASID mouse melanoma model, it significantly reduced tumor volume. It also showed increased CD4+/CD8+ T cell infiltration and enhanced MHC I expression. This strategy offers improved therapeutic efficacy and a favorable safety profile.",
+    "structural_domain": "Public Health & Pandemic Risk",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Unknown",
+    "lat": null,
+    "lon": null,
+    "geo_resolution_source": "none",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": []
+  },
+  {
+    "event_index": 155,
+    "event_id": "generated://event/b4d758e0df5ca3b1",
+    "headline": "68 Ga/ 177 Lu-labeled nectin4-targeted covalent bicyclic peptide: a novel nectin-4-targeted radioligands for theranostic of urothelial carcinoma",
+    "summary": "Nectin-4 is markedly overexpressed in urothelial carcinoma (UC) and represents a promising theranostic target for both radiotherapy and positron emission tomography (PET) imaging. Developing a non-invasive quantitative detection technology based on PET/CT imaging is crucial. The Food and Drug Administration (FDA)-approved Nectin -4-targeted drug, enfortumab vedotin, has demonstrated substantial efficacy in the treatment of UC.",
+    "structural_domain": "Policy Signal Volatility Mechanism",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "drug",
+      "fda"
+    ]
+  },
+  {
+    "event_index": 160,
+    "event_id": "generated://event/2f2c1ac7ec805f83",
+    "headline": "Pharmacotherapy in childhood obesity: Key points from the 2023 AAP clinical practice guideline",
+    "summary": "In the United States, approximately one fifth of youth are affected, leading to significant cardiometabolic, psychosocial, and economic consequences. The 2023 American Academy of Pediatrics Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents with Obesity introduced evidence-based recommendations. Intensive health behavior and lifestyle treatment (IHBLT) is the cornerstone of therapy with pharmacotherapy recommended for adolescents aged 12 years and older.",
+    "structural_domain": "Administrative Rulemaking Shift",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "pharma"
+    ]
+  },
+  {
+    "event_index": 174,
+    "event_id": "generated://event/c72b6e054cc00df5",
+    "headline": "Dissemination of vancomycin-resistant Enterococcus faecalis and Enterococcus faecium between humans and fishes",
+    "summary": "Vancomycin-resistant enterococci (VRE) are a major public health concern, yet little is known about their circulation in fish. This study investigated the occurrence, glycopeptide resistance genotypes, virulence characteristics, and sequence types of VRE isolated from diseased fishes and humans. Over 50% of human isolates were multidrug resistant (MDR) and 30% exhibited an extensive drug resistant (XDR) phenotype.",
+    "structural_domain": "Public Health & Pandemic Risk",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "unspecified",
+    "lat": null,
+    "lon": null,
+    "geo_resolution_source": "none",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "drug"
+    ]
+  },
+  {
+    "event_index": 176,
+    "event_id": "generated://event/0793fbe6e5a4b47f",
+    "headline": "A novel digital twin strategy to examine the implications of randomized clinical trials for real-world populations.",
+    "summary": "RCT-Twin-GAN simulates translation of RCT-derived treatment effects across patient populations. We applied this approach to a real-world population in the electronic health record. The digital twins demonstrated balanced treatment arms (mean absolute standardized mean difference (MASMD) of covariates 0.019 (SD 0.018) and the ACCORD-conditioned covariates of the SPRINT-Twins distributed more similarly to ACCORD than SPRINT.",
+    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+    "internal_theme": "Human Resources",
+    "severity_score": 0.83,
+    "geography": "",
+    "lat": null,
+    "lon": null,
+    "geo_resolution_source": "none",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "patient",
+      "clinical trial"
+    ]
+  },
+  {
+    "event_index": 177,
+    "event_id": "generated://event/598df0309514af3c",
+    "headline": "Artificial Intelligence-based Gram Stain Classification: Accuracy and Clinical Utility in Positive Blood Cultures.",
+    "summary": "Gram-stained slides were prepared from 177 positive blood culture bottles as part of routine clinical practice. The match rate for the \"Major Pathogen Classification\" exceeded 85% in all classification categories except GNCs, where data collection was impossible. For GPCs, a high match rate of 93.8% (166/177) was observed. The BiTTE-iE demonstrated potential utility in selecting antimicrobial agents for empirical treatment.",
+    "structural_domain": "AI Model Governance & Integrity",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "",
+    "lat": null,
+    "lon": null,
+    "geo_resolution_source": "none",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "utility"
+    ]
+  },
+  {
+    "event_index": 180,
+    "event_id": "generated://event/c80842ad119ee9f7",
+    "headline": "MeMoSA dataset: A multi-country collection of over 30,000 oral mucosa images with clinically labelled lesions.",
+    "summary": "Oral mucosa images captured with mobile device cameras were collected from cohorts spanning five countries. The images were systematically annotated with lesion type classifications as well as specific clinical diagnoses. The diagnoses were verified retrospectively by biopsy, where applicable, or by consensus verification by dental experts. We believe that the MeMoSA dataset will serve as a significant resource to drive the training, evaluation, and refinement of AI-driven diagnostic algorithms.",
+    "structural_domain": "AI Model Governance & Integrity",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "Global",
+    "lat": 20.0,
+    "lon": 0.0,
+    "geo_resolution_source": "global-default",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "diagnostic"
+    ]
+  },
+  {
+    "event_index": 5,
+    "event_id": "generated://event/f5140b894441d7a6",
+    "headline": "GenSight Biologics Provides Updates about GS010/LUMEVOQ\u00ae Early Access Programs and the Ongoing REVISE Study",
+    "summary": "GenSight Biologics is a biopharma company focused on developing and commercializing innovative gene therapies for retinal neurodegenerative diseases and central nervous system disorders. The Company's candidate gene therapy in clinical development is a treatment for Leber Hereditary Optic Neuropathy (LHON) caused by a mutated ND4 mitochondrial gene. The dose-ranging study REVISE is progressing on schedule, with the first patient treated in February and the second patient expected to be enrolled over the next few weeks.",
+    "structural_domain": "Regulatory Access Restriction Mechanism",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.73,
+    "geography": "France",
+    "lat": 46.2276,
+    "lon": 2.2137,
+    "geo_resolution_source": "country:france",
+    "sector": "Healthcare & Life Sciences",
+    "sector_keyword_hits": [
+      "gene therapy",
+      "pharma",
+      "patient"
+    ]
+  },
+  {
+    "event_index": 1,
+    "event_id": "generated://event/deeae3e1af4af502",
+    "headline": "GigaDevice Strengthens Global Presence at Embedded World 2026, Showcasing System-Level Innovations for Humanoid Robotics, Industry, and Edge AI",
+    "summary": "GigaDevice is a leading semiconductor company specializing in Flash memory, 32-bit microcontrollers (MCUs), sensors, and analog products. At Embedded World 2026, GigaDevice will demonstrate its latest system-level capabilities and its role as a long-term solution partner for global industrial leaders. The company provides a comprehensive solution that combines high-performance GD32 MCUs, including the GD32H75E, GD32G5, and GD32F5 series.",
+    "structural_domain": "Industrial & Manufacturing Base Disruption",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Nuremberg, Germany",
+    "lat": 49.4521,
+    "lon": 11.0767,
+    "geo_resolution_source": "city:nuremberg",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "semiconductor",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 8,
+    "event_id": "generated://event/d0670a3b943a4679",
+    "headline": "KYOCERA Document Solutions \u2013 \u201cFOREARTH\u201d adopted for ANREALAGE\u2019s Paris Fashion Week AUTUMN/WINTER 2026-27 collection, presented in collaboration with \u201cGHOST IN THE SHELL\u201d",
+    "summary": "Kyocera's sustainable inkjet textile printer \"FOREARTH\" was used on garments in the collection presented by fashion brand ANREALAGE at Paris Fashion Week. The collection comprised 27 looks, 15 of which featured FOREARTH prints. This marks the fifth collaboration between Kyocera and ANRE realage. The intersection of creation, technology, and sustainability is a central theme for ANRErealAGE today, says designer Kunihiko Morinaga.",
+    "structural_domain": "Platform Ecosystem Fragmentation",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Paris, France",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "geo_resolution_source": "city:paris",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "platform",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 12,
+    "event_id": "generated://event/f16a04ea0acea358",
+    "headline": "The war has hit the markets hard! Historic rise in oil prices.",
+    "summary": "The price of Brent crude oil per barrel on ICE increased by 26% to reach $119. In Asian trading, the price of West Texas Intermediate crude oil also rose by 24.37% to trade at $113.05 per barrel. Experts point out that if geopolitical risks persist, high volatility in energy markets may continue in the short term. U.S. President Donald Trump argued that the rise in oil prices would not be permanent.",
+    "structural_domain": "Commodity Supercycle Shock",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Middle East",
+    "lat": 20.0,
+    "lon": 0.0,
+    "geo_resolution_source": "global-default",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 16,
+    "event_id": "generated://event/8df0623aea2f95e9",
+    "headline": "Trump\u2019s Iran war drags the world into his tear-it-down politics",
+    "summary": "The Iran war has pulled the world more deeply than ever into the disorienting vortex that has already defined American life. The US' and Israel's opening strikes - which killed Iran's supreme leader, Ayatollah Ali Khamenei - sent off a regional pandemonium. The Iran war shock waves pummeled a transatlantic alliance already reeling from Trump's renewed demands in January that Greenland join the United States. The cutoff of liquified national gas production in Qatar and the effective closure of the Strait of Hormuz are spiking economic mayhem.",
+    "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Strait of Hormuz",
+    "lat": 26.5667,
+    "lon": 56.25,
+    "geo_resolution_source": "city:strait of hormuz",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "logistics",
+      "hormuz"
+    ]
+  },
+  {
+    "event_index": 37,
+    "event_id": "generated://event/a84c55e24151ee67",
+    "headline": "Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: Completes Delivery of Master Robot and Pre-Delivery of Aegis Robot to NS Federation in Texas, Expanding Education and Performance Scenarios for EAI Robotics",
+    "summary": "\"Robot & Vehicle + Education\": In this use case, robots will serve as embodied research trainers, supporting secondary development, data collection, experimental assistance, and hands-on education for students in schools, labs, and research institutions. For the industry, this will help accelerate the development of practical robotics education systems, particularly in the rapidly expanding K-12 robotics education market. Faraday Future is a California-based global intelligent Company founded in 2014.",
+    "structural_domain": "Industrial & Manufacturing Base Disruption",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "api",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 48,
+    "event_id": "generated://event/ecffa121bef62f14",
+    "headline": "Urgent call from the UAE to South Korea: Accelerate the delivery.",
+    "summary": "The United Arab Emirates has requested South Korea to expedite the delivery of Cheongung-II air defense systems. The increasing risk of conflict in the region by March 2026 has led the UAE to demand not only new batteries but also additional preventive missile supplies for critical stockpiles. The UAE's Minister of State for Defense Affairs, Mohammed al-Mazrouei, held meetings with defense ministers from various countries to develop joint defense cooperation. The countries Mazrouei spoke with included France, Italy, Greece, and South Korea.",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "United Arab Emirates, South Korea",
+    "lat": 23.4241,
+    "lon": 53.8478,
+    "geo_resolution_source": "country:united arab emirates",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "missile",
+      "defense"
+    ]
+  },
+  {
+    "event_index": 53,
+    "event_id": "generated://event/c73e6ea9dd289d81",
+    "headline": "Mawani Records 20.89% Growth in Container Throughput for February 2026 Year-on-Year",
+    "summary": "Inbound containers increased 26.18% to 272,210 TEUs, compared with 215,735 TEUs in the same period last year. The ports received 837,548 head of livestock, a 19.99% increase from 698,035. Total cargo throughput - including general cargo, solid bulk, and liquid bulk - rose by 9.22% to 18,150,103 tons, compared to 16,618,189 tons.",
+    "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+    "internal_theme": "Human Resources",
+    "severity_score": 0.83,
+    "geography": "Riyadh, Saudi Arabia",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "geo_resolution_source": "city:riyadh",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "logistics",
+      "cargo",
+      "port"
+    ]
+  },
+  {
+    "event_index": 69,
+    "event_id": "generated://event/f8c451095829739d",
+    "headline": "After the US-Israel attacks on Iran, Iraq's oil production decreased by 60%.",
+    "summary": "Iraq announced on Tuesday, March 3, that it would reduce crude oil production due to decreased exports resulting from the closure of the Strait of Hormuz. Israel and the US launched a military attack on Iran on February 28 while negotiations were ongoing between Tehran and the Washington administration. Iran responded with attacks on targets it identified in several regional countries, including Qatar, the United Arab Emirates (UAE), and Bahrain. In the US-Israel attacks, many high-ranking officials, including Iranian leader Ali Khamenei, were killed.",
+    "structural_domain": "Commodity Supercycle Shock",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Iraq",
+    "lat": 33.2232,
+    "lon": 43.6793,
+    "geo_resolution_source": "country:iraq",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "hormuz",
+      "port"
+    ]
+  },
+  {
+    "event_index": 83,
+    "event_id": "generated://event/c6533de8c9c86ff7",
+    "headline": "UAE consolidates its position as global hub for cross-border e-commerce",
+    "summary": "The UAE has emerged as one of the world's most effective hubs for managing digital trade and cross-border logistics. The UAE e-commerce market reached AED 32.3 billion ($8.8 billion) in 2024 and is expected to exceed AED 50 billion by 2029. Dubai International Airport handled around 2.2 million tonnes of cargo in 2024, while global port operator DP World handled 88.3 million TEU across its network.",
+    "structural_domain": "Platform Ecosystem Fragmentation",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "United Arab Emirates",
+    "lat": 23.4241,
+    "lon": 53.8478,
+    "geo_resolution_source": "country:united arab emirates",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "logistics",
+      "cargo",
+      "port"
+    ]
+  },
+  {
+    "event_index": 87,
+    "event_id": "generated://event/4b725b3318635b11",
+    "headline": "SAP Relocates MENA Regional Headquarters to Misk City Offices",
+    "summary": "The Misk City office will serve as SAP's regional base for innovation, customer engagement, and digital transformation initiatives. Once complete, the precinct will feature a landscaped plaza, abundant natural light in offices, and adjoining access to retail, leisure, and lifestyle amenities. \"This move allows us to continue supporting our customers, partners, and local talent while benefiting from an environment that encourages creativity, collaboration, and growth,\" says SAP MENA Senior Vice President and Managing Director Ahmed AlFaifi.",
+    "structural_domain": "Climate-Driven Migration Pressure",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Riyadh, Saudi Arabia",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "geo_resolution_source": "city:riyadh",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 93,
+    "event_id": "generated://event/a8cfe3a14a4757f1",
+    "headline": "Image from Iran: Rushed to the gas station after hearing the news.",
+    "summary": "Long lines formed from the morning as the fuel quota was reduced. Concerns about fuel began to arise in the city following the attacks. Authorities have reduced the quota for fuel purchases made with personal fuel cards from 30 liters to 20 liters. The possible effects on Iran's energy infrastructure and potential issues in fuel supply are being closely monitored after the attacks by the U.S. and Israel in Tehran and its surroundings. The US and Israel targeted oil storage facilities near Tehran.",
+    "structural_domain": "Energy Production & Refining Infrastructure",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Tehran, Iran",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "geo_resolution_source": "city:tehran",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "gas",
+      "oil"
+    ]
+  },
+  {
+    "event_index": 106,
+    "event_id": "generated://event/6cabb5fcb41dc081",
+    "headline": "Diesel prices are climbing even faster than gas prices. Here\u2019s why you should care",
+    "summary": "Since the fighting started in Iran a week ago, gasoline prices are up 47 cents, or 16%, to $3.45 a gallon. But that's nothing compared to the 84 cent increase, or 22% rise in diesel prices, taking a gallon of that critical fuel to $4.60. Home heating oil and diesel are essentially identical products. Nearly every item in your home was on a truck at some point, which mostly runs on diesel.",
+    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+    "internal_theme": "Finance/Treasury/FP&A",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "gas",
+      "oil"
+    ]
+  },
+  {
+    "event_index": 107,
+    "event_id": "generated://event/3266f618af65761d",
+    "headline": "After the rivers of fire, a rain of oil! A 'poison' warning has come from the Iranian Red Crescent.",
+    "summary": "Fires caused by leaking oil spread flames along major roads, creating images referred to as \"fire rivers\" After the attacks, oil rained down on the city following the rain. The Iranian Red Crescent warned the public about the risk of \"toxic rain\" due to possible chemical reactions in the atmosphere. Authorities warned citizens to stay home and wear masks, pointing out that oil residues could fall to the ground. Fuel sales in the capital had been temporarily halted completely.",
+    "structural_domain": "Wildfire Regime Escalation",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Tehran, Iran",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "geo_resolution_source": "city:tehran",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "api",
+      "ai"
+    ]
+  },
+  {
+    "event_index": 143,
+    "event_id": "generated://event/4e967a683b413866",
+    "headline": "The battlefield in the Middle East has been hit! A global food crisis is at the door.",
+    "summary": "Tensions in the Strait of Hormuz and the shutdown of production facilities in the region have led to significant fluctuations in the global fertilizer market. The suspension of production of strategic products such as urea, polymers, methanol, and aluminum by Qatar's energy giant QatarEnergy has increased supply shortages in the market. Half of global food production relies on the use of synthetic nitrogen fertilizers. This situation is expected to increase cost pressures in the agricultural sector.",
+    "structural_domain": "Natural Resource Scarcity",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "China, global",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "geo_resolution_source": "country:china",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 43,
+    "event_id": "generated://event/fe0dbcc8a0d5c262",
+    "headline": "Ramadan Market in Farasan Islands Boosts Tourism Appeal",
+    "summary": "Farasan, March features a variety of stalls offering traditional foods and Ramadan beverages, as well as dedicated spaces for families working in the cottage industry and entrepreneurs. The initiative aims to support small businesses and stimulate economic and tourism activity in the governorate. The events also include cultural programs, artistic performances, and interactive competitions for different age groups, enhancing the market's appeal as a family-friendly destination that combines shopping and entertainment in an organized and safe environment.",
+    "structural_domain": "Regulatory Access Restriction Mechanism",
+    "internal_theme": "Operations",
+    "severity_score": 0.73,
+    "geography": "Farasan Islands, Saudi Arabia",
+    "lat": 16.7027,
+    "lon": 42.1187,
+    "geo_resolution_source": "city:farasan",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "beverage",
+      "shopping"
+    ]
+  },
+  {
+    "event_index": 67,
+    "event_id": "generated://event/a4368c0ae6adbc70",
+    "headline": "Joseph Magnus & Co. and Fox & Oden Launch in Australia with Honey Barrel",
+    "summary": "CraftCo Brands, the American spirits company behind Joseph Magnus & Co. and Fox & Oden, is introducing the bourbon brands to Australia through exclusive importer Honey Barrel. The range will be available through select premium retailers and on-premise venues nationwide beginning March 2026. The initial Australian release includes: Joseph Magnus Cigar Blend Bourbon, Murray Hill Club Bourbon, Jos. Magnus Bourbon and Fox and Oden Double Oak Bourbon, among others.",
+    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.73,
+    "geography": "Australia",
+    "lat": -25.2744,
+    "lon": 133.7751,
+    "geo_resolution_source": "country:australia",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "retail",
+      "brand"
+    ]
+  },
+  {
+    "event_index": 89,
+    "event_id": "generated://event/97fcaaec95227865",
+    "headline": "GCC Secretary-General Calls for Arab Solidarity Against Iranian Aggression at Emergency Meeting",
+    "summary": "Albudaiwi condemned the illegal and immoral Iranian attacks targeting GCC infrastructure, civilian, and oil facilities. He expressed appreciation for the support shown by Arab nations. He called on them to mobilize international backing for a GCC-submitted draft resolution at the UN Security Council. This resolution seeks a formal condemnation of the Iranian attacks and demands that the international community take concrete steps in accordance with the UN Charter and international law to restore regional security.",
+    "structural_domain": "Climate-Driven Migration Pressure",
+    "internal_theme": "Human Resources",
+    "severity_score": 0.73,
+    "geography": "Riyadh, Saudi Arabia",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "geo_resolution_source": "city:riyadh",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 99,
+    "event_id": "generated://event/da163575fdbd0343",
+    "headline": "Xsolla Celebrates International Women\u2019s Day by Spotlighting Women in Games and Advancing Its Vision for Female Leadership",
+    "summary": "Xsolla reaffirmed its commitment to supporting women across the global gaming ecosystem. Xsolla hosted a dedicated event that convened women founders and senior leaders from across the Middle East and neighboring markets. The MENA gaming market continues its rapid expansion, with revenues projected to reach $9.57 billion by 2030. T\u00fcrkiye represents another critical focus market with a strong gaming ecosystem that reached $1.01 billion in revenue in 2025.",
+    "structural_domain": "Platform Ecosystem Fragmentation",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.73,
+    "geography": "Cyprus",
+    "lat": 35.1264,
+    "lon": 33.4299,
+    "geo_resolution_source": "country:cyprus",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "platform",
+      "api"
+    ]
+  },
+  {
+    "event_index": 123,
+    "event_id": "generated://event/08cf28bb65618a9b",
+    "headline": "Integrated Assessment of Three NDSRIs Through CPCA Prioritization, In Silico Toxicity Assessment, and Stability Indicating LC-MS/MS Method for Avatrombopag Maleate.",
+    "summary": "Avatrombopag maleate (AOG) is a generic drug for which a viable route of synthesis has been identified. Three nitrosamine drug substance-related impurities (NDSRIs) have been identified and toxicity assessment has been carried out. The specification limit has been defined based on Carcinogenic Potency Categorization Approach (CPCA) approach and selective and sensitive LC-MS/MS-based analytical method.",
+    "structural_domain": "Digital Supply Chain Dependency",
+    "internal_theme": "Human Resources",
+    "severity_score": 0.73,
+    "geography": "",
+    "lat": null,
+    "lon": null,
+    "geo_resolution_source": "none",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "drug"
+    ]
+  },
+  {
+    "event_index": 149,
+    "event_id": "generated://event/0584caa4ffd869e6",
+    "headline": "Challenging the myths of subcutaneous delivery: An industry expert perspective.",
+    "summary": "Over the past decade, subcutaneous delivery has emerged as a promising alternative to intravenous delivery. This article shares expert perspectives and builds on a workshop entitled \"Debunking the Myths of SC Drug Delivery\" This review discusses the current state of the field, highlights unresolved challenges and recent breakthroughs. It also presents expert perspectives on the outlook regarding each of these areas with the hope that new developments will advance adoption across disease areas and improve the overall patient experience.",
+    "structural_domain": "Public Health & Pandemic Risk",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.73,
+    "geography": "",
+    "lat": null,
+    "lon": null,
+    "geo_resolution_source": "none",
+    "sector": "Consumer, Retail & E-Commerce",
+    "sector_keyword_hits": [
+      "patient",
+      "drug"
+    ]
+  },
+  {
+    "event_index": 0,
+    "event_id": "generated://event/af92a10e2f5d4ef1",
+    "headline": "A historical challenge from Kim: The nuclear button is on my desk.",
+    "summary": "North Korean leader Kim Jong Un has made harsh statements targeting the United States. Kim emphasized that the entire territory of the U.S. is within North Korea's attack range. Experts warn that the renewed nuclear tensions between Pyongyang and Washington could affect not only the Korean Peninsula but also global security. \"The nuclear button is always on my desk,\" Kim said, claiming that North Korea has the power to hit any point on the American continent without prior warning.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "North Korea",
+    "lat": 40.3399,
+    "lon": 127.5101,
+    "geo_resolution_source": "country:north korea",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 9,
+    "event_id": "generated://event/3f81e1cf5eb898e7",
+    "headline": "Galderma Introduces Cetaphil AM/PM Antioxidant Serums, a New Science-Driven Defense and Recovery System for Sensitive Skin",
+    "summary": "Cetaphil AM/PM Antioxidant Serums are clinically designed to defend skin by day and support accelerated repair by night for sensitive, stressed skin. An estimated 78% of people report experiencing skin sensitivity. Galderma research demonstrates that sensitive skin exhibits 16% higher oxidative stress compared to non-sensitive skin under modern environmental conditions. Together, these findings underscore the need for solutions designed to meet the needs of sensitive skin across ages, environments, and lifestyles.",
+    "structural_domain": "Competitive Dynamics & Strategic Rivalry",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Canton of Zug, Switzerland",
+    "lat": 47.1662,
+    "lon": 8.5155,
+    "geo_resolution_source": "city:zug",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 10,
+    "event_id": "generated://event/43858b8c395b134c",
+    "headline": "Crisis on the 10th day of the Iran war! Israel's move drove Trump crazy.",
+    "summary": "The US administration is concerned about the extent of Israel's airstrikes on oil depots in Iran. Israel's attacks have exceeded Washington's expectations and have led to disagreements between the two allies. According to Iranian officials, 1,332 people lost their lives in the U.S.-Israel attacks. The Iranian army warned that if the country's energy infrastructure continued to be targeted, it would aim at oil facilities in the region. President Donald Trump stated that the President \"wants to protect oil\"",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "army",
+      "airstrike"
+    ]
+  },
+  {
+    "event_index": 12,
+    "event_id": "generated://event/f16a04ea0acea358",
+    "headline": "The war has hit the markets hard! Historic rise in oil prices.",
+    "summary": "The price of Brent crude oil per barrel on ICE increased by 26% to reach $119. In Asian trading, the price of West Texas Intermediate crude oil also rose by 24.37% to trade at $113.05 per barrel. Experts point out that if geopolitical risks persist, high volatility in energy markets may continue in the short term. U.S. President Donald Trump argued that the rise in oil prices would not be permanent.",
+    "structural_domain": "Commodity Supercycle Shock",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "Middle East",
+    "lat": 20.0,
+    "lon": 0.0,
+    "geo_resolution_source": "global-default",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 13,
+    "event_id": "generated://event/faa556d092f0f473",
+    "headline": "SkyDrive Reaches Agreement with Japan\u2019s Civil Aviation Authority on its General Certification Plan, a Core Element of the Type Certification Process",
+    "summary": "SkyDrive has reached agreement with the Japan Civil Aviation Bureau on the General Certification Plan for its \"SKYDRIVE\" (SkyDrive Model SD-05) Agreement represents a core certification milestone that significantly reduces future type certification risk. Looking ahead to the commercial launch of our eVTOL in 2028, we will continue to move steadily forward with our aircraft development. \"eVTOL\" is an abbreviation for electric Vertical Takeoff and Landing.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Japan",
+    "lat": 36.2048,
+    "lon": 138.2529,
+    "geo_resolution_source": "country:japan",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 14,
+    "event_id": "generated://event/ae51f71ca645b59b",
+    "headline": "Iran names slain Khamenei\u2019s son supreme leader while oil soars above $100",
+    "summary": "Israel says it launched strikes on Beirut and Iran, while Tehran announces missile launches. Israel's attacks on Iran's energy resources and fuel storage sites have pushed the war into a \"new phase,\" a senior Iranian official has warned. The widening conflict sent the price of oil surging past $100 per barrel on Sunday, the first time it crossed that mark since Russia's 2022 invasion of Ukraine. The Islamic Revolutionary Guard Corps announced new missile launches hours after Iran named its new supreme leader.",
+    "structural_domain": "Youth Radicalization & Extremism",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "oil"
+    ]
+  },
+  {
+    "event_index": 16,
+    "event_id": "generated://event/8df0623aea2f95e9",
+    "headline": "Trump\u2019s Iran war drags the world into his tear-it-down politics",
+    "summary": "The Iran war has pulled the world more deeply than ever into the disorienting vortex that has already defined American life. The US' and Israel's opening strikes - which killed Iran's supreme leader, Ayatollah Ali Khamenei - sent off a regional pandemonium. The Iran war shock waves pummeled a transatlantic alliance already reeling from Trump's renewed demands in January that Greenland join the United States. The cutoff of liquified national gas production in Qatar and the effective closure of the Strait of Hormuz are spiking economic mayhem.",
+    "structural_domain": "Critical Supply Chain & Logistics Infrastructure",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Strait of Hormuz",
+    "lat": 26.5667,
+    "lon": 56.25,
+    "geo_resolution_source": "city:strait of hormuz",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "logistics",
+      "hormuz"
+    ]
+  },
+  {
+    "event_index": 17,
+    "event_id": "generated://event/5461f57c4dec06bc",
+    "headline": "A critical step from Turkey while the war continues! The F-16 is departing today.",
+    "summary": "Sources from the Ministry of National Defense announced that the deployment of F-16 aircraft to the island is being evaluated to ensure the security of Northern Cyprus. Acting Director of the Civil Aviation Authority, A\u015fk\u0131n Me\u015feli, stated today that 6 F- 16 fighter jets will be sent to the TRNC. The British base Akrotiri located in the Greek Cypriot Administration (GCA) was targeted by an Iranian drone on March 2.",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "Northern Cyprus",
+    "lat": 35.1264,
+    "lon": 33.4299,
+    "geo_resolution_source": "country:cyprus",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 18,
+    "event_id": "generated://event/80e86a8251a0a9b9",
+    "headline": "'When will the war end?' Trump dodged the question.",
+    "summary": "President Donald Trump stated that he would make the final decision on when to end the attacks they have initiated against Iran, after consulting with Israeli Prime Minister Benjamin Netanyahu. Trump did not specify a clear timeline for when the attacks would cease. White House Press Secretary Karoline Leavitt stated in a Friday announcement that the Washington administration expected the war to last 4 to 6 weeks. On February 28, Trump said, \"We worked together and we destroyed a country that wanted to eliminate Israel\"",
+    "structural_domain": "Policy Signal Volatility Mechanism",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "United States, Iran",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 21,
+    "event_id": "generated://event/c8f37089b2ecb9c9",
+    "headline": "Hezbollah has changed tactics! They have started full-scale guerrilla warfare.",
+    "summary": "Hezbollah in Lebanon has transitioned from a \"semi-regular army\" style to a \"fully-fledged guerrilla warfare\" style in its attacks against Israel. Israel's Channel 12 television based on Israeli military sources, Hezbollah has begun to base its attacks on the front line on \"small and mobile units\" elements of Hezbollah's Radwan Force have spread to southern Lebanon and are conducting attacks on Israeli forces on both sides of the border from there.",
+    "structural_domain": "Border Militarization & Forward Deployment",
+    "internal_theme": "Human Resources",
+    "severity_score": 0.83,
+    "geography": "northern Israel",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "geo_resolution_source": "country:israel",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "military",
+      "army"
+    ]
+  },
+  {
+    "event_index": 22,
+    "event_id": "generated://event/2f97e11687d5ac55",
+    "headline": "Israel attempted to infiltrate the country, their helicopter was shot down! There are dozens of dead.",
+    "summary": "Israeli army attempted to land soldiers by helicopter near the town of Nabi Sheet, close to the Syrian border in Lebanon. French media claimed that the Israeli helicopter was shot down. Hezbollah had announced that Israel's infiltration attempt had been repelled. The Lebanese Ministry of Health announced that the death toll from these Israeli attacks has risen to 41. The Israeli army entered Lebanon from the direction of Syria last week, landing troops near the towns of El-Hariba and Maaraboun.",
+    "structural_domain": "Climate-Driven Migration Pressure",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "Lebanon",
+    "lat": 33.8547,
+    "lon": 35.8623,
+    "geo_resolution_source": "country:lebanon",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 24,
+    "event_id": "generated://event/8e6e7c8601764b57",
+    "headline": "Hours-long delays at airports Sunday due to TSA shortages as DHS shutdown shows no sign of ending",
+    "summary": "TSA lines at Houston's William P. Hobby Airport stretched for more than three hours Sunday. Long lines were also reported at Louis Armstrong New Orleans International Airport. \"The Government shutdown may impact security operations from one day - and even one shift to the next,\" Hobby airport says. DHS blames Democrats for holding spring break travel \"hostage for political points,\" blaming them for the shutdown, which has been in place since mid-February..",
+    "structural_domain": "Transportation Network Disruption",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 45,
+    "event_id": "generated://event/f29c6d88677ba2f3",
+    "headline": "India: We provided Israel with the exact location of the Iranian ship.",
+    "summary": "Indian Army Chief General Upendra Dwivedi acknowledged that they informed Israel of the exact location of the Iranian Navy frigate \"IRIS Dena,\" which was attacked by the U.S. While off the coast of Sri Lanka and resulted in the burial of 104 people. \"IT WAS OUR DUTY TO INFORM ISRAEL OF THE SHIP'S EXACT LOCATION,\" he said. \"We can provide intelligence to Israel, but we had no role in the attack,\" he added.",
+    "structural_domain": "Border Militarization & Forward Deployment",
+    "internal_theme": "Governance, Risk & Compliance",
+    "severity_score": 0.83,
+    "geography": "India, Israel, Sri Lanka",
+    "lat": 20.5937,
+    "lon": 78.9629,
+    "geo_resolution_source": "country:india",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "army",
+      "navy"
+    ]
+  },
+  {
+    "event_index": 46,
+    "event_id": "generated://event/5eefa08888c220cb",
+    "headline": "Week 2 of Iran: Military momentum meets economic and political reality",
+    "summary": "Iranian state media announced that Khamenei's 56-year old son, Mojtaba, was selected as Iran's next supreme leader - its third since the 1979 revolution. The United States together with Israel and a broader coalition in defense is now prosecuting a methodical military campaign. Cutting the military campaign short mid-stream might be the worst outcome of all - leaving behind a wounded but intact Iranian regime with residual missile and nuclear capabilities. The economic factor and the Strait of Hormuz that might emerge as the dominant issue.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "geo_resolution_source": "country:iran",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "military",
+      "nuclear",
+      "missile",
+      "defense"
+    ]
+  },
+  {
+    "event_index": 47,
+    "event_id": "generated://event/022b562756001b72",
+    "headline": "Oil prices soar past $100 a barrel as war escalates in Iran",
+    "summary": "US crude futures rose 14.7%. Brent futures, the global benchmark, increased 12.63%. Dow futures, meanwhile, dropped 851.6 points, or 2%. S&P 500 and Nasdaq futures fell 1.73% and 1.65%, respectively. The average price of gasoline in America reached $3.45 a gallon on Sunday, up 16% from the week prior. The Trump administration argued Sunday that the US and Israeli-led military campaign against Iran will only have short-term effects on oil and gas prices.",
+    "structural_domain": "Commodity Supercycle Shock",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "global",
+    "lat": 20.0,
+    "lon": 0.0,
+    "geo_resolution_source": "global-default",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "gas",
+      "oil"
+    ]
+  },
+  {
+    "event_index": 48,
+    "event_id": "generated://event/ecffa121bef62f14",
+    "headline": "Urgent call from the UAE to South Korea: Accelerate the delivery.",
+    "summary": "The United Arab Emirates has requested South Korea to expedite the delivery of Cheongung-II air defense systems. The increasing risk of conflict in the region by March 2026 has led the UAE to demand not only new batteries but also additional preventive missile supplies for critical stockpiles. The UAE's Minister of State for Defense Affairs, Mohammed al-Mazrouei, held meetings with defense ministers from various countries to develop joint defense cooperation. The countries Mazrouei spoke with included France, Italy, Greece, and South Korea.",
+    "structural_domain": "Airspace Intrusion & Denial",
+    "internal_theme": "Cybersecurity",
+    "severity_score": 0.83,
+    "geography": "United Arab Emirates, South Korea",
+    "lat": 23.4241,
+    "lon": 53.8478,
+    "geo_resolution_source": "country:united arab emirates",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "missile",
+      "defense"
+    ]
+  },
+  {
+    "event_index": 51,
+    "event_id": "generated://event/5d98d5f56e692661",
+    "headline": "GCC Secretary General Condemns Iranian Attack on Residential Site in Al-Kharj Resulting in Two Deaths and 12 Injuries",
+    "summary": "Albudaiwi affirmed that this Iranian criminal attack constitutes a flagrant violation of all international laws and norms, targeting the safety of civilians and infrastructure. The secretary-general stressed the GCC's full solidarity with the Kingdom of Saudi Arabia in all measures it takes to safeguard its security, stability, and territorial integrity. He reiterated the firm position of GCC states in rejecting and condemning all acts of aggression that threaten the security of GCC countries or target their vital facilities.",
+    "structural_domain": "Border Militarization & Forward Deployment",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "Al-Kharj, Saudi Arabia",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "geo_resolution_source": "country:saudi arabia",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 56,
+    "event_id": "generated://event/65d5f43c1cdee274",
+    "headline": "Alarm in the USA! Planes held on the runway, the entire airport evacuated.",
+    "summary": "Kansas City International Airport in Missouri, USA, was put on alert due to a potential \"threat\" While planes landing at the airport were held on the runway, approximately 2,000 people in the terminal were evacuated. About 2 hours after the evacuation, the terminals were reopened, but investigation teams continued their searches in the parking lots. A passenger speaking to local media said, \"Suddenly an airport employee said 'evacuate immediately,' and people quickly got up and ran out of there.\"",
+    "structural_domain": "Transportation Network Disruption",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Kansas City, Missouri, USA",
+    "lat": 39.0997,
+    "lon": -94.5786,
+    "geo_resolution_source": "city:kansas city",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  },
+  {
+    "event_index": 60,
+    "event_id": "generated://event/790081ea6606aab2",
+    "headline": "Macron spoke on the phone with Peze\u015fkiyan.",
+    "summary": "French President Emmanuel Macron had a phone conversation with Iranian President Masoud Pezeshkian. Macron told him that the safety of C\u00e9cile Kohler and Jacques Paris, who are currently at the French embassy, and their return to France is our absolute priority. France has deployed an amphibious helicopter carrier to the Mediterranean amid the ongoing high tensions in the Middle East due to US and Israeli attacks on Iran and Iran's retaliations.",
+    "structural_domain": "Armed Conflict Spectrum (Interstate)",
+    "internal_theme": "Operations",
+    "severity_score": 0.83,
+    "geography": "Mediterranean Sea",
+    "lat": 34.5,
+    "lon": 18.0,
+    "geo_resolution_source": "city:mediterranean sea",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": []
+  },
+  {
+    "event_index": 61,
+    "event_id": "generated://event/f97173a5c098f7a7",
+    "headline": "GCC permanent representatives meet UN chief over Iranian aggression",
+    "summary": "The permanent representatives of the Gulf Cooperation Council (GCC) member states to the United Nations in New York met with Ant\u00f3nio Guterres. The meeting reviewed the latest developments resulting from the Iranian attacks targeting civilian facilities, vital infrastructure, energy installations, as well as airports and ports. The permanent representatives also provided briefings on the scale of the attacks faced by GCC countries and the serious repercussions of these assaults on the security and stability of the region.",
+    "structural_domain": "Regulatory Institutional Restructuring",
+    "internal_theme": "Strategy & Business Model",
+    "severity_score": 0.83,
+    "geography": "New York, United States",
+    "lat": 39.8283,
+    "lon": -98.5795,
+    "geo_resolution_source": "country:united states",
+    "sector": "Defense, Aerospace & Security",
+    "sector_keyword_hits": [
+      "ai"
+    ]
+  }
+]
