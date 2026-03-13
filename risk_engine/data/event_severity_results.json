@@ -10,7 +10,11 @@
         "geography": "North Korea",
         "lat": 40.3399,
         "lon": 127.5101,
-        "geo_resolution_source": "country:north korea"
+        "geo_resolution_source": "country:north korea",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 1,
@@ -23,7 +27,12 @@
         "geography": "Nuremberg, Germany",
         "lat": 49.4521,
         "lon": 11.0767,
-        "geo_resolution_source": "city:nuremberg"
+        "geo_resolution_source": "city:nuremberg",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "semiconductor",
+            "ai"
+        ]
     },
     {
         "event_index": 2,
@@ -36,7 +45,11 @@
         "geography": "Guangdong, China",
         "lat": 23.1291,
         "lon": 113.2644,
-        "geo_resolution_source": "city:guangdong"
+        "geo_resolution_source": "city:guangdong",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 3,
@@ -49,7 +62,9 @@
         "geography": "Denizli, Turkey",
         "lat": 37.7765,
         "lon": 29.0864,
-        "geo_resolution_source": "city:denizli"
+        "geo_resolution_source": "city:denizli",
+        "sector": "Cross-Sector / Multi-Industry",
+        "sector_keyword_hits": []
     },
     {
         "event_index": 4,
@@ -62,7 +77,12 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "patient",
+            "oncology"
+        ]
     },
     {
         "event_index": 5,
@@ -75,7 +95,13 @@
         "geography": "France",
         "lat": 46.2276,
         "lon": 2.2137,
-        "geo_resolution_source": "country:france"
+        "geo_resolution_source": "country:france",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "gene therapy",
+            "pharma",
+            "patient"
+        ]
     },
     {
         "event_index": 6,
@@ -88,7 +114,13 @@
         "geography": "South San Francisco, California, United States",
         "lat": 37.6547,
         "lon": -122.4077,
-        "geo_resolution_source": "city:south san francisco"
+        "geo_resolution_source": "city:south san francisco",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 7,
@@ -101,7 +133,12 @@
         "geography": "Denmark",
         "lat": 56.2639,
         "lon": 9.5018,
-        "geo_resolution_source": "country:denmark"
+        "geo_resolution_source": "country:denmark",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "hospital",
+            "healthcare"
+        ]
     },
     {
         "event_index": 8,
@@ -114,7 +151,12 @@
         "geography": "Paris, France",
         "lat": 48.8566,
         "lon": 2.3522,
-        "geo_resolution_source": "city:paris"
+        "geo_resolution_source": "city:paris",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "platform",
+            "ai"
+        ]
     },
     {
         "event_index": 9,
@@ -127,7 +169,11 @@
         "geography": "Canton of Zug, Switzerland",
         "lat": 47.1662,
         "lon": 8.5155,
-        "geo_resolution_source": "city:zug"
+        "geo_resolution_source": "city:zug",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 10,
@@ -140,7 +186,12 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Defense, Aerospace & Security",
+        "sector_keyword_hits": [
+            "army",
+            "airstrike"
+        ]
     },
     {
         "event_index": 11,
@@ -153,7 +204,11 @@
         "geography": "Silivri, Turkey",
         "lat": 41.0735,
         "lon": 28.246,
-        "geo_resolution_source": "city:silivri"
+        "geo_resolution_source": "city:silivri",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 12,
@@ -166,7 +221,11 @@
         "geography": "Middle East",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "oil"
+        ]
     },
     {
         "event_index": 13,
@@ -179,7 +238,11 @@
         "geography": "Japan",
         "lat": 36.2048,
         "lon": 138.2529,
-        "geo_resolution_source": "country:japan"
+        "geo_resolution_source": "country:japan",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 14,
@@ -192,7 +255,11 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "oil"
+        ]
     },
     {
         "event_index": 15,
@@ -205,7 +272,11 @@
         "geography": "Yemen, Riyadh (Saudi Arabia)",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 16,
@@ -218,7 +289,12 @@
         "geography": "Strait of Hormuz",
         "lat": 26.5667,
         "lon": 56.25,
-        "geo_resolution_source": "city:strait of hormuz"
+        "geo_resolution_source": "city:strait of hormuz",
+        "sector": "Transportation & Logistics",
+        "sector_keyword_hits": [
+            "logistics",
+            "hormuz"
+        ]
     },
     {
         "event_index": 17,
@@ -231,7 +307,11 @@
         "geography": "Northern Cyprus",
         "lat": 35.1264,
         "lon": 33.4299,
-        "geo_resolution_source": "country:cyprus"
+        "geo_resolution_source": "country:cyprus",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 18,
@@ -244,7 +324,11 @@
         "geography": "United States, Iran",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 19,
@@ -257,7 +341,11 @@
         "geography": "Madinah",
         "lat": 24.5247,
         "lon": 39.5692,
-        "geo_resolution_source": "city:madinah"
+        "geo_resolution_source": "city:madinah",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 20,
@@ -270,7 +358,11 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 21,
@@ -283,7 +375,12 @@
         "geography": "northern Israel",
         "lat": 31.0461,
         "lon": 34.8516,
-        "geo_resolution_source": "country:israel"
+        "geo_resolution_source": "country:israel",
+        "sector": "Defense, Aerospace & Security",
+        "sector_keyword_hits": [
+            "military",
+            "army"
+        ]
     },
     {
         "event_index": 22,
@@ -296,7 +393,11 @@
         "geography": "Lebanon",
         "lat": 33.8547,
         "lon": 35.8623,
-        "geo_resolution_source": "country:lebanon"
+        "geo_resolution_source": "country:lebanon",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 23,
@@ -309,7 +410,12 @@
         "geography": "Hyderabad, India",
         "lat": 17.385,
         "lon": 78.4867,
-        "geo_resolution_source": "city:hyderabad"
+        "geo_resolution_source": "city:hyderabad",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": [
+            "government",
+            "regulator"
+        ]
     },
     {
         "event_index": 24,
@@ -322,7 +428,11 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 25,
@@ -335,7 +445,11 @@
         "geography": "Makkah, Saudi Arabia",
         "lat": 21.3891,
         "lon": 39.8579,
-        "geo_resolution_source": "city:makkah"
+        "geo_resolution_source": "city:makkah",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 26,
@@ -348,7 +462,13 @@
         "geography": "Riyadh, Saudi Arabia",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": [
+            "policy",
+            "regulator",
+            "ministry"
+        ]
     },
     {
         "event_index": 27,
@@ -361,7 +481,11 @@
         "geography": "Glasgow, Scotland, United Kingdom",
         "lat": 55.8642,
         "lon": -4.2518,
-        "geo_resolution_source": "city:glasgow"
+        "geo_resolution_source": "city:glasgow",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 28,
@@ -374,7 +498,11 @@
         "geography": "Riyadh, Saudi Arabia",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": [
+            "law"
+        ]
     },
     {
         "event_index": 29,
@@ -387,7 +515,13 @@
         "geography": "South Korea",
         "lat": 35.9078,
         "lon": 127.7669,
-        "geo_resolution_source": "country:south korea"
+        "geo_resolution_source": "country:south korea",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "semiconductor",
+            "platform",
+            "ai"
+        ]
     },
     {
         "event_index": 30,
@@ -400,7 +534,12 @@
         "geography": "Kuala Lumpur, Malaysia",
         "lat": 3.139,
         "lon": 101.6869,
-        "geo_resolution_source": "city:kuala lumpur"
+        "geo_resolution_source": "city:kuala lumpur",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "insurance",
+            "bank"
+        ]
     },
     {
         "event_index": 31,
@@ -413,7 +552,11 @@
         "geography": "United Kingdom",
         "lat": 55.3781,
         "lon": -3.436,
-        "geo_resolution_source": "country:united kingdom"
+        "geo_resolution_source": "country:united kingdom",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "credit"
+        ]
     },
     {
         "event_index": 32,
@@ -426,7 +569,11 @@
         "geography": "Los Angeles, United States",
         "lat": 34.0522,
         "lon": -118.2437,
-        "geo_resolution_source": "city:los angeles"
+        "geo_resolution_source": "city:los angeles",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 33,
@@ -439,7 +586,13 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 34,
@@ -452,7 +605,11 @@
         "geography": "global",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 35,
@@ -465,7 +622,11 @@
         "geography": "Virtual",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Transportation & Logistics",
+        "sector_keyword_hits": [
+            "port"
+        ]
     },
     {
         "event_index": 36,
@@ -478,7 +639,11 @@
         "geography": "Tampa, Florida, United States",
         "lat": 27.9506,
         "lon": -82.4572,
-        "geo_resolution_source": "city:tampa"
+        "geo_resolution_source": "city:tampa",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "drug"
+        ]
     },
     {
         "event_index": 37,
@@ -491,7 +656,12 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "api",
+            "ai"
+        ]
     },
     {
         "event_index": 38,
@@ -504,7 +674,13 @@
         "geography": "Los Angeles, California, United States",
         "lat": 34.0522,
         "lon": -118.2437,
-        "geo_resolution_source": "city:los angeles"
+        "geo_resolution_source": "city:los angeles",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 39,
@@ -517,7 +693,14 @@
         "geography": "Los Angeles, California, United States",
         "lat": 34.0522,
         "lon": -118.2437,
-        "geo_resolution_source": "city:los angeles"
+        "geo_resolution_source": "city:los angeles",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "financial",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 40,
@@ -530,7 +713,9 @@
         "geography": "Chesapeake Bay watershed",
         "lat": 37.8,
         "lon": -76.25,
-        "geo_resolution_source": "city:chesapeake bay"
+        "geo_resolution_source": "city:chesapeake bay",
+        "sector": "Industrial & Manufacturing",
+        "sector_keyword_hits": []
     },
     {
         "event_index": 41,
@@ -543,7 +728,11 @@
         "geography": "Dammam, Saudi Arabia",
         "lat": 26.4207,
         "lon": 50.0888,
-        "geo_resolution_source": "city:dammam"
+        "geo_resolution_source": "city:dammam",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 42,
@@ -556,7 +745,11 @@
         "geography": "Gaza Strip",
         "lat": 31.5017,
         "lon": 34.4668,
-        "geo_resolution_source": "city:gaza"
+        "geo_resolution_source": "city:gaza",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 43,
@@ -569,7 +762,12 @@
         "geography": "Farasan Islands, Saudi Arabia",
         "lat": 16.7027,
         "lon": 42.1187,
-        "geo_resolution_source": "city:farasan"
+        "geo_resolution_source": "city:farasan",
+        "sector": "Consumer, Retail & E-Commerce",
+        "sector_keyword_hits": [
+            "beverage",
+            "shopping"
+        ]
     },
     {
         "event_index": 44,
@@ -582,7 +780,13 @@
         "geography": "Kuwait, southern part",
         "lat": 29.3117,
         "lon": 47.4818,
-        "geo_resolution_source": "country:kuwait"
+        "geo_resolution_source": "country:kuwait",
+        "sector": "Defense, Aerospace & Security",
+        "sector_keyword_hits": [
+            "missile",
+            "air force",
+            "defense"
+        ]
     },
     {
         "event_index": 45,
@@ -595,7 +799,12 @@
         "geography": "India, Israel, Sri Lanka",
         "lat": 20.5937,
         "lon": 78.9629,
-        "geo_resolution_source": "country:india"
+        "geo_resolution_source": "country:india",
+        "sector": "Defense, Aerospace & Security",
+        "sector_keyword_hits": [
+            "army",
+            "navy"
+        ]
     },
     {
         "event_index": 46,
@@ -608,7 +817,14 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Defense, Aerospace & Security",
+        "sector_keyword_hits": [
+            "military",
+            "nuclear",
+            "missile",
+            "defense"
+        ]
     },
     {
         "event_index": 47,
@@ -621,7 +837,12 @@
         "geography": "global",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "gas",
+            "oil"
+        ]
     },
     {
         "event_index": 48,
@@ -634,7 +855,12 @@
         "geography": "United Arab Emirates, South Korea",
         "lat": 23.4241,
         "lon": 53.8478,
-        "geo_resolution_source": "country:united arab emirates"
+        "geo_resolution_source": "country:united arab emirates",
+        "sector": "Defense, Aerospace & Security",
+        "sector_keyword_hits": [
+            "missile",
+            "defense"
+        ]
     },
     {
         "event_index": 49,
@@ -647,7 +873,13 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": [
+            "regulator",
+            "parliament",
+            "sanction"
+        ]
     },
     {
         "event_index": 50,
@@ -660,7 +892,11 @@
         "geography": "Gaza Strip (Northern Gaza Strip)",
         "lat": 31.5017,
         "lon": 34.4668,
-        "geo_resolution_source": "city:gaza"
+        "geo_resolution_source": "city:gaza",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 51,
@@ -673,7 +909,11 @@
         "geography": "Al-Kharj, Saudi Arabia",
         "lat": 23.8859,
         "lon": 45.0792,
-        "geo_resolution_source": "country:saudi arabia"
+        "geo_resolution_source": "country:saudi arabia",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 52,
@@ -686,7 +926,11 @@
         "geography": "Buraidah, Qassim Region, Saudi Arabia",
         "lat": 23.8859,
         "lon": 45.0792,
-        "geo_resolution_source": "country:saudi arabia"
+        "geo_resolution_source": "country:saudi arabia",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 53,
@@ -699,7 +943,13 @@
         "geography": "Riyadh, Saudi Arabia",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Transportation & Logistics",
+        "sector_keyword_hits": [
+            "logistics",
+            "cargo",
+            "port"
+        ]
     },
     {
         "event_index": 54,
@@ -712,7 +962,12 @@
         "geography": "Jeddah, Saudi Arabia",
         "lat": 21.4858,
         "lon": 39.1925,
-        "geo_resolution_source": "city:jeddah"
+        "geo_resolution_source": "city:jeddah",
+        "sector": "Transportation & Logistics",
+        "sector_keyword_hits": [
+            "maritime",
+            "port"
+        ]
     },
     {
         "event_index": 55,
@@ -725,7 +980,11 @@
         "geography": "Turkey",
         "lat": 38.9637,
         "lon": 35.2433,
-        "geo_resolution_source": "country:turkey"
+        "geo_resolution_source": "country:turkey",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 56,
@@ -738,7 +997,11 @@
         "geography": "Kansas City, Missouri, USA",
         "lat": 39.0997,
         "lon": -94.5786,
-        "geo_resolution_source": "city:kansas city"
+        "geo_resolution_source": "city:kansas city",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 57,
@@ -751,7 +1014,11 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Transportation & Logistics",
+        "sector_keyword_hits": [
+            "port"
+        ]
     },
     {
         "event_index": 58,
@@ -764,7 +1031,11 @@
         "geography": "United States, Iran",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Media, Sports & Entertainment",
+        "sector_keyword_hits": [
+            "media"
+        ]
     },
     {
         "event_index": 59,
@@ -777,7 +1048,11 @@
         "geography": "Saudi Arabia",
         "lat": 23.8859,
         "lon": 45.0792,
-        "geo_resolution_source": "country:saudi arabia"
+        "geo_resolution_source": "country:saudi arabia",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 60,
@@ -790,7 +1065,9 @@
         "geography": "Mediterranean Sea",
         "lat": 34.5,
         "lon": 18.0,
-        "geo_resolution_source": "city:mediterranean sea"
+        "geo_resolution_source": "city:mediterranean sea",
+        "sector": "Cross-Sector / Multi-Industry",
+        "sector_keyword_hits": []
     },
     {
         "event_index": 61,
@@ -803,7 +1080,11 @@
         "geography": "New York, United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 62,
@@ -816,7 +1097,11 @@
         "geography": "Bratislava, Slovakia",
         "lat": 48.1486,
         "lon": 17.1077,
-        "geo_resolution_source": "city:bratislava"
+        "geo_resolution_source": "city:bratislava",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "renewable"
+        ]
     },
     {
         "event_index": 63,
@@ -829,7 +1114,11 @@
         "geography": "Fujairah Emirate, United Arab Emirates",
         "lat": 25.1288,
         "lon": 56.3265,
-        "geo_resolution_source": "city:fujairah"
+        "geo_resolution_source": "city:fujairah",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 64,
@@ -842,7 +1131,11 @@
         "geography": "Dubai, United Arab Emirates",
         "lat": 25.2048,
         "lon": 55.2708,
-        "geo_resolution_source": "city:dubai"
+        "geo_resolution_source": "city:dubai",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 65,
@@ -855,7 +1148,11 @@
         "geography": "Italy, United Arab Emirates",
         "lat": 41.8719,
         "lon": 12.5674,
-        "geo_resolution_source": "country:italy"
+        "geo_resolution_source": "country:italy",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": [
+            "sovereign"
+        ]
     },
     {
         "event_index": 66,
@@ -868,7 +1165,11 @@
         "geography": "Abu Dhabi, United Arab Emirates",
         "lat": 24.4539,
         "lon": 54.3773,
-        "geo_resolution_source": "city:abu dhabi"
+        "geo_resolution_source": "city:abu dhabi",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "healthcare"
+        ]
     },
     {
         "event_index": 67,
@@ -881,7 +1182,12 @@
         "geography": "Australia",
         "lat": -25.2744,
         "lon": 133.7751,
-        "geo_resolution_source": "country:australia"
+        "geo_resolution_source": "country:australia",
+        "sector": "Consumer, Retail & E-Commerce",
+        "sector_keyword_hits": [
+            "retail",
+            "brand"
+        ]
     },
     {
         "event_index": 68,
@@ -894,7 +1200,9 @@
         "geography": "Ba\u015fak\u015fehir, Istanbul, Turkey",
         "lat": 38.9637,
         "lon": 35.2433,
-        "geo_resolution_source": "country:turkey"
+        "geo_resolution_source": "country:turkey",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": []
     },
     {
         "event_index": 69,
@@ -907,7 +1215,12 @@
         "geography": "Iraq",
         "lat": 33.2232,
         "lon": 43.6793,
-        "geo_resolution_source": "country:iraq"
+        "geo_resolution_source": "country:iraq",
+        "sector": "Transportation & Logistics",
+        "sector_keyword_hits": [
+            "hormuz",
+            "port"
+        ]
     },
     {
         "event_index": 70,
@@ -920,7 +1233,11 @@
         "geography": "Saudi Arabia",
         "lat": 23.8859,
         "lon": 45.0792,
-        "geo_resolution_source": "country:saudi arabia"
+        "geo_resolution_source": "country:saudi arabia",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 71,
@@ -933,7 +1250,11 @@
         "geography": "Turkish Republic of Northern Cyprus",
         "lat": 35.1264,
         "lon": 33.4299,
-        "geo_resolution_source": "country:cyprus"
+        "geo_resolution_source": "country:cyprus",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 72,
@@ -946,7 +1267,12 @@
         "geography": "AlUla, Saudi Arabia",
         "lat": 23.8859,
         "lon": 45.0792,
-        "geo_resolution_source": "country:saudi arabia"
+        "geo_resolution_source": "country:saudi arabia",
+        "sector": "Industrial & Manufacturing",
+        "sector_keyword_hits": [
+            "production",
+            "plant"
+        ]
     },
     {
         "event_index": 73,
@@ -959,7 +1285,11 @@
         "geography": "Cairo, Egypt; Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 74,
@@ -972,7 +1302,12 @@
         "geography": "Isfahan, Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Transportation & Logistics",
+        "sector_keyword_hits": [
+            "port",
+            "truck"
+        ]
     },
     {
         "event_index": 75,
@@ -985,7 +1320,13 @@
         "geography": "Spain",
         "lat": 40.4637,
         "lon": -3.7492,
-        "geo_resolution_source": "country:spain"
+        "geo_resolution_source": "country:spain",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 76,
@@ -998,7 +1339,11 @@
         "geography": "Mu\u015f",
         "lat": 38.7312,
         "lon": 41.4911,
-        "geo_resolution_source": "city:mu\u015f"
+        "geo_resolution_source": "city:mu\u015f",
+        "sector": "Mining, Metals & Materials",
+        "sector_keyword_hits": [
+            "ore"
+        ]
     },
     {
         "event_index": 77,
@@ -1011,7 +1356,11 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 78,
@@ -1024,7 +1373,11 @@
         "geography": "Jordan",
         "lat": 30.5852,
         "lon": 36.2384,
-        "geo_resolution_source": "country:jordan"
+        "geo_resolution_source": "country:jordan",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 79,
@@ -1037,7 +1390,11 @@
         "geography": "Lebanon",
         "lat": 33.8547,
         "lon": 35.8623,
-        "geo_resolution_source": "country:lebanon"
+        "geo_resolution_source": "country:lebanon",
+        "sector": "Transportation & Logistics",
+        "sector_keyword_hits": [
+            "port"
+        ]
     },
     {
         "event_index": 80,
@@ -1050,7 +1407,12 @@
         "geography": "Tehran, Iran",
         "lat": 35.6892,
         "lon": 51.389,
-        "geo_resolution_source": "city:tehran"
+        "geo_resolution_source": "city:tehran",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai",
+            "cloud"
+        ]
     },
     {
         "event_index": 81,
@@ -1063,7 +1425,11 @@
         "geography": "United Arab Emirates, Kuwait",
         "lat": 23.4241,
         "lon": 53.8478,
-        "geo_resolution_source": "country:united arab emirates"
+        "geo_resolution_source": "country:united arab emirates",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 82,
@@ -1076,7 +1442,11 @@
         "geography": "United Arab Emirates, United Kingdom",
         "lat": 23.4241,
         "lon": 53.8478,
-        "geo_resolution_source": "country:united arab emirates"
+        "geo_resolution_source": "country:united arab emirates",
+        "sector": "Defense, Aerospace & Security",
+        "sector_keyword_hits": [
+            "military"
+        ]
     },
     {
         "event_index": 83,
@@ -1089,7 +1459,13 @@
         "geography": "United Arab Emirates",
         "lat": 23.4241,
         "lon": 53.8478,
-        "geo_resolution_source": "country:united arab emirates"
+        "geo_resolution_source": "country:united arab emirates",
+        "sector": "Transportation & Logistics",
+        "sector_keyword_hits": [
+            "logistics",
+            "cargo",
+            "port"
+        ]
     },
     {
         "event_index": 84,
@@ -1102,7 +1478,12 @@
         "geography": "United Arab Emirates, Togo",
         "lat": 23.4241,
         "lon": 53.8478,
-        "geo_resolution_source": "country:united arab emirates"
+        "geo_resolution_source": "country:united arab emirates",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": [
+            "sovereign",
+            "regulator"
+        ]
     },
     {
         "event_index": 85,
@@ -1115,7 +1496,13 @@
         "geography": "United Arab Emirates, Abu Dhabi",
         "lat": 24.4539,
         "lon": 54.3773,
-        "geo_resolution_source": "city:abu dhabi"
+        "geo_resolution_source": "city:abu dhabi",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": [
+            "sovereign",
+            "law",
+            "ministry"
+        ]
     },
     {
         "event_index": 86,
@@ -1128,7 +1515,11 @@
         "geography": "New York, United States; United Arab Emirates",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": [
+            "regulator"
+        ]
     },
     {
         "event_index": 87,
@@ -1141,7 +1532,11 @@
         "geography": "Riyadh, Saudi Arabia",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 88,
@@ -1154,7 +1549,11 @@
         "geography": "Madinah, Saudi Arabia",
         "lat": 24.5247,
         "lon": 39.5692,
-        "geo_resolution_source": "city:madinah"
+        "geo_resolution_source": "city:madinah",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "pharma"
+        ]
     },
     {
         "event_index": 89,
@@ -1167,7 +1566,11 @@
         "geography": "Riyadh, Saudi Arabia",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "oil"
+        ]
     },
     {
         "event_index": 90,
@@ -1180,7 +1583,12 @@
         "geography": "Riyadh, Saudi Arabia",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "api",
+            "ai"
+        ]
     },
     {
         "event_index": 91,
@@ -1193,7 +1601,11 @@
         "geography": "Farasan, Saudi Arabia",
         "lat": 16.7027,
         "lon": 42.1187,
-        "geo_resolution_source": "city:farasan"
+        "geo_resolution_source": "city:farasan",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 92,
@@ -1206,7 +1618,11 @@
         "geography": "Riyadh, Saudi Arabia",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 93,
@@ -1219,7 +1635,12 @@
         "geography": "Tehran, Iran",
         "lat": 35.6892,
         "lon": 51.389,
-        "geo_resolution_source": "city:tehran"
+        "geo_resolution_source": "city:tehran",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "gas",
+            "oil"
+        ]
     },
     {
         "event_index": 94,
@@ -1232,7 +1653,11 @@
         "geography": "United States, Iran",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 95,
@@ -1245,7 +1670,12 @@
         "geography": "Jeddah, Saudi Arabia",
         "lat": 21.4858,
         "lon": 39.1925,
-        "geo_resolution_source": "city:jeddah"
+        "geo_resolution_source": "city:jeddah",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "platform",
+            "ai"
+        ]
     },
     {
         "event_index": 96,
@@ -1258,7 +1688,12 @@
         "geography": "Israel",
         "lat": 31.0461,
         "lon": 34.8516,
-        "geo_resolution_source": "country:israel"
+        "geo_resolution_source": "country:israel",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "oil",
+            "refinery"
+        ]
     },
     {
         "event_index": 97,
@@ -1271,7 +1706,11 @@
         "geography": "Al-Ahsa, Eastern Region, Saudi Arabia",
         "lat": 23.8859,
         "lon": 45.0792,
-        "geo_resolution_source": "country:saudi arabia"
+        "geo_resolution_source": "country:saudi arabia",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 98,
@@ -1284,7 +1723,11 @@
         "geography": "Riyadh, Saudi Arabia",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 99,
@@ -1297,7 +1740,12 @@
         "geography": "Cyprus",
         "lat": 35.1264,
         "lon": 33.4299,
-        "geo_resolution_source": "country:cyprus"
+        "geo_resolution_source": "country:cyprus",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "platform",
+            "api"
+        ]
     },
     {
         "event_index": 100,
@@ -1310,7 +1758,12 @@
         "geography": "Lebanon",
         "lat": 33.8547,
         "lon": 35.8623,
-        "geo_resolution_source": "country:lebanon"
+        "geo_resolution_source": "country:lebanon",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "api",
+            "ai"
+        ]
     },
     {
         "event_index": 101,
@@ -1323,7 +1776,13 @@
         "geography": "Unknown",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "hospital",
+            "patient",
+            "healthcare"
+        ]
     },
     {
         "event_index": 102,
@@ -1336,7 +1795,13 @@
         "geography": "Riyadh, Saudi Arabia",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "platform",
+            "api",
+            "ai"
+        ]
     },
     {
         "event_index": 103,
@@ -1349,7 +1814,11 @@
         "geography": "Makkah, Saudi Arabia",
         "lat": 21.3891,
         "lon": 39.8579,
-        "geo_resolution_source": "city:makkah"
+        "geo_resolution_source": "city:makkah",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 104,
@@ -1362,7 +1831,11 @@
         "geography": "Makkah, Grand Mosque",
         "lat": 21.3891,
         "lon": 39.8579,
-        "geo_resolution_source": "city:makkah"
+        "geo_resolution_source": "city:makkah",
+        "sector": "Transportation & Logistics",
+        "sector_keyword_hits": [
+            "port"
+        ]
     },
     {
         "event_index": 105,
@@ -1375,7 +1848,13 @@
         "geography": "Jeddah, Saudi Arabia",
         "lat": 21.4858,
         "lon": 39.1925,
-        "geo_resolution_source": "city:jeddah"
+        "geo_resolution_source": "city:jeddah",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 106,
@@ -1388,7 +1867,12 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "gas",
+            "oil"
+        ]
     },
     {
         "event_index": 107,
@@ -1401,7 +1885,12 @@
         "geography": "Tehran, Iran",
         "lat": 35.6892,
         "lon": 51.389,
-        "geo_resolution_source": "city:tehran"
+        "geo_resolution_source": "city:tehran",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "api",
+            "ai"
+        ]
     },
     {
         "event_index": 108,
@@ -1414,7 +1903,11 @@
         "geography": "Russia, China, Iran",
         "lat": 61.524,
         "lon": 105.3188,
-        "geo_resolution_source": "country:russia"
+        "geo_resolution_source": "country:russia",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 109,
@@ -1427,7 +1920,11 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "bond"
+        ]
     },
     {
         "event_index": 110,
@@ -1440,7 +1937,13 @@
         "geography": "Global",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 111,
@@ -1453,7 +1956,11 @@
         "geography": "Bahrain",
         "lat": 25.9304,
         "lon": 50.6378,
-        "geo_resolution_source": "country:bahrain"
+        "geo_resolution_source": "country:bahrain",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 112,
@@ -1466,7 +1973,11 @@
         "geography": "Los Angeles",
         "lat": 34.0522,
         "lon": -118.2437,
-        "geo_resolution_source": "city:los angeles"
+        "geo_resolution_source": "city:los angeles",
+        "sector": "Education & Research",
+        "sector_keyword_hits": [
+            "university"
+        ]
     },
     {
         "event_index": 113,
@@ -1479,7 +1990,11 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Industrial & Manufacturing",
+        "sector_keyword_hits": [
+            "plant"
+        ]
     },
     {
         "event_index": 114,
@@ -1492,7 +2007,11 @@
         "geography": "Cyprus",
         "lat": 35.1264,
         "lon": 33.4299,
-        "geo_resolution_source": "country:cyprus"
+        "geo_resolution_source": "country:cyprus",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 115,
@@ -1505,7 +2024,13 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 116,
@@ -1518,7 +2043,12 @@
         "geography": "Pescara, Italy; Florence, Italy",
         "lat": 43.7696,
         "lon": 11.2558,
-        "geo_resolution_source": "city:florence"
+        "geo_resolution_source": "city:florence",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "api",
+            "ai"
+        ]
     },
     {
         "event_index": 117,
@@ -1531,7 +2061,11 @@
         "geography": "Australia",
         "lat": -25.2744,
         "lon": 133.7751,
-        "geo_resolution_source": "country:australia"
+        "geo_resolution_source": "country:australia",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "diagnostic"
+        ]
     },
     {
         "event_index": 118,
@@ -1544,7 +2078,13 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 119,
@@ -1557,7 +2097,11 @@
         "geography": "Not specified",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 120,
@@ -1570,7 +2114,11 @@
         "geography": "Unknown",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "patient"
+        ]
     },
     {
         "event_index": 121,
@@ -1583,7 +2131,11 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "oil"
+        ]
     },
     {
         "event_index": 122,
@@ -1596,7 +2148,11 @@
         "geography": "Russia",
         "lat": 61.524,
         "lon": 105.3188,
-        "geo_resolution_source": "country:russia"
+        "geo_resolution_source": "country:russia",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "api"
+        ]
     },
     {
         "event_index": 123,
@@ -1609,7 +2165,11 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "drug"
+        ]
     },
     {
         "event_index": 124,
@@ -1622,7 +2182,12 @@
         "geography": "Saudi Arabia, Riyadh",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "api",
+            "ai"
+        ]
     },
     {
         "event_index": 125,
@@ -1635,7 +2200,11 @@
         "geography": "Makkah, Saudi Arabia",
         "lat": 21.3891,
         "lon": 39.8579,
-        "geo_resolution_source": "city:makkah"
+        "geo_resolution_source": "city:makkah",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 126,
@@ -1648,7 +2217,11 @@
         "geography": "Makkah",
         "lat": 21.3891,
         "lon": 39.8579,
-        "geo_resolution_source": "city:makkah"
+        "geo_resolution_source": "city:makkah",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "hospital"
+        ]
     },
     {
         "event_index": 127,
@@ -1661,7 +2234,11 @@
         "geography": "Eastern Region, Saudi Arabia",
         "lat": 23.8859,
         "lon": 45.0792,
-        "geo_resolution_source": "country:saudi arabia"
+        "geo_resolution_source": "country:saudi arabia",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "platform"
+        ]
     },
     {
         "event_index": 128,
@@ -1674,7 +2251,11 @@
         "geography": "Marib, Yemen",
         "lat": 15.5527,
         "lon": 48.5164,
-        "geo_resolution_source": "country:yemen"
+        "geo_resolution_source": "country:yemen",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 129,
@@ -1687,7 +2268,11 @@
         "geography": "Madinah",
         "lat": 24.5247,
         "lon": 39.5692,
-        "geo_resolution_source": "city:madinah"
+        "geo_resolution_source": "city:madinah",
+        "sector": "Mining, Metals & Materials",
+        "sector_keyword_hits": [
+            "ore"
+        ]
     },
     {
         "event_index": 130,
@@ -1700,7 +2285,12 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": [
+            "regulator",
+            "parliament"
+        ]
     },
     {
         "event_index": 131,
@@ -1713,7 +2303,11 @@
         "geography": "Riyadh, Saudi Arabia",
         "lat": 24.7136,
         "lon": 46.6753,
-        "geo_resolution_source": "city:riyadh"
+        "geo_resolution_source": "city:riyadh",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 132,
@@ -1726,7 +2320,11 @@
         "geography": "Rafha, Saudi Arabia",
         "lat": 23.8859,
         "lon": 45.0792,
-        "geo_resolution_source": "country:saudi arabia"
+        "geo_resolution_source": "country:saudi arabia",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "oil"
+        ]
     },
     {
         "event_index": 133,
@@ -1739,7 +2337,11 @@
         "geography": "Atlanta, Georgia, USA",
         "lat": 33.749,
         "lon": -84.388,
-        "geo_resolution_source": "city:atlanta"
+        "geo_resolution_source": "city:atlanta",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 134,
@@ -1752,7 +2354,11 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 135,
@@ -1765,7 +2371,12 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "platform",
+            "ai"
+        ]
     },
     {
         "event_index": 136,
@@ -1778,7 +2389,11 @@
         "geography": "India",
         "lat": 20.5937,
         "lon": 78.9629,
-        "geo_resolution_source": "country:india"
+        "geo_resolution_source": "country:india",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "oil"
+        ]
     },
     {
         "event_index": 137,
@@ -1791,7 +2406,12 @@
         "geography": "Tehran, Iran",
         "lat": 35.6892,
         "lon": 51.389,
-        "geo_resolution_source": "city:tehran"
+        "geo_resolution_source": "city:tehran",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "oil",
+            "refinery"
+        ]
     },
     {
         "event_index": 138,
@@ -1804,7 +2424,12 @@
         "geography": "Iran",
         "lat": 32.4279,
         "lon": 53.688,
-        "geo_resolution_source": "country:iran"
+        "geo_resolution_source": "country:iran",
+        "sector": "Defense, Aerospace & Security",
+        "sector_keyword_hits": [
+            "military",
+            "defense"
+        ]
     },
     {
         "event_index": 139,
@@ -1817,7 +2442,11 @@
         "geography": "unspecified",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "healthcare"
+        ]
     },
     {
         "event_index": 140,
@@ -1830,7 +2459,11 @@
         "geography": "OECD",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": [
+            "regulator"
+        ]
     },
     {
         "event_index": 141,
@@ -1843,7 +2476,13 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "drug",
+            "fda",
+            "oncology"
+        ]
     },
     {
         "event_index": 142,
@@ -1856,7 +2495,11 @@
         "geography": "Turkey",
         "lat": 38.9637,
         "lon": 35.2433,
-        "geo_resolution_source": "country:turkey"
+        "geo_resolution_source": "country:turkey",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 143,
@@ -1869,7 +2512,11 @@
         "geography": "China, global",
         "lat": 35.8617,
         "lon": 104.1954,
-        "geo_resolution_source": "country:china"
+        "geo_resolution_source": "country:china",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 144,
@@ -1882,7 +2529,9 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Cross-Sector / Multi-Industry",
+        "sector_keyword_hits": []
     },
     {
         "event_index": 145,
@@ -1895,7 +2544,12 @@
         "geography": "Frankfurt, Germany",
         "lat": 51.1657,
         "lon": 10.4515,
-        "geo_resolution_source": "country:germany"
+        "geo_resolution_source": "country:germany",
+        "sector": "Industrial & Manufacturing",
+        "sector_keyword_hits": [
+            "industrial",
+            "manufacturing"
+        ]
     },
     {
         "event_index": 146,
@@ -1908,7 +2562,11 @@
         "geography": "Not specified",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "patient"
+        ]
     },
     {
         "event_index": 147,
@@ -1921,7 +2579,13 @@
         "geography": "Virtual",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "patient",
+            "clinical trial",
+            "healthcare"
+        ]
     },
     {
         "event_index": 148,
@@ -1934,7 +2598,11 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 149,
@@ -1947,7 +2615,12 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "patient",
+            "drug"
+        ]
     },
     {
         "event_index": 150,
@@ -1960,7 +2633,11 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "platform"
+        ]
     },
     {
         "event_index": 151,
@@ -1973,7 +2650,11 @@
         "geography": "unknown",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "gas"
+        ]
     },
     {
         "event_index": 152,
@@ -1986,7 +2667,13 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 153,
@@ -1999,7 +2686,11 @@
         "geography": "global",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "drug"
+        ]
     },
     {
         "event_index": 154,
@@ -2012,7 +2703,9 @@
         "geography": "Unknown",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Cross-Sector / Multi-Industry",
+        "sector_keyword_hits": []
     },
     {
         "event_index": 155,
@@ -2025,7 +2718,12 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "drug",
+            "fda"
+        ]
     },
     {
         "event_index": 156,
@@ -2038,7 +2736,11 @@
         "geography": "National",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "diagnostic"
+        ]
     },
     {
         "event_index": 157,
@@ -2051,7 +2753,11 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "api"
+        ]
     },
     {
         "event_index": 158,
@@ -2064,7 +2770,12 @@
         "geography": "Global",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "api",
+            "ai"
+        ]
     },
     {
         "event_index": 159,
@@ -2077,7 +2788,11 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "hospital"
+        ]
     },
     {
         "event_index": 160,
@@ -2090,7 +2805,11 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "pharma"
+        ]
     },
     {
         "event_index": 161,
@@ -2103,7 +2822,13 @@
         "geography": "Chile",
         "lat": -35.6751,
         "lon": -71.543,
-        "geo_resolution_source": "country:chile"
+        "geo_resolution_source": "country:chile",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 162,
@@ -2116,7 +2841,12 @@
         "geography": "Japan",
         "lat": 36.2048,
         "lon": 138.2529,
-        "geo_resolution_source": "country:japan"
+        "geo_resolution_source": "country:japan",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "api",
+            "ai"
+        ]
     },
     {
         "event_index": 163,
@@ -2129,7 +2859,9 @@
         "geography": "unknown",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Cross-Sector / Multi-Industry",
+        "sector_keyword_hits": []
     },
     {
         "event_index": 164,
@@ -2142,7 +2874,12 @@
         "geography": "unknown",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "patient",
+            "healthcare"
+        ]
     },
     {
         "event_index": 165,
@@ -2155,7 +2892,11 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "drug"
+        ]
     },
     {
         "event_index": 166,
@@ -2168,7 +2909,11 @@
         "geography": "MJ",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "unresolved"
+        "geo_resolution_source": "unresolved",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 167,
@@ -2181,7 +2926,13 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 168,
@@ -2194,7 +2945,11 @@
         "geography": "unspecified",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 169,
@@ -2207,7 +2962,13 @@
         "geography": "Unknown",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance"
+        ]
     },
     {
         "event_index": 170,
@@ -2220,7 +2981,11 @@
         "geography": "United States",
         "lat": 39.8283,
         "lon": -98.5795,
-        "geo_resolution_source": "country:united states"
+        "geo_resolution_source": "country:united states",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 171,
@@ -2233,7 +2998,11 @@
         "geography": "North America, Western Europe",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 172,
@@ -2246,7 +3015,12 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Industrial & Manufacturing",
+        "sector_keyword_hits": [
+            "production",
+            "plant"
+        ]
     },
     {
         "event_index": 173,
@@ -2259,7 +3033,11 @@
         "geography": "China",
         "lat": 35.8617,
         "lon": 104.1954,
-        "geo_resolution_source": "country:china"
+        "geo_resolution_source": "country:china",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "oil"
+        ]
     },
     {
         "event_index": 174,
@@ -2272,7 +3050,11 @@
         "geography": "unspecified",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "drug"
+        ]
     },
     {
         "event_index": 175,
@@ -2285,7 +3067,11 @@
         "geography": "Asia-Pacific region",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "utility"
+        ]
     },
     {
         "event_index": 176,
@@ -2298,7 +3084,12 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "patient",
+            "clinical trial"
+        ]
     },
     {
         "event_index": 177,
@@ -2311,7 +3102,11 @@
         "geography": "",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "utility"
+        ]
     },
     {
         "event_index": 178,
@@ -2324,7 +3119,11 @@
         "geography": "Canada",
         "lat": 56.1304,
         "lon": -106.3468,
-        "geo_resolution_source": "country:canada"
+        "geo_resolution_source": "country:canada",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "diagnostic"
+        ]
     },
     {
         "event_index": 179,
@@ -2337,7 +3136,12 @@
         "geography": "France (Croix-Rousse, Lyon Sud)",
         "lat": 46.2276,
         "lon": 2.2137,
-        "geo_resolution_source": "country:france"
+        "geo_resolution_source": "country:france",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "hospital",
+            "patient"
+        ]
     },
     {
         "event_index": 180,
@@ -2350,7 +3154,11 @@
         "geography": "Global",
         "lat": 20.0,
         "lon": 0.0,
-        "geo_resolution_source": "global-default"
+        "geo_resolution_source": "global-default",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "diagnostic"
+        ]
     },
     {
         "event_index": 181,
@@ -2363,7 +3171,11 @@
         "geography": "China",
         "lat": 35.8617,
         "lon": 104.1954,
-        "geo_resolution_source": "country:china"
+        "geo_resolution_source": "country:china",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     },
     {
         "event_index": 182,
@@ -2376,7 +3188,9 @@
         "geography": "China",
         "lat": 35.8617,
         "lon": 104.1954,
-        "geo_resolution_source": "country:china"
+        "geo_resolution_source": "country:china",
+        "sector": "Government, Public Policy & Regulatory",
+        "sector_keyword_hits": []
     },
     {
         "event_index": 183,
@@ -2389,7 +3203,11 @@
         "geography": "Unknown",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Energy & Utilities",
+        "sector_keyword_hits": [
+            "power grid"
+        ]
     },
     {
         "event_index": 184,
@@ -2402,7 +3220,11 @@
         "geography": "Nigeria",
         "lat": 9.082,
         "lon": 8.6753,
-        "geo_resolution_source": "country:nigeria"
+        "geo_resolution_source": "country:nigeria",
+        "sector": "Mining, Metals & Materials",
+        "sector_keyword_hits": [
+            "ore"
+        ]
     },
     {
         "event_index": 185,
@@ -2415,7 +3237,11 @@
         "geography": "Guangzhou, Guangdong, China",
         "lat": 23.1291,
         "lon": 113.2644,
-        "geo_resolution_source": "city:guangdong"
+        "geo_resolution_source": "city:guangdong",
+        "sector": "Healthcare & Life Sciences",
+        "sector_keyword_hits": [
+            "drug"
+        ]
     },
     {
         "event_index": 186,
@@ -2428,7 +3254,14 @@
         "geography": "Unknown",
         "lat": null,
         "lon": null,
-        "geo_resolution_source": "none"
+        "geo_resolution_source": "none",
+        "sector": "Financial Services",
+        "sector_keyword_hits": [
+            "treasury",
+            "capital",
+            "finance",
+            "bond"
+        ]
     },
     {
         "event_index": 187,
@@ -2441,6 +3274,10 @@
         "geography": "Jizan, Saudi Arabia",
         "lat": 23.8859,
         "lon": 45.0792,
-        "geo_resolution_source": "country:saudi arabia"
+        "geo_resolution_source": "country:saudi arabia",
+        "sector": "Technology & Telecommunications",
+        "sector_keyword_hits": [
+            "ai"
+        ]
     }
 ]

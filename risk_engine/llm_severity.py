@@ -594,7 +594,7 @@ if __name__ == "__main__":
     output_sector = os.path.join(
         base_dir,
         "data",
-        tag_filename(f"sector_top_{SECTOR_TOP_N}_risks.json"),
+        tag_filename("sector_top_10_risks.json"),
     )
 
     print("\n================ EVENT SEVERITY ENGINE ================\n")

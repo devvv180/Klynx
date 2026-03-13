@@ -1,170 +1,209 @@
 {
   "companyOverview": {
-    "primaryIndustry": "Energy & Utilities",
-    "secondaryIndustry": "Consumer & Retail",
+    "primaryIndustry": "Pharmaceuticals & Life Sciences",
+    "secondaryIndustry": "Generic Medicines Manufacturing",
     "selectedRegions": [
-      "Middle East",
       "South Asia",
-      "Southeast Asia"
+      "East Asia",
+      "North America",
+      "Europe"
     ],
     "regionalExposure": {
-      "Middle East": {
+      "South Asia": {
+        "channels": [
+          "Operational / Production Activity",
+          "Manufacturing Base"
+        ],
+        "importance": "Level 4: Core (Enterprise continuity dependent)",
+        "operations": {
+          "dependency": "Level 4: Complete operational dependency",
+          "replaceTime": "Level 4: More than 24 months",
+          "facilityCount": "2 plants (Hyderabad, Vizag)",
+          "regulatoryStatus": "US FDA approved facilities"
+        },
+        "manufacturing": {
+          "criticality": "Level 4: Only production facilities",
+          "capacity": "100% of production capacity",
+          "coastalExposure": "Level 3: Vizag plant on coast, flood risk"
+        }
+      },
+      "East Asia": {
         "channels": [
           "Strategic Sourcing / Procurement",
-          "Distribution / Logistics Hub"
+          "Raw Material Supply"
         ],
         "importance": "Level 4: Core (Enterprise continuity dependent)",
         "sourcing": {
-          "concentration": "Level 3: High concentration",
-          "availability": "Level 2: Partially substitutable"
+          "concentration": "Level 4: Single region, high concentration",
+          "availability": "Level 3: Difficult to substitute (12-month qualification)",
+          "leadTime": "Level 3: 7-8 weeks (increased from 4-5 weeks)",
+          "supplierRelationship": "Long-term but unpredictable prioritization"
         },
         "logistics": {
-          "criticality": "Level 3: Major distribution hub",
-          "replaceTime": "Level 2: 1–3 months",
-          "infraDependency": "Level 2: Moderate dependency"
+          "criticality": "Level 4: Critical supply route",
+          "costIncrease": "Level 3: 20%+ freight cost increase",
+          "routeRisk": "Level 3: Shipping routes through sensitive areas"
         }
       },
-      "South Asia": {
+      "North America": {
         "channels": [
           "Revenue Market",
-          "Operational / Production Activity"
+          "Regulatory Jurisdiction"
+        ],
+        "importance": "Level 4: Core (Enterprise continuity dependent)",
+        "revenue": {
+          "contribution": "Level 4: 40% of total revenue",
+          "concentration": "Level 2: Moderate customer concentration",
+          "paymentTerms": "Level 3: Extended payment cycles"
+        },
+        "regulatory": {
+          "criticality": "Level 4: FDA approval required for operations",
+          "inspectionStatus": "Level 3: Recent observations, pending clearance",
+          "revenueAtRisk": "Level 4: 400 crore if approval restricted"
+        }
+      },
+      "Europe": {
+        "channels": [
+          "Revenue Market",
+          "Regulatory Jurisdiction"
         ],
         "importance": "Level 3: Significant (Important but replaceable with disruption)",
         "revenue": {
-          "contribution": "Level 4: More than 50%",
-          "concentration": "Level 1: Highly diversified customer base"
+          "contribution": "Level 3: 18% of total revenue",
+          "concentration": "Level 2: Contract manufacturing clients"
         },
-        "operations": {
-          "dependency": "Level 3: Severe operational disruption",
-          "replaceTime": "Level 3: More than 12 months",
-          "energyIntensity": "Level 3: High"
-        }
-      },
-      "Southeast Asia": {
-        "channels": [
-          "Technology / Data Infrastructure"
-        ],
-        "importance": "Level 3: Significant (Important but replaceable with disruption)",
-        "technology": {
-          "criticality": "Level 3: Core business systems",
-          "redundancy": "Level 3: Minimal redundancy"
+        "regulatory": {
+          "criticality": "Level 3: New traceability and environmental standards",
+          "complianceCost": "Level 2: Moderate compliance investment required"
         }
       }
     },
     "enterpriseMultipliers": {
-      "1.5: Cross-Border Operational Dependency": "Level 2: Moderate",
-      "1.6: Financial Leverage Exposure": "Level 1: Low leverage",
-      "1.7: Revenue Diversification Profile": "Level 1: Highly diversified across markets and customers"
+      "1.5: Cross-Border Operational Dependency": "Level 4: High (source China, manufacture India, sell US/Europe)",
+      "1.6: Financial Leverage Exposure": "Level 3: Moderate (working capital squeeze from inventory + payment delays)",
+      "1.7: Revenue Diversification Profile": "Level 2: Moderate (40% US, 18% Europe, rest domestic)"
     }
   },
   "workforceExposure": {
-    "2.1: Total Global Workforce Size": "Level 4: More than 100,000",
-    "2.2: Workforce Geographic Concentration": "Level 3: Concentrated in 1–2 regions",
-    "2.3: Dependence on Specialized Talent": "Level 2: Moderate",
-    "2.4: Exposure to Organized Labor": "Level 3: Significant union presence",
-    "2.5: Operational Flexibility": "Level 2: Moderately flexible",
+    "2.1: Total Global Workforce Size": "Level 3: 1,000–10,000",
+    "2.2: Workforce Geographic Concentration": "Level 4: Concentrated in single region (Andhra Pradesh)",
+    "2.3: Dependence on Specialized Talent": "Level 3: High (R&D scientists, regulatory affairs specialists)",
+    "2.4: Exposure to Organized Labor": "Level 3: Significant (contractor workforce at Vizag)",
+    "2.5: Operational Flexibility": "Level 3: Limited (2 plants only, no backup capacity)",
     "2.6: Workforce Cost Flexibility": "Level 2: Moderately flexible",
-    "2.7: Reputational Sensitivity": "Level 2: Moderate"
+    "2.7: Reputational Sensitivity": "Level 3: High (pharma industry, FDA scrutiny)"
   },
   "financialExposure": {
     "3.1: Capital Structure Profile": "Level 2: Moderate reliance",
-    "3.2: Liquidity Resilience": "Level 2: Adequate buffer",
-    "3.3: Revenue Predictability": "Level 3: Cyclical",
-    "3.4: Cost Structure Flexibility": "Level 3: Limited flexibility",
-    "3.5: Foreign Exchange Exposure": "Level 3: Significant exposure",
-    "3.6: Pricing Power": "Level 3: Limited pricing power",
-    "3.7: Access to Capital Markets": "Level 3: Limited access"
+    "3.2: Liquidity Resilience": "Level 3: Strained (working capital squeeze from inventory + payment delays)",
+    "3.3: Revenue Predictability": "Level 3: Cyclical (dependent on regulatory approvals)",
+    "3.4: Cost Structure Flexibility": "Level 3: Limited (freight costs up 20%, absorbing increases)",
+    "3.5: Foreign Exchange Exposure": "Level 4: Very high (export 66%, import raw materials)",
+    "3.6: Pricing Power": "Level 3: Limited (generic medicines, domestic price controls)",
+    "3.7: Access to Capital Markets": "Level 2: Moderate access"
   },
   "supplyChainExposure": {
-    "4.1: Critical Input Concentration": "Level 3: Concentrated in few suppliers/regions",
-    "4.2: Geographic Spread of Sourcing": "Level 4: Concentrated in one region with high geopolitical risk",
-    "4.3: Logistics Network Dependency": "Level 3: High dependence",
-    "4.4: Supplier Replacement Feasibility": "Level 2: Within 6–12 months",
-    "4.5: Energy Supply Sensitivity": "Level 3: High sensitivity",
-    "4.6: Reliance on Service Providers": "Level 3: High",
-    "4.7: Inventory Buffer Resilience": "Level 2: Moderate buffer"
+    "4.1: Critical Input Concentration": "Level 4: Very high (most key ingredients from China)",
+    "4.2: Geographic Spread of Sourcing": "Level 4: Concentrated in one region with high geopolitical risk (China)",
+    "4.3: Logistics Network Dependency": "Level 4: Very high (single route China → India, 20% cost increase)",
+    "4.4: Supplier Replacement Feasibility": "Level 4: Very difficult (12-month qualification for alternates)",
+    "4.5: Energy Supply Sensitivity": "Level 2: Moderate",
+    "4.6: Reliance on Service Providers": "Level 3: High (freight forwarders, logistics)",
+    "4.7: Inventory Buffer Resilience": "Level 3: Increased but straining working capital"
   },
   "technologyExposure": {
-    "5.1: Digital Dependency": "Level 1: Low – Digital supports but does not drive operations",
-    "5.2: Cloud Infrastructure Concentration": "Level 1: Multi-cloud diversified",
-    "5.3: Cyber Threat Exposure": "Level 1: Limited exposure",
-    "5.4: Data Regulation Complexity": "Level 1: Operates within single regulatory regime",
-    "5.5: Digital Redundancy": "Level 1: Fully redundant with tested recovery",
-    "5.6: Dependence on AI": "Level 1: Minimal reliance"
+    "5.1: Digital Dependency": "Level 3: High (SAP ERP, traceability systems required for US)",
+    "5.2: Cloud Infrastructure Concentration": "Level 2: Moderate (SAP on cloud)",
+    "5.3: Cyber Threat Exposure": "Level 3: High (2 security incidents, legacy systems at Vizag)",
+    "5.4: Data Regulation Complexity": "Level 3: High (US traceability, EU standards, multi-jurisdiction)",
+    "5.5: Digital Redundancy": "Level 3: Limited (legacy manufacturing floor systems)",
+    "5.6: Dependence on AI": "Level 2: Moderate (piloting AI quality detection)"
   },
   "regulatoryExposure": {
-    "6.1: Core Regulatory Intensity": "Level 2: Moderate oversight",
-    "6.2: Jurisdiction Complexity": "Level 3: Multi-country regulators",
-    "6.3: Licensing Dependency": "Level 2: Moderate reliance",
-    "6.4: Enforcement & Compliance Risk": "Level 2: Moderate financial impact",
-    "6.5: Exposure to Policy Shifts": "Level 3: High exposure",
-    "6.6: Government Revenue Dependence": "Level 3: Significant exposure"
+    "6.1: Core Regulatory Intensity": "Level 4: Very high (FDA, EU pharma regulations)",
+    "6.2: Jurisdiction Complexity": "Level 4: Very high (US FDA, EU, India regulators)",
+    "6.3: Licensing Dependency": "Level 4: Critical (FDA approval required for US sales - 40% revenue)",
+    "6.4: Enforcement & Compliance Risk": "Level 4: Very high (400 crore revenue at risk)",
+    "6.5: Exposure to Policy Shifts": "Level 4: Very high (traceability rules, environmental standards, price controls)",
+    "6.6: Government Revenue Dependence": "Level 2: Moderate (some domestic sales)"
   },
   "customExposures": [],
   "mappedScores": {
-    "1.5": 0.5,
-    "1.6": 0.2,
-    "1.7": 0.15,
-    "2.2": 0.75,
-    "2.3": 0.5,
+    "1.5": 0.85,
+    "1.6": 0.65,
+    "1.7": 0.5,
+    "2.1": 0.65,
+    "2.2": 0.85,
+    "2.3": 0.75,
     "2.4": 0.75,
     "2.5": 0.75,
     "2.6": 0.5,
-    "3.1": 0.45,
-    "3.2": 0.4,
-    "3.3": 0.7,
-    "3.4": 0.5,
-    "3.5": 0.7,
-    "3.6": 0.5,
+    "2.7": 0.75,
+    "3.1": 0.5,
+    "3.2": 0.75,
+    "3.3": 0.75,
+    "3.4": 0.75,
+    "3.5": 0.9,
+    "3.6": 0.75,
     "3.7": 0.5,
-    "4.1": 0.75,
-    "4.2": 1,
-    "4.3": 0.75,
-    "4.4": 0.35,
-    "4.5": 0.75,
+    "4.1": 0.9,
+    "4.2": 1.0,
+    "4.3": 0.9,
+    "4.4": 0.9,
+    "4.5": 0.5,
     "4.6": 0.75,
-    "4.7": 0.7,
-    "5.1": 0.25,
-    "5.2": 0.05,
-    "5.3": 0.25,
-    "5.4": 0.25,
-    "5.5": 1,
-    "5.6": 0.25,
-    "6.1": 0.5,
-    "6.2": 0.75,
-    "6.3": 0.3,
-    "6.4": 0.5,
-    "6.5": 0.75,
-    "6.6": 0.7,
-    "1.4.C:Middle East": null,
-    "1.4.D:Middle East": null,
-    "1.4.E:Middle East": null,
-    "1.4.F:Middle East": null,
-    "1.4.G:Middle East": null,
-    "1.4.H:Middle East": 0.75,
-    "1.4.I:Middle East": 0.35,
-    "1.4.J:Middle East": 0.75,
-    "1.4.K:Middle East": null,
-    "1.4.L:Middle East": null,
-    "1.4.C:South Asia": 0.05,
-    "1.4.D:South Asia": 1,
-    "1.4.E:South Asia": 0.75,
-    "1.4.F:South Asia": 0.75,
+    "4.7": 0.75,
+    "5.1": 0.75,
+    "5.2": 0.5,
+    "5.3": 0.75,
+    "5.4": 0.75,
+    "5.5": 0.75,
+    "5.6": 0.5,
+    "6.1": 0.9,
+    "6.2": 0.9,
+    "6.3": 0.9,
+    "6.4": 0.9,
+    "6.5": 0.9,
+    "6.6": 0.5,
+    "1.4.C:South Asia": 1.0,
+    "1.4.D:South Asia": 1.0,
+    "1.4.E:South Asia": 0.85,
+    "1.4.F:South Asia": 0.85,
     "1.4.G:South Asia": 0.75,
     "1.4.H:South Asia": null,
     "1.4.I:South Asia": null,
     "1.4.J:South Asia": null,
     "1.4.K:South Asia": null,
     "1.4.L:South Asia": null,
-    "1.4.C:Southeast Asia": null,
-    "1.4.D:Southeast Asia": null,
-    "1.4.E:Southeast Asia": null,
-    "1.4.F:Southeast Asia": null,
-    "1.4.G:Southeast Asia": null,
-    "1.4.H:Southeast Asia": null,
-    "1.4.I:Southeast Asia": null,
-    "1.4.J:Southeast Asia": null,
-    "1.4.K:Southeast Asia": 0.4,
-    "1.4.L:Southeast Asia": null
+    "1.4.C:East Asia": null,
+    "1.4.D:East Asia": null,
+    "1.4.E:East Asia": null,
+    "1.4.F:East Asia": null,
+    "1.4.G:East Asia": null,
+    "1.4.H:East Asia": 1.0,
+    "1.4.I:East Asia": 0.9,
+    "1.4.J:East Asia": 0.9,
+    "1.4.K:East Asia": null,
+    "1.4.L:East Asia": null,
+    "1.4.C:North America": 0.9,
+    "1.4.D:North America": null,
+    "1.4.E:North America": null,
+    "1.4.F:North America": null,
+    "1.4.G:North America": null,
+    "1.4.H:North America": null,
+    "1.4.I:North America": null,
+    "1.4.J:North America": null,
+    "1.4.K:North America": null,
+    "1.4.L:North America": 0.9,
+    "1.4.C:Europe": 0.6,
+    "1.4.D:Europe": null,
+    "1.4.E:Europe": null,
+    "1.4.F:Europe": null,
+    "1.4.G:Europe": null,
+    "1.4.H:Europe": null,
+    "1.4.I:Europe": null,
+    "1.4.J:Europe": null,
+    "1.4.K:Europe": null,
+    "1.4.L:Europe": 0.75
   }
 }
